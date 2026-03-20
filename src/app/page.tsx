@@ -325,8 +325,11 @@ export default function Home() {
       </main>
 
       <footer className="border-t border-zinc-900/80 bg-zinc-950/90">
-        <div className="mx-auto flex max-w-6xl flex-col items-center justify-between gap-3 px-4 py-4 text-[11px] text-zinc-500 md:flex-row md:px-6">
+        <div className="mx-auto flex max-w-6xl flex-col items-center justify-between gap-3 px-4 py-4 text-[11px] text-zinc-500 md:px-6">
           <p>© {new Date().getFullYear()} StreamBay. All rights reserved.</p>
+          <p className="text-center text-[10px] text-zinc-600">
+            We do not host any pirated content on our website or promote piracy. We redirect to content that is already on the internet.
+          </p>
           <p className="text-[10px] text-zinc-600">
             Data is fetched from your Supabase Postgres tables.
           </p>

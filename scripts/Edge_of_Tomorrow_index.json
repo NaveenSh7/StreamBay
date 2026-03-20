@@ -1,0 +1,68 @@
+{
+  "media_type": "movie",
+  "metadata": {
+    "tmdb_id": 137113,
+    "imdb_id": "tt1631867",
+    "title": "Edge of Tomorrow",
+    "overview": "Major Bill Cage is an officer who has never seen a day of combat when he is unceremoniously demoted and dropped into combat. Cage is killed within minutes, managing to take an alpha alien down with him. He awakens back at the beginning of the same day and is forced to fight and die again... and again - as physical contact with the alien has thrown him into a time loop.",
+    "poster": "https://image.tmdb.org/t/p/w500/nBM9MMa2WCwvMG4IJ3eiGUdbPe6.jpg",
+    "year": "2014",
+    "rating": 7.635,
+    "status": "Released",
+    "genres": [
+      "Action",
+      "Science Fiction"
+    ],
+    "runtime": 114,
+    "tagline": "Live. Die. Repeat.",
+    "trailer": "https://youtube.com/watch?v=eb8wTIcGLgQ",
+    "cast": [
+      "Tom Cruise",
+      "Emily Blunt",
+      "Brendan Gleeson",
+      "Bill Paxton",
+      "Jonas Armstrong",
+      "Tony Way",
+      "Kick Gurry",
+      "Franz Drameh"
+    ]
+  },
+  "embed_links": [
+    {
+      "provider": "VidSrc.me",
+      "url": "https://vidsrc.me/embed/movie?tmdb=137113"
+    },
+    {
+      "provider": "VidSrc.cc  (v2)",
+      "url": "https://vidsrc.cc/v2/embed/movie/137113"
+    },
+    {
+      "provider": "VidSrc.cc  (v3)",
+      "url": "https://vidsrc.cc/v3/embed/movie/137113"
+    },
+    {
+      "provider": "VidLink.pro",
+      "url": "https://vidlink.pro/movie/137113"
+    },
+    {
+      "provider": "AutoEmbed.cc",
+      "url": "https://autoembed.cc/movie/tmdb/137113"
+    },
+    {
+      "provider": "2Embed.cc",
+      "url": "https://www.2embed.cc/embed/tt1631867"
+    },
+    {
+      "provider": "Videasy",
+      "url": "https://player.videasy.net/movie/137113"
+    },
+    {
+      "provider": "VidSrc.pro",
+      "url": "https://vidsrc.pro/embed/movie/137113"
+    },
+    {
+      "provider": "SuperEmbed",
+      "url": "https://www.superembed.stream/embed/tmdb:137113"
+    }
+  ]
+}
