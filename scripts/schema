@@ -1,0 +1,90 @@
+-- ══════════════════════════════════════════════════════════════════
+--  schema.sql  —  Run this ONCE in Supabase SQL Editor
+--  Dashboard → SQL Editor → paste this → Run
+-- ══════════════════════════════════════════════════════════════════
+
+-- ─── 1. series ────────────────────────────────────────────────────
+CREATE TABLE IF NOT EXISTS series (
+    id              BIGSERIAL       PRIMARY KEY,
+    tmdb_id         INTEGER         NOT NULL UNIQUE,
+    title           TEXT            NOT NULL,
+    overview        TEXT,
+    poster          TEXT,
+    year            TEXT,
+    rating          NUMERIC(3,1),
+    status          TEXT,
+    genres          JSONB           DEFAULT '[]',
+    total_seasons   INTEGER,
+    total_episodes  INTEGER,
+    created_at      TIMESTAMPTZ     DEFAULT NOW()
+);
+
+-- ─── 2. seasons ───────────────────────────────────────────────────
+CREATE TABLE IF NOT EXISTS seasons (
+    id              BIGSERIAL       PRIMARY KEY,
+    series_id       BIGINT          NOT NULL REFERENCES series(id) ON DELETE CASCADE,
+    season_number   INTEGER         NOT NULL,
+    name            TEXT,
+    air_date        TEXT,
+    poster          TEXT,
+    episode_count   INTEGER,
+    UNIQUE (series_id, season_number)
+);
+
+-- ─── 3. episodes ──────────────────────────────────────────────────
+CREATE TABLE IF NOT EXISTS episodes (
+    id              BIGSERIAL       PRIMARY KEY,
+    season_id       BIGINT          NOT NULL REFERENCES seasons(id) ON DELETE CASCADE,
+    series_id       BIGINT          NOT NULL REFERENCES series(id) ON DELETE CASCADE,
+    season_number   INTEGER         NOT NULL,
+    episode_number  INTEGER         NOT NULL,
+    title           TEXT,
+    air_date        TEXT,
+    still_image     TEXT,
+    rating          NUMERIC(3,1),
+    UNIQUE (series_id, season_number, episode_number)
+);
+
+-- ─── 4. embed_links ───────────────────────────────────────────────
+CREATE TABLE IF NOT EXISTS embed_links (
+    id              BIGSERIAL       PRIMARY KEY,
+    episode_id      BIGINT          NOT NULL REFERENCES episodes(id) ON DELETE CASCADE,
+    provider        TEXT            NOT NULL,
+    url             TEXT            NOT NULL,
+    UNIQUE (episode_id, provider)
+);
+
+-- ─── Indexes ──────────────────────────────────────────────────────
+CREATE INDEX IF NOT EXISTS idx_series_tmdb      ON series(tmdb_id);
+CREATE INDEX IF NOT EXISTS idx_seasons_series   ON seasons(series_id);
+CREATE INDEX IF NOT EXISTS idx_episodes_series  ON episodes(series_id);
+CREATE INDEX IF NOT EXISTS idx_episodes_season  ON episodes(season_id);
+CREATE INDEX IF NOT EXISTS idx_embed_episode    ON embed_links(episode_id);
+
+-- ══════════════════════════════════════════════════════════════════
+--  Useful frontend queries
+-- ══════════════════════════════════════════════════════════════════
+
+-- All series (listing page):
+-- SELECT id, title, poster, year, rating, genres, total_seasons, total_episodes
+-- FROM series ORDER BY title;
+
+-- Seasons for a show:
+-- SELECT * FROM seasons WHERE series_id = $1 ORDER BY season_number;
+
+-- Episodes in a season:
+-- SELECT * FROM episodes
+-- WHERE series_id = $1 AND season_number = $2
+-- ORDER BY episode_number;
+
+-- Embed links for one episode:
+-- SELECT provider, url FROM embed_links WHERE episode_id = $1;
+
+-- Full player page in ONE query:
+-- SELECT e.*, array_agg(
+--     json_build_object('provider', el.provider, 'url', el.url)
+-- ) AS links
+-- FROM episodes e
+-- JOIN embed_links el ON el.episode_id = e.id
+-- WHERE e.series_id = $1 AND e.season_number = $2 AND e.episode_number = $3
+-- GROUP BY e.id;
