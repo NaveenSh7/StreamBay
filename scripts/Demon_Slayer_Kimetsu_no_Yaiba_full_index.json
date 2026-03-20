@@ -1,0 +1,2768 @@
+{
+  "metadata": {
+    "tmdb_id": 85937,
+    "imdb_id": "tt9335498",
+    "title": "Demon Slayer: Kimetsu no Yaiba",
+    "original_name": "鬼滅の刃",
+    "overview": "After a demon attack leaves his family slain and his sister cursed, Tanjiro embarks upon a perilous journey to find a cure and avenge those he's lost.",
+    "status": "Ended",
+    "first_aired": "2019-04-06",
+    "last_aired": "2024-06-30",
+    "rating": 8.632,
+    "votes": 7106,
+    "genres": [
+      "Animation",
+      "Action & Adventure",
+      "Sci-Fi & Fantasy"
+    ],
+    "networks": [
+      "Fuji TV",
+      "Gunma TV",
+      "Tokyo MX",
+      "BS11",
+      "Tokai Television Broadcasting",
+      "Kansai TV",
+      "Tochigi TV",
+      "Fukui TV",
+      "Hokkaido Cultural Broadcasting",
+      "Iwate Menkoi Television",
+      "TOS",
+      "Sendai Television",
+      "SAGA TV",
+      "Ishikawa TV",
+      "TNC",
+      "OHK",
+      "Kochi Sun Sun Broadcasting",
+      "Television Shin Hiroshima System",
+      "TV Shizuoka",
+      "UMK TV Miyazaki",
+      "NST",
+      "NBS",
+      "Sakuranbo TV",
+      "TSK",
+      "Ehime Broadcasting",
+      "KTS",
+      "Fukushima TV",
+      "NIB",
+      "KKT",
+      "AKT",
+      "Toyama Television",
+      "TV Kumamoto",
+      "Okinawa Television Broadcasting"
+    ],
+    "languages": [
+      {
+        "english_name": "Japanese",
+        "iso_639_1": "ja",
+        "name": "日本語"
+      }
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/xUfRZu2mi8jH6SzQEJGP6tjBuYj.jpg",
+    "total_seasons": 5,
+    "total_episodes": 63,
+    "indexed_seasons": 5,
+    "embed_providers": [
+      "VidSrc.me",
+      "VidSrc.cc (v2)",
+      "VidSrc.cc (v3)",
+      "VidLink.pro",
+      "AutoEmbed.cc",
+      "Videasy",
+      "VidSrc.pro",
+      "2Embed.cc"
+    ]
+  },
+  "seasons": [
+    {
+      "season": 1,
+      "name": "Unwavering Resolve Arc",
+      "air_date": "2019-04-06",
+      "poster": "https://image.tmdb.org/t/p/w500/bV0ZCL0IqrTQKClu6EtXlZaJevD.jpg",
+      "episode_count": 26,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "Cruelty",
+          "air_date": "2019-04-06",
+          "rating": 7.92,
+          "overview": "It is the Taisho Period (i.e. 1912-1926). Tanjiro Kamado is living a modest but blissful life in the mountains with his family. One day, when he returns from selling charcoal in town, he finds the remains of his slaughtered family in pools of blood after a demon attack. Tanjiro rushes down the snowy mountain with the sole survivor, his sister Nezuko, on his back. But on the way, Nezuko suddenly snarls, turning on Tanjiro.",
+          "still_image": "https://image.tmdb.org/t/p/w500/l2C38X6RsbD5gom4iGvFe6yuPEy.jpg",
+          "embed_links": [
+            {
+              "provider": "VidSrc.me",
+              "url": "https://vidsrc.me/embed/tv?tmdb=85937&season=1&episode=1"
+            },
+            {
+              "provider": "VidSrc.cc (v2)",
+              "url": "https://vidsrc.cc/v2/embed/tv/85937/1/1"
+            },
+            {
+              "provider": "VidSrc.cc (v3)",
+              "url": "https://vidsrc.cc/v3/embed/tv/85937/1/1"
+            },
+            {
+              "provider": "VidLink.pro",
+              "url": "https://vidlink.pro/tv/85937/1/1"
+            },
+            {
+              "provider": "AutoEmbed.cc",
+              "url": "https://autoembed.cc/tv/tmdb/85937-1-1"
+            },
+            {
+              "provider": "Videasy",
+              "url": "https://player.videasy.net/tv/85937/1/1"
+            },
+            {
+              "provider": "VidSrc.pro",
+              "url": "https://vidsrc.pro/embed/tv/85937/1/1"
+            },
+            {
+              "provider": "2Embed.cc",
+              "url": "https://www.2embed.cc/embedtv/tt9335498&s=1&e=1"
+            }
+          ]
+        },
+        {
+          "episode": 2,
+          "title": "Trainer Sakonji Urokodaki",
+          "air_date": "2019-04-13",
+          "rating": 7.674,
+          "overview": "At Giyu Tomioka's urging, Tanjiro heads for Mt. Sagiri with his sister Nezuko who's been turned into a demon. During the night, Tanjiro catches the smell of blood from inside a temple. He enters, thinking that someone might be hurt, only to come upon a man-eating demon. When the demon attacks, Tanjiro manages to fight back with his hatchet, but the demon's strength is overwhelming. Just as the demon is about to finish him off, Tanjiro is saved by none other than.",
+          "still_image": "https://image.tmdb.org/t/p/w500/r2MZH3snLABIpqUPj8YOF9HIaBf.jpg",
+          "embed_links": [
+            {
+              "provider": "VidSrc.me",
+              "url": "https://vidsrc.me/embed/tv?tmdb=85937&season=1&episode=2"
+            },
+            {
+              "provider": "VidSrc.cc (v2)",
+              "url": "https://vidsrc.cc/v2/embed/tv/85937/1/2"
+            },
+            {
+              "provider": "VidSrc.cc (v3)",
+              "url": "https://vidsrc.cc/v3/embed/tv/85937/1/2"
+            },
+            {
+              "provider": "VidLink.pro",
+              "url": "https://vidlink.pro/tv/85937/1/2"
+            },
+            {
+              "provider": "AutoEmbed.cc",
+              "url": "https://autoembed.cc/tv/tmdb/85937-1-2"
+            },
+            {
+              "provider": "Videasy",
+              "url": "https://player.videasy.net/tv/85937/1/2"
+            },
+            {
+              "provider": "VidSrc.pro",
+              "url": "https://vidsrc.pro/embed/tv/85937/1/2"
+            },
+            {
+              "provider": "2Embed.cc",
+              "url": "https://www.2embed.cc/embedtv/tt9335498&s=1&e=2"
+            }
+          ]
+        },
+        {
+          "episode": 3,
+          "title": "Sabito and Makomo",
+          "air_date": "2019-04-20",
+          "rating": 8.0,
+          "overview": "The Demon Slayer Corps... An organization that's been hunting down demons since ancient times. Sakonji Urokodaki starts training Tanjiro for Final Selection, the test for joining the unit. Navigating a mountain riddled with booby traps, dry sword swings, waterfall immersion and breathing techniques... A year later, Urokodaki informs Tanjiro that he has nothing more to teach him, and gives him one last hurdle to overcome in front of a giant boulder.",
+          "still_image": "https://image.tmdb.org/t/p/w500/m9sWQLtoU1G5jdHOYUnykin0xxw.jpg",
+          "embed_links": [
+            {
+              "provider": "VidSrc.me",
+              "url": "https://vidsrc.me/embed/tv?tmdb=85937&season=1&episode=3"
+            },
+            {
+              "provider": "VidSrc.cc (v2)",
+              "url": "https://vidsrc.cc/v2/embed/tv/85937/1/3"
+            },
+            {
+              "provider": "VidSrc.cc (v3)",
+              "url": "https://vidsrc.cc/v3/embed/tv/85937/1/3"
+            },
+            {
+              "provider": "VidLink.pro",
+              "url": "https://vidlink.pro/tv/85937/1/3"
+            },
+            {
+              "provider": "AutoEmbed.cc",
+              "url": "https://autoembed.cc/tv/tmdb/85937-1-3"
+            },
+            {
+              "provider": "Videasy",
+              "url": "https://player.videasy.net/tv/85937/1/3"
+            },
+            {
+              "provider": "VidSrc.pro",
+              "url": "https://vidsrc.pro/embed/tv/85937/1/3"
+            },
+            {
+              "provider": "2Embed.cc",
+              "url": "https://www.2embed.cc/embedtv/tt9335498&s=1&e=3"
+            }
+          ]
+        },
+        {
+          "episode": 4,
+          "title": "Final Selection",
+          "air_date": "2019-04-27",
+          "rating": 8.318,
+          "overview": "To pass Final Selection, one must survive for seven days on Mt. Fujikasane where demons captured by the Demon Slayers have been imprisoned. So begins the battle for survival between the young swordsmen and the demons. Armed with the breathing techniques and stances he'd learned from Sakonji Urokodaki, Tanjiro slashes demon after demon. His two years of training have not gone to waste. But just then, a morphed demon appears out of nowhere.",
+          "still_image": "https://image.tmdb.org/t/p/w500/kH6Ir9EWGoqkTMoiQnx5fJmwY2I.jpg",
+          "embed_links": [
+            {
+              "provider": "VidSrc.me",
+              "url": "https://vidsrc.me/embed/tv?tmdb=85937&season=1&episode=4"
+            },
+            {
+              "provider": "VidSrc.cc (v2)",
+              "url": "https://vidsrc.cc/v2/embed/tv/85937/1/4"
+            },
+            {
+              "provider": "VidSrc.cc (v3)",
+              "url": "https://vidsrc.cc/v3/embed/tv/85937/1/4"
+            },
+            {
+              "provider": "VidLink.pro",
+              "url": "https://vidlink.pro/tv/85937/1/4"
+            },
+            {
+              "provider": "AutoEmbed.cc",
+              "url": "https://autoembed.cc/tv/tmdb/85937-1-4"
+            },
+            {
+              "provider": "Videasy",
+              "url": "https://player.videasy.net/tv/85937/1/4"
+            },
+            {
+              "provider": "VidSrc.pro",
+              "url": "https://vidsrc.pro/embed/tv/85937/1/4"
+            },
+            {
+              "provider": "2Embed.cc",
+              "url": "https://www.2embed.cc/embedtv/tt9335498&s=1&e=4"
+            }
+          ]
+        },
+        {
+          "episode": 5,
+          "title": "My Own Steel",
+          "air_date": "2019-05-04",
+          "rating": 7.761,
+          "overview": "When day breaks, there are only four swordsmen left standing after the seven-day battle. The guides who greet Tanjiro and the other survivors explain the Demon Slayer Corps system. All four are issued uniforms and Kasugai Crows as messengers, after which they must select the ore for their own Nichirin swords. After gazing hard at each lump of ore, and using his keen sense of smell, the one Tanjiro chooses is...",
+          "still_image": "https://image.tmdb.org/t/p/w500/fWsUsEVYaOHh6bPkgH7HeQxotmP.jpg",
+          "embed_links": [
+            {
+              "provider": "VidSrc.me",
+              "url": "https://vidsrc.me/embed/tv?tmdb=85937&season=1&episode=5"
+            },
+            {
+              "provider": "VidSrc.cc (v2)",
+              "url": "https://vidsrc.cc/v2/embed/tv/85937/1/5"
+            },
+            {
+              "provider": "VidSrc.cc (v3)",
+              "url": "https://vidsrc.cc/v3/embed/tv/85937/1/5"
+            },
+            {
+              "provider": "VidLink.pro",
+              "url": "https://vidlink.pro/tv/85937/1/5"
+            },
+            {
+              "provider": "AutoEmbed.cc",
+              "url": "https://autoembed.cc/tv/tmdb/85937-1-5"
+            },
+            {
+              "provider": "Videasy",
+              "url": "https://player.videasy.net/tv/85937/1/5"
+            },
+            {
+              "provider": "VidSrc.pro",
+              "url": "https://vidsrc.pro/embed/tv/85937/1/5"
+            },
+            {
+              "provider": "2Embed.cc",
+              "url": "https://www.2embed.cc/embedtv/tt9335498&s=1&e=5"
+            }
+          ]
+        },
+        {
+          "episode": 6,
+          "title": "Swordsman Accompanying a Demon",
+          "air_date": "2019-05-11",
+          "rating": 7.905,
+          "overview": "Tanjiro is now clad in the uniform of the Demon Slayer Corps. His Nichirin Sword on his hip, and Nezuko, now awake, in a special box made by Urokodaki on his back, he heads out for his first assignment. A town to the northwest where girls have been vanishing nightly. There, Tanjiro meets Kazumi, haggard with worry after his girlfriend's been abducted. Though he does catch the scent of a demon nearby, there's just no demon in sight. Tanjiro is sure that a demon is behind this sinister incident...",
+          "still_image": "https://image.tmdb.org/t/p/w500/4GeXmmkzRBduK2KXMGMrLlKYg44.jpg",
+          "embed_links": [
+            {
+              "provider": "VidSrc.me",
+              "url": "https://vidsrc.me/embed/tv?tmdb=85937&season=1&episode=6"
+            },
+            {
+              "provider": "VidSrc.cc (v2)",
+              "url": "https://vidsrc.cc/v2/embed/tv/85937/1/6"
+            },
+            {
+              "provider": "VidSrc.cc (v3)",
+              "url": "https://vidsrc.cc/v3/embed/tv/85937/1/6"
+            },
+            {
+              "provider": "VidLink.pro",
+              "url": "https://vidlink.pro/tv/85937/1/6"
+            },
+            {
+              "provider": "AutoEmbed.cc",
+              "url": "https://autoembed.cc/tv/tmdb/85937-1-6"
+            },
+            {
+              "provider": "Videasy",
+              "url": "https://player.videasy.net/tv/85937/1/6"
+            },
+            {
+              "provider": "VidSrc.pro",
+              "url": "https://vidsrc.pro/embed/tv/85937/1/6"
+            },
+            {
+              "provider": "2Embed.cc",
+              "url": "https://www.2embed.cc/embedtv/tt9335498&s=1&e=6"
+            }
+          ]
+        },
+        {
+          "episode": 7,
+          "title": "Muzan Kibutsuji",
+          "air_date": "2019-05-18",
+          "rating": 7.9,
+          "overview": "Now split into three, the demons have driven Tanjiro into a corner. It is then that Nezuko attacks. Now that she’s become a demon herself, she’s no longer so weak that she needs protection. His mind made up, Tanjiro follows one of the demons into the swamp now spreading across the ground. Waiting for him there is...",
+          "still_image": "https://image.tmdb.org/t/p/w500/aR1bB3ltg1FjGc6N3xBpiYz7Huo.jpg",
+          "embed_links": [
+            {
+              "provider": "VidSrc.me",
+              "url": "https://vidsrc.me/embed/tv?tmdb=85937&season=1&episode=7"
+            },
+            {
+              "provider": "VidSrc.cc (v2)",
+              "url": "https://vidsrc.cc/v2/embed/tv/85937/1/7"
+            },
+            {
+              "provider": "VidSrc.cc (v3)",
+              "url": "https://vidsrc.cc/v3/embed/tv/85937/1/7"
+            },
+            {
+              "provider": "VidLink.pro",
+              "url": "https://vidlink.pro/tv/85937/1/7"
+            },
+            {
+              "provider": "AutoEmbed.cc",
+              "url": "https://autoembed.cc/tv/tmdb/85937-1-7"
+            },
+            {
+              "provider": "Videasy",
+              "url": "https://player.videasy.net/tv/85937/1/7"
+            },
+            {
+              "provider": "VidSrc.pro",
+              "url": "https://vidsrc.pro/embed/tv/85937/1/7"
+            },
+            {
+              "provider": "2Embed.cc",
+              "url": "https://www.2embed.cc/embedtv/tt9335498&s=1&e=7"
+            }
+          ]
+        },
+        {
+          "episode": 8,
+          "title": "The Smell of Enchanting Blood",
+          "air_date": "2019-05-25",
+          "rating": 7.9,
+          "overview": "The next mission is in Asakusa, Tokyo. Tanjiro is taken aback by the opulent Taisho Era cityscape, but soon picks up the demon’s scent there. His pursuit of the scent leads him to Muzan Kibutsuji. Tanjiro attempts to strike him down. But Kibutsuji transforms a passerby into demon, triggering a commotion. As Tanjiro desperately tries to get things under control, someone appears before him...",
+          "still_image": "https://image.tmdb.org/t/p/w500/hnvD3jFov03BLjvGrqTueXZfvwL.jpg",
+          "embed_links": [
+            {
+              "provider": "VidSrc.me",
+              "url": "https://vidsrc.me/embed/tv?tmdb=85937&season=1&episode=8"
+            },
+            {
+              "provider": "VidSrc.cc (v2)",
+              "url": "https://vidsrc.cc/v2/embed/tv/85937/1/8"
+            },
+            {
+              "provider": "VidSrc.cc (v3)",
+              "url": "https://vidsrc.cc/v3/embed/tv/85937/1/8"
+            },
+            {
+              "provider": "VidLink.pro",
+              "url": "https://vidlink.pro/tv/85937/1/8"
+            },
+            {
+              "provider": "AutoEmbed.cc",
+              "url": "https://autoembed.cc/tv/tmdb/85937-1-8"
+            },
+            {
+              "provider": "Videasy",
+              "url": "https://player.videasy.net/tv/85937/1/8"
+            },
+            {
+              "provider": "VidSrc.pro",
+              "url": "https://vidsrc.pro/embed/tv/85937/1/8"
+            },
+            {
+              "provider": "2Embed.cc",
+              "url": "https://www.2embed.cc/embedtv/tt9335498&s=1&e=8"
+            }
+          ]
+        },
+        {
+          "episode": 9,
+          "title": "Temari Demon and Arrow Demon",
+          "air_date": "2019-06-01",
+          "rating": 7.973,
+          "overview": "It was two demons named Tamayo and Yushiro who came to Tanjiro’s rescue. Using the “Eyeblind” spell, Tamayo guides Tanjiro and Nezuko to her house. There, through his conversation with Tamayo, Tanjiro learns that there is a way to return demons to human form. Just then, two demons in pursuit of Tanjiro locate the house and unleash a furious assault...",
+          "still_image": "https://image.tmdb.org/t/p/w500/pMST9IQizKO4EE6P54yFFMBz7vE.jpg",
+          "embed_links": [
+            {
+              "provider": "VidSrc.me",
+              "url": "https://vidsrc.me/embed/tv?tmdb=85937&season=1&episode=9"
+            },
+            {
+              "provider": "VidSrc.cc (v2)",
+              "url": "https://vidsrc.cc/v2/embed/tv/85937/1/9"
+            },
+            {
+              "provider": "VidSrc.cc (v3)",
+              "url": "https://vidsrc.cc/v3/embed/tv/85937/1/9"
+            },
+            {
+              "provider": "VidLink.pro",
+              "url": "https://vidlink.pro/tv/85937/1/9"
+            },
+            {
+              "provider": "AutoEmbed.cc",
+              "url": "https://autoembed.cc/tv/tmdb/85937-1-9"
+            },
+            {
+              "provider": "Videasy",
+              "url": "https://player.videasy.net/tv/85937/1/9"
+            },
+            {
+              "provider": "VidSrc.pro",
+              "url": "https://vidsrc.pro/embed/tv/85937/1/9"
+            },
+            {
+              "provider": "2Embed.cc",
+              "url": "https://www.2embed.cc/embedtv/tt9335498&s=1&e=9"
+            }
+          ]
+        },
+        {
+          "episode": 10,
+          "title": "Together Forever",
+          "air_date": "2019-06-08",
+          "rating": 8.056,
+          "overview": "Tanjiro’s crisis continues. He uses multiple forms of the Water Breathing technique to hold out against Yahaba’s final Blood Demon Art, the \"Kouketsu Arrow.\" Meanwhile, Nezuko and Susamaru are still battling it out. Worried about the outcome, Tamayo unleashes her own Blood Demon Art.",
+          "still_image": "https://image.tmdb.org/t/p/w500/nDbVix8vunXKj6zLcVEaxwF7YTq.jpg",
+          "embed_links": [
+            {
+              "provider": "VidSrc.me",
+              "url": "https://vidsrc.me/embed/tv?tmdb=85937&season=1&episode=10"
+            },
+            {
+              "provider": "VidSrc.cc (v2)",
+              "url": "https://vidsrc.cc/v2/embed/tv/85937/1/10"
+            },
+            {
+              "provider": "VidSrc.cc (v3)",
+              "url": "https://vidsrc.cc/v3/embed/tv/85937/1/10"
+            },
+            {
+              "provider": "VidLink.pro",
+              "url": "https://vidlink.pro/tv/85937/1/10"
+            },
+            {
+              "provider": "AutoEmbed.cc",
+              "url": "https://autoembed.cc/tv/tmdb/85937-1-10"
+            },
+            {
+              "provider": "Videasy",
+              "url": "https://player.videasy.net/tv/85937/1/10"
+            },
+            {
+              "provider": "VidSrc.pro",
+              "url": "https://vidsrc.pro/embed/tv/85937/1/10"
+            },
+            {
+              "provider": "2Embed.cc",
+              "url": "https://www.2embed.cc/embedtv/tt9335498&s=1&e=10"
+            }
+          ]
+        },
+        {
+          "episode": 11,
+          "title": "Tsuzumi Mansion",
+          "air_date": "2019-06-15",
+          "rating": 7.4,
+          "overview": "Tanjiro's next destination, according to his Kasugai Crow, is to the south-southeast. On the way, Tanjiro runs into his fellow Final Selection survivor, the swordsman Zenitsu Agatsuma. Tanjiro has a hard time dealing with Zenitsu's passive attitude as they head deep into the mountains. They encounter two children whose older brother was taken away right in front of their house. There, Zenitsu hears the sound of a tsuzumi ringing out from somewhere.",
+          "still_image": "https://image.tmdb.org/t/p/w500/xKOewshyBZcisLUWrOQjEGe650L.jpg",
+          "embed_links": [
+            {
+              "provider": "VidSrc.me",
+              "url": "https://vidsrc.me/embed/tv?tmdb=85937&season=1&episode=11"
+            },
+            {
+              "provider": "VidSrc.cc (v2)",
+              "url": "https://vidsrc.cc/v2/embed/tv/85937/1/11"
+            },
+            {
+              "provider": "VidSrc.cc (v3)",
+              "url": "https://vidsrc.cc/v3/embed/tv/85937/1/11"
+            },
+            {
+              "provider": "VidLink.pro",
+              "url": "https://vidlink.pro/tv/85937/1/11"
+            },
+            {
+              "provider": "AutoEmbed.cc",
+              "url": "https://autoembed.cc/tv/tmdb/85937-1-11"
+            },
+            {
+              "provider": "Videasy",
+              "url": "https://player.videasy.net/tv/85937/1/11"
+            },
+            {
+              "provider": "VidSrc.pro",
+              "url": "https://vidsrc.pro/embed/tv/85937/1/11"
+            },
+            {
+              "provider": "2Embed.cc",
+              "url": "https://www.2embed.cc/embedtv/tt9335498&s=1&e=11"
+            }
+          ]
+        },
+        {
+          "episode": 12,
+          "title": "The Boar Bares Its Fangs, Zenitsu Sleeps",
+          "air_date": "2019-06-22",
+          "rating": 7.865,
+          "overview": "Inside the house, where the rooms spin each time the tsuzumi is played, Tanjiro gets separated from Zenitsu Agatsuma. Without Tanjiro by his side, Zenitsu is overcome by fear and despair as he takes Shoichi through the house. Meanwhile, Tanjiro meets the master of the house, the tsuzumi-playing demon, and an odd-looking man wearing a boar’s head mask.",
+          "still_image": "https://image.tmdb.org/t/p/w500/qrPsA5eNGH4sPwMImUhOvlShd7U.jpg",
+          "embed_links": [
+            {
+              "provider": "VidSrc.me",
+              "url": "https://vidsrc.me/embed/tv?tmdb=85937&season=1&episode=12"
+            },
+            {
+              "provider": "VidSrc.cc (v2)",
+              "url": "https://vidsrc.cc/v2/embed/tv/85937/1/12"
+            },
+            {
+              "provider": "VidSrc.cc (v3)",
+              "url": "https://vidsrc.cc/v3/embed/tv/85937/1/12"
+            },
+            {
+              "provider": "VidLink.pro",
+              "url": "https://vidlink.pro/tv/85937/1/12"
+            },
+            {
+              "provider": "AutoEmbed.cc",
+              "url": "https://autoembed.cc/tv/tmdb/85937-1-12"
+            },
+            {
+              "provider": "Videasy",
+              "url": "https://player.videasy.net/tv/85937/1/12"
+            },
+            {
+              "provider": "VidSrc.pro",
+              "url": "https://vidsrc.pro/embed/tv/85937/1/12"
+            },
+            {
+              "provider": "2Embed.cc",
+              "url": "https://www.2embed.cc/embedtv/tt9335498&s=1&e=12"
+            }
+          ]
+        },
+        {
+          "episode": 13,
+          "title": "Something More Important Than Life",
+          "air_date": "2019-06-29",
+          "rating": 8.139,
+          "overview": "Every time Kyogai, the master of house, plays his tsuzumi, the room spins and Tanjiro struggles. Debilitated by the fractured bones he sustained in his previous battle, Tanjiro tries to fire himself up as he desperately fights on, but he is overwhelmed by Kyogai's Blood Demon Art. Will he find a way to slice off Kyogai's head?",
+          "still_image": "https://image.tmdb.org/t/p/w500/5ixd8rC1tTDHf5kSo5o7hbghpOi.jpg",
+          "embed_links": [
+            {
+              "provider": "VidSrc.me",
+              "url": "https://vidsrc.me/embed/tv?tmdb=85937&season=1&episode=13"
+            },
+            {
+              "provider": "VidSrc.cc (v2)",
+              "url": "https://vidsrc.cc/v2/embed/tv/85937/1/13"
+            },
+            {
+              "provider": "VidSrc.cc (v3)",
+              "url": "https://vidsrc.cc/v3/embed/tv/85937/1/13"
+            },
+            {
+              "provider": "VidLink.pro",
+              "url": "https://vidlink.pro/tv/85937/1/13"
+            },
+            {
+              "provider": "AutoEmbed.cc",
+              "url": "https://autoembed.cc/tv/tmdb/85937-1-13"
+            },
+            {
+              "provider": "Videasy",
+              "url": "https://player.videasy.net/tv/85937/1/13"
+            },
+            {
+              "provider": "VidSrc.pro",
+              "url": "https://vidsrc.pro/embed/tv/85937/1/13"
+            },
+            {
+              "provider": "2Embed.cc",
+              "url": "https://www.2embed.cc/embedtv/tt9335498&s=1&e=13"
+            }
+          ]
+        },
+        {
+          "episode": 14,
+          "title": "The House With the Wisteria Family Crest",
+          "air_date": "2019-07-06",
+          "rating": 7.833,
+          "overview": "After a desperate fight to the death, Tanjiro prevails over Kyogai. He exits the house to find Zenitsu who had escaped earlier. But it is then that he sees the strange circumstances before him... The battered Zenitsu holding the box containing Nezuko in his arms while the man in the boar's head mask stands in the way with two Nichirin Swords drawn.",
+          "still_image": "https://image.tmdb.org/t/p/w500/AgDZ0yW2Me7pB7ZLVb4ynbBxRZp.jpg",
+          "embed_links": [
+            {
+              "provider": "VidSrc.me",
+              "url": "https://vidsrc.me/embed/tv?tmdb=85937&season=1&episode=14"
+            },
+            {
+              "provider": "VidSrc.cc (v2)",
+              "url": "https://vidsrc.cc/v2/embed/tv/85937/1/14"
+            },
+            {
+              "provider": "VidSrc.cc (v3)",
+              "url": "https://vidsrc.cc/v3/embed/tv/85937/1/14"
+            },
+            {
+              "provider": "VidLink.pro",
+              "url": "https://vidlink.pro/tv/85937/1/14"
+            },
+            {
+              "provider": "AutoEmbed.cc",
+              "url": "https://autoembed.cc/tv/tmdb/85937-1-14"
+            },
+            {
+              "provider": "Videasy",
+              "url": "https://player.videasy.net/tv/85937/1/14"
+            },
+            {
+              "provider": "VidSrc.pro",
+              "url": "https://vidsrc.pro/embed/tv/85937/1/14"
+            },
+            {
+              "provider": "2Embed.cc",
+              "url": "https://www.2embed.cc/embedtv/tt9335498&s=1&e=14"
+            }
+          ]
+        },
+        {
+          "episode": 15,
+          "title": "Mount Natagumo",
+          "air_date": "2019-07-13",
+          "rating": 7.944,
+          "overview": "Their next destination is to the north-northwest. Tanjiro and Nezuko head towards Mount Natagumo with Zenitsu and Inosuke. This mountain is covered with spider webs and is swarming with innumerable spiders. Leaving the cowering Zenitsu behind, Tanjiro and Inosuke head up the mountain where they run into fellow Demon Slayers entangled in spider webs.",
+          "still_image": "https://image.tmdb.org/t/p/w500/8CNCZfubtFYzvuo4GgIDCSXBYvj.jpg",
+          "embed_links": [
+            {
+              "provider": "VidSrc.me",
+              "url": "https://vidsrc.me/embed/tv?tmdb=85937&season=1&episode=15"
+            },
+            {
+              "provider": "VidSrc.cc (v2)",
+              "url": "https://vidsrc.cc/v2/embed/tv/85937/1/15"
+            },
+            {
+              "provider": "VidSrc.cc (v3)",
+              "url": "https://vidsrc.cc/v3/embed/tv/85937/1/15"
+            },
+            {
+              "provider": "VidLink.pro",
+              "url": "https://vidlink.pro/tv/85937/1/15"
+            },
+            {
+              "provider": "AutoEmbed.cc",
+              "url": "https://autoembed.cc/tv/tmdb/85937-1-15"
+            },
+            {
+              "provider": "Videasy",
+              "url": "https://player.videasy.net/tv/85937/1/15"
+            },
+            {
+              "provider": "VidSrc.pro",
+              "url": "https://vidsrc.pro/embed/tv/85937/1/15"
+            },
+            {
+              "provider": "2Embed.cc",
+              "url": "https://www.2embed.cc/embedtv/tt9335498&s=1&e=15"
+            }
+          ]
+        },
+        {
+          "episode": 16,
+          "title": "Letting Someone Else Go First",
+          "air_date": "2019-07-20",
+          "rating": 8.057,
+          "overview": "Tanjiro and Inosuke battle the Demon Slayers trapped by spider webs. After slashing the threads and destroying the webs, they head deeper into the mountain. The farther they advance through the forest, the thicker the threads become, and those under their control start moving in ways impossible for a human being. Stopping the Demon Slayers without hurting them isn't going to be easy, but then Tanjiro makes a certain move...",
+          "still_image": "https://image.tmdb.org/t/p/w500/5onw1Gg17048SoUZIuoT7FsO90a.jpg",
+          "embed_links": [
+            {
+              "provider": "VidSrc.me",
+              "url": "https://vidsrc.me/embed/tv?tmdb=85937&season=1&episode=16"
+            },
+            {
+              "provider": "VidSrc.cc (v2)",
+              "url": "https://vidsrc.cc/v2/embed/tv/85937/1/16"
+            },
+            {
+              "provider": "VidSrc.cc (v3)",
+              "url": "https://vidsrc.cc/v3/embed/tv/85937/1/16"
+            },
+            {
+              "provider": "VidLink.pro",
+              "url": "https://vidlink.pro/tv/85937/1/16"
+            },
+            {
+              "provider": "AutoEmbed.cc",
+              "url": "https://autoembed.cc/tv/tmdb/85937-1-16"
+            },
+            {
+              "provider": "Videasy",
+              "url": "https://player.videasy.net/tv/85937/1/16"
+            },
+            {
+              "provider": "VidSrc.pro",
+              "url": "https://vidsrc.pro/embed/tv/85937/1/16"
+            },
+            {
+              "provider": "2Embed.cc",
+              "url": "https://www.2embed.cc/embedtv/tt9335498&s=1&e=16"
+            }
+          ]
+        },
+        {
+          "episode": 17,
+          "title": "You Must Master a Single Thing",
+          "air_date": "2019-07-27",
+          "rating": 8.389,
+          "overview": "One of the Twelve Kizuki, a direct subordinate of Muzan Kibutsuji, is here somewhere. When Tanjiro slays the Mother Spider Demon of Mt. Natagumo, he learns that a demon who might hold the key to turning Nezuko back into a human is somewhere in this very forest. With the battered Inosuke in tow, he heads deeper into the forest. Meanwhile, Zenitsu trudges forlornly through the woods only to encounter a spider with a human face.",
+          "still_image": "https://image.tmdb.org/t/p/w500/oKOrMhozP1BX6gWiJAcuZVSm6Zd.jpg",
+          "embed_links": [
+            {
+              "provider": "VidSrc.me",
+              "url": "https://vidsrc.me/embed/tv?tmdb=85937&season=1&episode=17"
+            },
+            {
+              "provider": "VidSrc.cc (v2)",
+              "url": "https://vidsrc.cc/v2/embed/tv/85937/1/17"
+            },
+            {
+              "provider": "VidSrc.cc (v3)",
+              "url": "https://vidsrc.cc/v3/embed/tv/85937/1/17"
+            },
+            {
+              "provider": "VidLink.pro",
+              "url": "https://vidlink.pro/tv/85937/1/17"
+            },
+            {
+              "provider": "AutoEmbed.cc",
+              "url": "https://autoembed.cc/tv/tmdb/85937-1-17"
+            },
+            {
+              "provider": "Videasy",
+              "url": "https://player.videasy.net/tv/85937/1/17"
+            },
+            {
+              "provider": "VidSrc.pro",
+              "url": "https://vidsrc.pro/embed/tv/85937/1/17"
+            },
+            {
+              "provider": "2Embed.cc",
+              "url": "https://www.2embed.cc/embedtv/tt9335498&s=1&e=17"
+            }
+          ]
+        },
+        {
+          "episode": 18,
+          "title": "A Forged Bond",
+          "air_date": "2019-08-03",
+          "rating": 8.378,
+          "overview": "Tanjiro and Inosuke face off against the Father Spider Demon of Mt. Natagumo. Tanjiro unleashes an attack, only to get hurled away by the demon's overwhelming power. Landing near a river, he comes upon the young demon Rui torturing the Sister Spider Demon. When Rui calls their bond of terror and hatred \"a family’s bond,\" Tanjiro is enraged. So begins the battle between Rui and Tanjiro.",
+          "still_image": "https://image.tmdb.org/t/p/w500/ra7dCRS9E39fnhHieFKF47ldESl.jpg",
+          "embed_links": [
+            {
+              "provider": "VidSrc.me",
+              "url": "https://vidsrc.me/embed/tv?tmdb=85937&season=1&episode=18"
+            },
+            {
+              "provider": "VidSrc.cc (v2)",
+              "url": "https://vidsrc.cc/v2/embed/tv/85937/1/18"
+            },
+            {
+              "provider": "VidSrc.cc (v3)",
+              "url": "https://vidsrc.cc/v3/embed/tv/85937/1/18"
+            },
+            {
+              "provider": "VidLink.pro",
+              "url": "https://vidlink.pro/tv/85937/1/18"
+            },
+            {
+              "provider": "AutoEmbed.cc",
+              "url": "https://autoembed.cc/tv/tmdb/85937-1-18"
+            },
+            {
+              "provider": "Videasy",
+              "url": "https://player.videasy.net/tv/85937/1/18"
+            },
+            {
+              "provider": "VidSrc.pro",
+              "url": "https://vidsrc.pro/embed/tv/85937/1/18"
+            },
+            {
+              "provider": "2Embed.cc",
+              "url": "https://www.2embed.cc/embedtv/tt9335498&s=1&e=18"
+            }
+          ]
+        },
+        {
+          "episode": 19,
+          "title": "Hinokami",
+          "air_date": "2019-08-10",
+          "rating": 9.0,
+          "overview": "Swordsmen in the Demon Slayer Corps known as Hashiras have arrived on Mt. Natagumo. Giyu Tomioka, the Water Hashira, slays the Father Spider Demon with a single strike. Inosuke, thrilled to see such a display of swordsmanship by someone in a totally different league from himself, challenges Giyu to a duel. Meanwhile, Zenitsu lies near death as the poison circulates throughout his body. Just then, the Insect Hashira, Shinobu Kocho appears before him.",
+          "still_image": "https://image.tmdb.org/t/p/w500/b4o8DMgM61MJymZMFyR2nRnOifl.jpg",
+          "embed_links": [
+            {
+              "provider": "VidSrc.me",
+              "url": "https://vidsrc.me/embed/tv?tmdb=85937&season=1&episode=19"
+            },
+            {
+              "provider": "VidSrc.cc (v2)",
+              "url": "https://vidsrc.cc/v2/embed/tv/85937/1/19"
+            },
+            {
+              "provider": "VidSrc.cc (v3)",
+              "url": "https://vidsrc.cc/v3/embed/tv/85937/1/19"
+            },
+            {
+              "provider": "VidLink.pro",
+              "url": "https://vidlink.pro/tv/85937/1/19"
+            },
+            {
+              "provider": "AutoEmbed.cc",
+              "url": "https://autoembed.cc/tv/tmdb/85937-1-19"
+            },
+            {
+              "provider": "Videasy",
+              "url": "https://player.videasy.net/tv/85937/1/19"
+            },
+            {
+              "provider": "VidSrc.pro",
+              "url": "https://vidsrc.pro/embed/tv/85937/1/19"
+            },
+            {
+              "provider": "2Embed.cc",
+              "url": "https://www.2embed.cc/embedtv/tt9335498&s=1&e=19"
+            }
+          ]
+        },
+        {
+          "episode": 20,
+          "title": "Pretend Family",
+          "air_date": "2019-08-17",
+          "rating": 8.088,
+          "overview": "When Rui assaults him with his Blood Demon Art, Tanjiro braces himself for certain death. As his life flashes before his eyes, he suddenly remembers his father's dance, the kagura, and unleashes a new, non-Water Breathing attack. Hinokami Kagura Dance. Knowing that he’ll be receiving a simultaneous blow from the demon, he uses his new move to slice off Rui’s head. As Tanjiro crawls towards Nezuko, who lies on the ground, riddled with wounds, someone appears before him.",
+          "still_image": "https://image.tmdb.org/t/p/w500/jfdqvWLwsYiFcpR4mGlk2lzIT8g.jpg",
+          "embed_links": [
+            {
+              "provider": "VidSrc.me",
+              "url": "https://vidsrc.me/embed/tv?tmdb=85937&season=1&episode=20"
+            },
+            {
+              "provider": "VidSrc.cc (v2)",
+              "url": "https://vidsrc.cc/v2/embed/tv/85937/1/20"
+            },
+            {
+              "provider": "VidSrc.cc (v3)",
+              "url": "https://vidsrc.cc/v3/embed/tv/85937/1/20"
+            },
+            {
+              "provider": "VidLink.pro",
+              "url": "https://vidlink.pro/tv/85937/1/20"
+            },
+            {
+              "provider": "AutoEmbed.cc",
+              "url": "https://autoembed.cc/tv/tmdb/85937-1-20"
+            },
+            {
+              "provider": "Videasy",
+              "url": "https://player.videasy.net/tv/85937/1/20"
+            },
+            {
+              "provider": "VidSrc.pro",
+              "url": "https://vidsrc.pro/embed/tv/85937/1/20"
+            },
+            {
+              "provider": "2Embed.cc",
+              "url": "https://www.2embed.cc/embedtv/tt9335498&s=1&e=20"
+            }
+          ]
+        },
+        {
+          "episode": 21,
+          "title": "Against Corps Rules",
+          "air_date": "2019-08-24",
+          "rating": 8.086,
+          "overview": "Seeing Tanjiro try to protect Nezuko even as he collapses triggers memories of Rui’s own past. Once a sickly boy, he became a demon after meeting Muzan Kibutsuji who gave him a share of his blood. But after he turns into a demon, his own parents try to kill him. Ever since then, he has been searching for a family. Seeking a bond that he can never hope to acquire...",
+          "still_image": "https://image.tmdb.org/t/p/w500/2EX3WZVmtELyqdcDtGLf5KJjZ6.jpg",
+          "embed_links": [
+            {
+              "provider": "VidSrc.me",
+              "url": "https://vidsrc.me/embed/tv?tmdb=85937&season=1&episode=21"
+            },
+            {
+              "provider": "VidSrc.cc (v2)",
+              "url": "https://vidsrc.cc/v2/embed/tv/85937/1/21"
+            },
+            {
+              "provider": "VidSrc.cc (v3)",
+              "url": "https://vidsrc.cc/v3/embed/tv/85937/1/21"
+            },
+            {
+              "provider": "VidLink.pro",
+              "url": "https://vidlink.pro/tv/85937/1/21"
+            },
+            {
+              "provider": "AutoEmbed.cc",
+              "url": "https://autoembed.cc/tv/tmdb/85937-1-21"
+            },
+            {
+              "provider": "Videasy",
+              "url": "https://player.videasy.net/tv/85937/1/21"
+            },
+            {
+              "provider": "VidSrc.pro",
+              "url": "https://vidsrc.pro/embed/tv/85937/1/21"
+            },
+            {
+              "provider": "2Embed.cc",
+              "url": "https://www.2embed.cc/embedtv/tt9335498&s=1&e=21"
+            }
+          ]
+        },
+        {
+          "episode": 22,
+          "title": "Master of the Mansion",
+          "air_date": "2019-08-31",
+          "rating": 7.848,
+          "overview": "After the battle is over, Tanjiro and Nezuko are taken to the Demon Slayer Corps headquarters. This is where the Hashira Meeting between the Corps leader, Ubuyashiki, and the Hashiras, the most powerful swordsmen in the Corps, is to be held. The Hashiras censure Tanjiro for violating the Demon Slayer Corps by protecting a demon. And then, the Wind Hashira, Sanemi Shinazugawa, raises his sword against Nezuko...",
+          "still_image": "https://image.tmdb.org/t/p/w500/2bo6M1fLHXz47b3NoW3Y5zesTKB.jpg",
+          "embed_links": [
+            {
+              "provider": "VidSrc.me",
+              "url": "https://vidsrc.me/embed/tv?tmdb=85937&season=1&episode=22"
+            },
+            {
+              "provider": "VidSrc.cc (v2)",
+              "url": "https://vidsrc.cc/v2/embed/tv/85937/1/22"
+            },
+            {
+              "provider": "VidSrc.cc (v3)",
+              "url": "https://vidsrc.cc/v3/embed/tv/85937/1/22"
+            },
+            {
+              "provider": "VidLink.pro",
+              "url": "https://vidlink.pro/tv/85937/1/22"
+            },
+            {
+              "provider": "AutoEmbed.cc",
+              "url": "https://autoembed.cc/tv/tmdb/85937-1-22"
+            },
+            {
+              "provider": "Videasy",
+              "url": "https://player.videasy.net/tv/85937/1/22"
+            },
+            {
+              "provider": "VidSrc.pro",
+              "url": "https://vidsrc.pro/embed/tv/85937/1/22"
+            },
+            {
+              "provider": "2Embed.cc",
+              "url": "https://www.2embed.cc/embedtv/tt9335498&s=1&e=22"
+            }
+          ]
+        },
+        {
+          "episode": 23,
+          "title": "Hashira Meeting",
+          "air_date": "2019-09-07",
+          "rating": 7.757,
+          "overview": "Ubuyashiki, the leader of the Demon Slayer Corps, finally appears before Tanjiro. He tells him that he will allow Tanjiro and Nezuko to join the Corps. But the Hashiras are unable to accept this decision right away. The Wind Hashira, Sanemi Shinazugawa, slashes his own arm and taunts Nezuko with his blood, trying to get her to show her true colors as a demon.",
+          "still_image": "https://image.tmdb.org/t/p/w500/gdlEXQbUuVtIzKxuOMWd2BhT4n8.jpg",
+          "embed_links": [
+            {
+              "provider": "VidSrc.me",
+              "url": "https://vidsrc.me/embed/tv?tmdb=85937&season=1&episode=23"
+            },
+            {
+              "provider": "VidSrc.cc (v2)",
+              "url": "https://vidsrc.cc/v2/embed/tv/85937/1/23"
+            },
+            {
+              "provider": "VidSrc.cc (v3)",
+              "url": "https://vidsrc.cc/v3/embed/tv/85937/1/23"
+            },
+            {
+              "provider": "VidLink.pro",
+              "url": "https://vidlink.pro/tv/85937/1/23"
+            },
+            {
+              "provider": "AutoEmbed.cc",
+              "url": "https://autoembed.cc/tv/tmdb/85937-1-23"
+            },
+            {
+              "provider": "Videasy",
+              "url": "https://player.videasy.net/tv/85937/1/23"
+            },
+            {
+              "provider": "VidSrc.pro",
+              "url": "https://vidsrc.pro/embed/tv/85937/1/23"
+            },
+            {
+              "provider": "2Embed.cc",
+              "url": "https://www.2embed.cc/embedtv/tt9335498&s=1&e=23"
+            }
+          ]
+        },
+        {
+          "episode": 24,
+          "title": "Rehabilitation Training",
+          "air_date": "2019-09-14",
+          "rating": 7.676,
+          "overview": "The injured Tanjiro, Zenitsu and Inosuke are sent to the home of the Insect Hashira, Shinobu Kocho, for treatment. Two weeks later, Tanjiro and Inosuke start rehabilitation training. But the drills are brutal, and they find themselves broken in spirit. Unaware of the grueling regimen, Zenitsu joins them late and is visibly enthusiastic in front of girls, but...",
+          "still_image": "https://image.tmdb.org/t/p/w500/hhZsnP34Tjx568RJwSTN9nkkCcX.jpg",
+          "embed_links": [
+            {
+              "provider": "VidSrc.me",
+              "url": "https://vidsrc.me/embed/tv?tmdb=85937&season=1&episode=24"
+            },
+            {
+              "provider": "VidSrc.cc (v2)",
+              "url": "https://vidsrc.cc/v2/embed/tv/85937/1/24"
+            },
+            {
+              "provider": "VidSrc.cc (v3)",
+              "url": "https://vidsrc.cc/v3/embed/tv/85937/1/24"
+            },
+            {
+              "provider": "VidLink.pro",
+              "url": "https://vidlink.pro/tv/85937/1/24"
+            },
+            {
+              "provider": "AutoEmbed.cc",
+              "url": "https://autoembed.cc/tv/tmdb/85937-1-24"
+            },
+            {
+              "provider": "Videasy",
+              "url": "https://player.videasy.net/tv/85937/1/24"
+            },
+            {
+              "provider": "VidSrc.pro",
+              "url": "https://vidsrc.pro/embed/tv/85937/1/24"
+            },
+            {
+              "provider": "2Embed.cc",
+              "url": "https://www.2embed.cc/embedtv/tt9335498&s=1&e=24"
+            }
+          ]
+        },
+        {
+          "episode": 25,
+          "title": "Tsuguko, Kanao Tsuyuri",
+          "air_date": "2019-09-21",
+          "rating": 7.606,
+          "overview": "Tanjiro, who's undergoing rehabilitation training at the Butterfly Mansion, works hard to keep up his Total Concentration Breathing techniques all day long. Though at first, he's helpless against Kanao, a swordswoman in his class who's training him, he slowly but surely begins to make some headway. Seeing Tanjiro devote himself to training every single day, Zenitsu and Inosuke resume training as well, but...",
+          "still_image": "https://image.tmdb.org/t/p/w500/4VmgnTSJvOPbfy7k51t94T4q88e.jpg",
+          "embed_links": [
+            {
+              "provider": "VidSrc.me",
+              "url": "https://vidsrc.me/embed/tv?tmdb=85937&season=1&episode=25"
+            },
+            {
+              "provider": "VidSrc.cc (v2)",
+              "url": "https://vidsrc.cc/v2/embed/tv/85937/1/25"
+            },
+            {
+              "provider": "VidSrc.cc (v3)",
+              "url": "https://vidsrc.cc/v3/embed/tv/85937/1/25"
+            },
+            {
+              "provider": "VidLink.pro",
+              "url": "https://vidlink.pro/tv/85937/1/25"
+            },
+            {
+              "provider": "AutoEmbed.cc",
+              "url": "https://autoembed.cc/tv/tmdb/85937-1-25"
+            },
+            {
+              "provider": "Videasy",
+              "url": "https://player.videasy.net/tv/85937/1/25"
+            },
+            {
+              "provider": "VidSrc.pro",
+              "url": "https://vidsrc.pro/embed/tv/85937/1/25"
+            },
+            {
+              "provider": "2Embed.cc",
+              "url": "https://www.2embed.cc/embedtv/tt9335498&s=1&e=25"
+            }
+          ]
+        },
+        {
+          "episode": 26,
+          "title": "New Mission",
+          "air_date": "2019-09-28",
+          "rating": 8.222,
+          "overview": "As Tanjiro and the others are devoted to their rehabilitation training, the absolute master of the demons, Muzan Kibutsuji, gathers the Lower Ranks of the Twelve Kizuki. The demons, too, are preparing to make their next move. As training draws to a close, Tanjiro has improved to the point where he can fight on equal terms with Kanao. Just then, he receives word of a new mission from his Kasugai Crow.",
+          "still_image": "https://image.tmdb.org/t/p/w500/oa3rVcE4H6PkbwJ8IWbDZ4EMHP0.jpg",
+          "embed_links": [
+            {
+              "provider": "VidSrc.me",
+              "url": "https://vidsrc.me/embed/tv?tmdb=85937&season=1&episode=26"
+            },
+            {
+              "provider": "VidSrc.cc (v2)",
+              "url": "https://vidsrc.cc/v2/embed/tv/85937/1/26"
+            },
+            {
+              "provider": "VidSrc.cc (v3)",
+              "url": "https://vidsrc.cc/v3/embed/tv/85937/1/26"
+            },
+            {
+              "provider": "VidLink.pro",
+              "url": "https://vidlink.pro/tv/85937/1/26"
+            },
+            {
+              "provider": "AutoEmbed.cc",
+              "url": "https://autoembed.cc/tv/tmdb/85937-1-26"
+            },
+            {
+              "provider": "Videasy",
+              "url": "https://player.videasy.net/tv/85937/1/26"
+            },
+            {
+              "provider": "VidSrc.pro",
+              "url": "https://vidsrc.pro/embed/tv/85937/1/26"
+            },
+            {
+              "provider": "2Embed.cc",
+              "url": "https://www.2embed.cc/embedtv/tt9335498&s=1&e=26"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "season": 2,
+      "name": "Infinity Train Arc",
+      "air_date": "2021-10-10",
+      "poster": "https://image.tmdb.org/t/p/w500/pLGjaDyg2LeA2d9KZxBZCiiqC2B.jpg",
+      "episode_count": 7,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "Flame Hashira: Kyojuro Rengoku",
+          "air_date": "2021-10-10",
+          "rating": 7.861,
+          "overview": "Flame Hashira Kyojuro Rengoku receives new orders: Travel to the Mugen Train, where over forty people have gone missing, and conduct an investigation. Leaving the Demon Slayer Corps Headquarters, he sets off on this new mission.",
+          "still_image": "https://image.tmdb.org/t/p/w500/s25sv0IoUYWL24MhoYbYU5idlZ5.jpg",
+          "embed_links": [
+            {
+              "provider": "VidSrc.me",
+              "url": "https://vidsrc.me/embed/tv?tmdb=85937&season=2&episode=1"
+            },
+            {
+              "provider": "VidSrc.cc (v2)",
+              "url": "https://vidsrc.cc/v2/embed/tv/85937/2/1"
+            },
+            {
+              "provider": "VidSrc.cc (v3)",
+              "url": "https://vidsrc.cc/v3/embed/tv/85937/2/1"
+            },
+            {
+              "provider": "VidLink.pro",
+              "url": "https://vidlink.pro/tv/85937/2/1"
+            },
+            {
+              "provider": "AutoEmbed.cc",
+              "url": "https://autoembed.cc/tv/tmdb/85937-2-1"
+            },
+            {
+              "provider": "Videasy",
+              "url": "https://player.videasy.net/tv/85937/2/1"
+            },
+            {
+              "provider": "VidSrc.pro",
+              "url": "https://vidsrc.pro/embed/tv/85937/2/1"
+            },
+            {
+              "provider": "2Embed.cc",
+              "url": "https://www.2embed.cc/embedtv/tt9335498&s=2&e=1"
+            }
+          ]
+        },
+        {
+          "episode": 2,
+          "title": "Deep Sleep",
+          "air_date": "2021-10-17",
+          "rating": 7.655,
+          "overview": "Tanjiro's group, fresh from completing their training at the Butterfly Mansion, head to their next mission, the Mugen Train. There they rendezvous with Rengoku, who arrived ahead of them. Tanjiro is overwhelmed by the always-energetic Rengoku, Zenitsu is frightened by the prospect of facing demons as usual, and Inosuke is immensely excited by the sight of the huge machine. But on this train loaded with passengers, a new battle is about to begin.",
+          "still_image": "https://image.tmdb.org/t/p/w500/3D1Ke4O5eRcKr255ddlDTnwmoa6.jpg",
+          "embed_links": [
+            {
+              "provider": "VidSrc.me",
+              "url": "https://vidsrc.me/embed/tv?tmdb=85937&season=2&episode=2"
+            },
+            {
+              "provider": "VidSrc.cc (v2)",
+              "url": "https://vidsrc.cc/v2/embed/tv/85937/2/2"
+            },
+            {
+              "provider": "VidSrc.cc (v3)",
+              "url": "https://vidsrc.cc/v3/embed/tv/85937/2/2"
+            },
+            {
+              "provider": "VidLink.pro",
+              "url": "https://vidlink.pro/tv/85937/2/2"
+            },
+            {
+              "provider": "AutoEmbed.cc",
+              "url": "https://autoembed.cc/tv/tmdb/85937-2-2"
+            },
+            {
+              "provider": "Videasy",
+              "url": "https://player.videasy.net/tv/85937/2/2"
+            },
+            {
+              "provider": "VidSrc.pro",
+              "url": "https://vidsrc.pro/embed/tv/85937/2/2"
+            },
+            {
+              "provider": "2Embed.cc",
+              "url": "https://www.2embed.cc/embedtv/tt9335498&s=2&e=2"
+            }
+          ]
+        },
+        {
+          "episode": 3,
+          "title": "Should Have Been",
+          "air_date": "2021-10-24",
+          "rating": 7.607,
+          "overview": "Tanjiro, Nezuko, Zenitsu and Inosuke join Rengoku on the Mugen Train. Having heard that there may be demons on the train, they are on high alert, but they find themselves falling into a slumber. Within his dream, Tanjiro is reunited with his long lost family. However, it is soon revealed that this is a trap set by Enmu (Lower One).",
+          "still_image": "https://image.tmdb.org/t/p/w500/bsjdWN0H0t9Pe7nPYoxXTHd8KpP.jpg",
+          "embed_links": [
+            {
+              "provider": "VidSrc.me",
+              "url": "https://vidsrc.me/embed/tv?tmdb=85937&season=2&episode=3"
+            },
+            {
+              "provider": "VidSrc.cc (v2)",
+              "url": "https://vidsrc.cc/v2/embed/tv/85937/2/3"
+            },
+            {
+              "provider": "VidSrc.cc (v3)",
+              "url": "https://vidsrc.cc/v3/embed/tv/85937/2/3"
+            },
+            {
+              "provider": "VidLink.pro",
+              "url": "https://vidlink.pro/tv/85937/2/3"
+            },
+            {
+              "provider": "AutoEmbed.cc",
+              "url": "https://autoembed.cc/tv/tmdb/85937-2-3"
+            },
+            {
+              "provider": "Videasy",
+              "url": "https://player.videasy.net/tv/85937/2/3"
+            },
+            {
+              "provider": "VidSrc.pro",
+              "url": "https://vidsrc.pro/embed/tv/85937/2/3"
+            },
+            {
+              "provider": "2Embed.cc",
+              "url": "https://www.2embed.cc/embedtv/tt9335498&s=2&e=3"
+            }
+          ]
+        },
+        {
+          "episode": 4,
+          "title": "Insult",
+          "air_date": "2021-11-07",
+          "rating": 8.0,
+          "overview": "Tanjiro, Zenitsu, Inosuke and Rengoku have fallen into a deep sleep while under the control of Enmu's Blood Demon Art. As Enmu attempts to use his accomplices to destroy the spiritual cores of Tanjiro and his companions in order to defeat them, Tanjiro realizes that he is inside a dream and searches for a way to wake up. In order to awaken from the dream, Tanjiro makes a decision to use his sword to cut into his own neck.",
+          "still_image": "https://image.tmdb.org/t/p/w500/eECM3oquq3G8jFOGWTnxaFql3vM.jpg",
+          "embed_links": [
+            {
+              "provider": "VidSrc.me",
+              "url": "https://vidsrc.me/embed/tv?tmdb=85937&season=2&episode=4"
+            },
+            {
+              "provider": "VidSrc.cc (v2)",
+              "url": "https://vidsrc.cc/v2/embed/tv/85937/2/4"
+            },
+            {
+              "provider": "VidSrc.cc (v3)",
+              "url": "https://vidsrc.cc/v3/embed/tv/85937/2/4"
+            },
+            {
+              "provider": "VidLink.pro",
+              "url": "https://vidlink.pro/tv/85937/2/4"
+            },
+            {
+              "provider": "AutoEmbed.cc",
+              "url": "https://autoembed.cc/tv/tmdb/85937-2-4"
+            },
+            {
+              "provider": "Videasy",
+              "url": "https://player.videasy.net/tv/85937/2/4"
+            },
+            {
+              "provider": "VidSrc.pro",
+              "url": "https://vidsrc.pro/embed/tv/85937/2/4"
+            },
+            {
+              "provider": "2Embed.cc",
+              "url": "https://www.2embed.cc/embedtv/tt9335498&s=2&e=4"
+            }
+          ]
+        },
+        {
+          "episode": 5,
+          "title": "Move Forward!",
+          "air_date": "2021-11-14",
+          "rating": 8.1,
+          "overview": "After waking up from his dream by cutting his own neck, Tanjiro battles Enmu, who is the source of all the turmoil on the train. Enmu appears to be getting pleasure from inflicting pain on the passengers, which only infuriates Tanjiro even more. Tanjiro succeeds in severing Enmu's head, only to discover that Enmu's body is fused with the Mugen Train itself. Tanjiro is backed into a corner, but a freshly-awakened Inosuke comes to assist him and...",
+          "still_image": "https://image.tmdb.org/t/p/w500/wiyxLpsQtpG6tMO3HjaTwD98SD.jpg",
+          "embed_links": [
+            {
+              "provider": "VidSrc.me",
+              "url": "https://vidsrc.me/embed/tv?tmdb=85937&season=2&episode=5"
+            },
+            {
+              "provider": "VidSrc.cc (v2)",
+              "url": "https://vidsrc.cc/v2/embed/tv/85937/2/5"
+            },
+            {
+              "provider": "VidSrc.cc (v3)",
+              "url": "https://vidsrc.cc/v3/embed/tv/85937/2/5"
+            },
+            {
+              "provider": "VidLink.pro",
+              "url": "https://vidlink.pro/tv/85937/2/5"
+            },
+            {
+              "provider": "AutoEmbed.cc",
+              "url": "https://autoembed.cc/tv/tmdb/85937-2-5"
+            },
+            {
+              "provider": "Videasy",
+              "url": "https://player.videasy.net/tv/85937/2/5"
+            },
+            {
+              "provider": "VidSrc.pro",
+              "url": "https://vidsrc.pro/embed/tv/85937/2/5"
+            },
+            {
+              "provider": "2Embed.cc",
+              "url": "https://www.2embed.cc/embedtv/tt9335498&s=2&e=5"
+            }
+          ]
+        },
+        {
+          "episode": 6,
+          "title": "Akaza",
+          "air_date": "2021-11-21",
+          "rating": 8.3,
+          "overview": "Nezuko, Zenitsu and Rengoku fight against Enmu to protect the passengers. Meanwhile, Tanjiro and Inosuke discover the location of Enmu's neck. They work in tandem to thwart Enmu's Blood Demon Art and sever Enmu's neck. The Mugen Train writhes in pain and derails. What will be the fate of the 200 or so passengers as well as Tanjiro and his friends?",
+          "still_image": "https://image.tmdb.org/t/p/w500/9ceXZlhB2SLg6XvWKKjLYjHkETQ.jpg",
+          "embed_links": [
+            {
+              "provider": "VidSrc.me",
+              "url": "https://vidsrc.me/embed/tv?tmdb=85937&season=2&episode=6"
+            },
+            {
+              "provider": "VidSrc.cc (v2)",
+              "url": "https://vidsrc.cc/v2/embed/tv/85937/2/6"
+            },
+            {
+              "provider": "VidSrc.cc (v3)",
+              "url": "https://vidsrc.cc/v3/embed/tv/85937/2/6"
+            },
+            {
+              "provider": "VidLink.pro",
+              "url": "https://vidlink.pro/tv/85937/2/6"
+            },
+            {
+              "provider": "AutoEmbed.cc",
+              "url": "https://autoembed.cc/tv/tmdb/85937-2-6"
+            },
+            {
+              "provider": "Videasy",
+              "url": "https://player.videasy.net/tv/85937/2/6"
+            },
+            {
+              "provider": "VidSrc.pro",
+              "url": "https://vidsrc.pro/embed/tv/85937/2/6"
+            },
+            {
+              "provider": "2Embed.cc",
+              "url": "https://www.2embed.cc/embedtv/tt9335498&s=2&e=6"
+            }
+          ]
+        },
+        {
+          "episode": 7,
+          "title": "Set Your Heart Ablaze",
+          "air_date": "2021-11-28",
+          "rating": 8.7,
+          "overview": "The demon that appeared before Tanjiro and Rengoku after they defeated Enmu was the Upper Three, Akaza. While injured and on the ground, Tanjiro is almost attacked by Akaza and narrowly escapes death when Rengoku quickly strikes back. During the intense battle between Rengoku and Akaza, Akaza suggests to Rengoku that he should also become a demon. Rengoku vehemently refuses Akaza's offer, but his injured body is exhausted and being pushed past its physical limits...",
+          "still_image": "https://image.tmdb.org/t/p/w500/bSKs2NzkXd8n0f2bIT8lhEuR7DH.jpg",
+          "embed_links": [
+            {
+              "provider": "VidSrc.me",
+              "url": "https://vidsrc.me/embed/tv?tmdb=85937&season=2&episode=7"
+            },
+            {
+              "provider": "VidSrc.cc (v2)",
+              "url": "https://vidsrc.cc/v2/embed/tv/85937/2/7"
+            },
+            {
+              "provider": "VidSrc.cc (v3)",
+              "url": "https://vidsrc.cc/v3/embed/tv/85937/2/7"
+            },
+            {
+              "provider": "VidLink.pro",
+              "url": "https://vidlink.pro/tv/85937/2/7"
+            },
+            {
+              "provider": "AutoEmbed.cc",
+              "url": "https://autoembed.cc/tv/tmdb/85937-2-7"
+            },
+            {
+              "provider": "Videasy",
+              "url": "https://player.videasy.net/tv/85937/2/7"
+            },
+            {
+              "provider": "VidSrc.pro",
+              "url": "https://vidsrc.pro/embed/tv/85937/2/7"
+            },
+            {
+              "provider": "2Embed.cc",
+              "url": "https://www.2embed.cc/embedtv/tt9335498&s=2&e=7"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "season": 3,
+      "name": "Entertainment District Arc",
+      "air_date": "2021-12-05",
+      "poster": "https://image.tmdb.org/t/p/w500/gbmhcOtre5SeBgwR9gvTpUra5kZ.jpg",
+      "episode_count": 11,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "Sound Hashira: Tengen Uzui",
+          "air_date": "2021-12-05",
+          "rating": 7.306,
+          "overview": "After the Mugen Train incident, Akaza visits Muzan Kibutsuji. Guided by a crow, Tanjiro Kamado heads off to the Rengoku residence to convey Kyojuro Rengoku's last messages to his father and little brother. Tanjiro's group return to the Butterfly Mansion.",
+          "still_image": "https://image.tmdb.org/t/p/w500/yHvD7Yhaxcn0Mc3BSI0yAFVrYT8.jpg",
+          "embed_links": [
+            {
+              "provider": "VidSrc.me",
+              "url": "https://vidsrc.me/embed/tv?tmdb=85937&season=3&episode=1"
+            },
+            {
+              "provider": "VidSrc.cc (v2)",
+              "url": "https://vidsrc.cc/v2/embed/tv/85937/3/1"
+            },
+            {
+              "provider": "VidSrc.cc (v3)",
+              "url": "https://vidsrc.cc/v3/embed/tv/85937/3/1"
+            },
+            {
+              "provider": "VidLink.pro",
+              "url": "https://vidlink.pro/tv/85937/3/1"
+            },
+            {
+              "provider": "AutoEmbed.cc",
+              "url": "https://autoembed.cc/tv/tmdb/85937-3-1"
+            },
+            {
+              "provider": "Videasy",
+              "url": "https://player.videasy.net/tv/85937/3/1"
+            },
+            {
+              "provider": "VidSrc.pro",
+              "url": "https://vidsrc.pro/embed/tv/85937/3/1"
+            },
+            {
+              "provider": "2Embed.cc",
+              "url": "https://www.2embed.cc/embedtv/tt9335498&s=3&e=1"
+            }
+          ]
+        },
+        {
+          "episode": 2,
+          "title": "Infiltrating the Red Light District",
+          "air_date": "2021-12-12",
+          "rating": 6.8,
+          "overview": "After Tanjiro visits the Rengoku residence and meets Kyojuro's younger brother, Senjuro, to deliver Kyojuro's last message, Tanjiro spends his days training and completing missions. One day, he returns to the Butterfly Mansion to find Sound Hashira, Tengen Uzui, attempting to take Aoi and Naho away on a mission against their will. Tanjiro, Zenitsu and Inosuke offer to go on that mission instead, and they head to their next destination - the Entertainment District.",
+          "still_image": "https://image.tmdb.org/t/p/w500/mTtIdiS9ntOjlBFaZxGRu5qkZdF.jpg",
+          "embed_links": [
+            {
+              "provider": "VidSrc.me",
+              "url": "https://vidsrc.me/embed/tv?tmdb=85937&season=3&episode=2"
+            },
+            {
+              "provider": "VidSrc.cc (v2)",
+              "url": "https://vidsrc.cc/v2/embed/tv/85937/3/2"
+            },
+            {
+              "provider": "VidSrc.cc (v3)",
+              "url": "https://vidsrc.cc/v3/embed/tv/85937/3/2"
+            },
+            {
+              "provider": "VidLink.pro",
+              "url": "https://vidlink.pro/tv/85937/3/2"
+            },
+            {
+              "provider": "AutoEmbed.cc",
+              "url": "https://autoembed.cc/tv/tmdb/85937-3-2"
+            },
+            {
+              "provider": "Videasy",
+              "url": "https://player.videasy.net/tv/85937/3/2"
+            },
+            {
+              "provider": "VidSrc.pro",
+              "url": "https://vidsrc.pro/embed/tv/85937/3/2"
+            },
+            {
+              "provider": "2Embed.cc",
+              "url": "https://www.2embed.cc/embedtv/tt9335498&s=3&e=2"
+            }
+          ]
+        },
+        {
+          "episode": 3,
+          "title": "What Are You?",
+          "air_date": "2021-12-19",
+          "rating": 7.3,
+          "overview": "After arriving at the Entertainment District, Tanjiro and his comrades infiltrate each House where Uzui's wives, Suma, Makio and Hinatsuru, work. While working as apprentices and searching for their whereabouts, Inosuke hears that Makio has been shutting herself away from everyone in her room.",
+          "still_image": "https://image.tmdb.org/t/p/w500/1pEUWW6ynwjeCthb7NqQlSMtxso.jpg",
+          "embed_links": [
+            {
+              "provider": "VidSrc.me",
+              "url": "https://vidsrc.me/embed/tv?tmdb=85937&season=3&episode=3"
+            },
+            {
+              "provider": "VidSrc.cc (v2)",
+              "url": "https://vidsrc.cc/v2/embed/tv/85937/3/3"
+            },
+            {
+              "provider": "VidSrc.cc (v3)",
+              "url": "https://vidsrc.cc/v3/embed/tv/85937/3/3"
+            },
+            {
+              "provider": "VidLink.pro",
+              "url": "https://vidlink.pro/tv/85937/3/3"
+            },
+            {
+              "provider": "AutoEmbed.cc",
+              "url": "https://autoembed.cc/tv/tmdb/85937-3-3"
+            },
+            {
+              "provider": "Videasy",
+              "url": "https://player.videasy.net/tv/85937/3/3"
+            },
+            {
+              "provider": "VidSrc.pro",
+              "url": "https://vidsrc.pro/embed/tv/85937/3/3"
+            },
+            {
+              "provider": "2Embed.cc",
+              "url": "https://www.2embed.cc/embedtv/tt9335498&s=3&e=3"
+            }
+          ]
+        },
+        {
+          "episode": 4,
+          "title": "Tonight",
+          "air_date": "2021-12-26",
+          "rating": 7.7,
+          "overview": "As Tanjiro close in on the demon that has been preying upon the entertainment district. But even as he closes in, the others continue to follow their leads toward their query. Who will find the demon first? And will they be able to survive the confrontation when they do?",
+          "still_image": "https://image.tmdb.org/t/p/w500/oyZd3BMT8pH83PLLG07njxhKfkO.jpg",
+          "embed_links": [
+            {
+              "provider": "VidSrc.me",
+              "url": "https://vidsrc.me/embed/tv?tmdb=85937&season=3&episode=4"
+            },
+            {
+              "provider": "VidSrc.cc (v2)",
+              "url": "https://vidsrc.cc/v2/embed/tv/85937/3/4"
+            },
+            {
+              "provider": "VidSrc.cc (v3)",
+              "url": "https://vidsrc.cc/v3/embed/tv/85937/3/4"
+            },
+            {
+              "provider": "VidLink.pro",
+              "url": "https://vidlink.pro/tv/85937/3/4"
+            },
+            {
+              "provider": "AutoEmbed.cc",
+              "url": "https://autoembed.cc/tv/tmdb/85937-3-4"
+            },
+            {
+              "provider": "Videasy",
+              "url": "https://player.videasy.net/tv/85937/3/4"
+            },
+            {
+              "provider": "VidSrc.pro",
+              "url": "https://vidsrc.pro/embed/tv/85937/3/4"
+            },
+            {
+              "provider": "2Embed.cc",
+              "url": "https://www.2embed.cc/embedtv/tt9335498&s=3&e=4"
+            }
+          ]
+        },
+        {
+          "episode": 5,
+          "title": "Things Are Gonna Get Real Flashy!!",
+          "air_date": "2022-01-02",
+          "rating": 8.0,
+          "overview": "After being told of Zenitsu’s disappearance and to leave the Entertainment District by Uzui, Tanjiro and Inosuke decide that they will rescue Zenitsu. That evening, Tanjiro picks up a scent of a demon, which leads him to Koinatsu Oiran being swallowed by Daki’s belt. With Uzui nowhere in sight, Tanjiro must face the Upper Six demon alone.",
+          "still_image": "https://image.tmdb.org/t/p/w500/xHobu2pJtnRePBxrvxafUHXKJNr.jpg",
+          "embed_links": [
+            {
+              "provider": "VidSrc.me",
+              "url": "https://vidsrc.me/embed/tv?tmdb=85937&season=3&episode=5"
+            },
+            {
+              "provider": "VidSrc.cc (v2)",
+              "url": "https://vidsrc.cc/v2/embed/tv/85937/3/5"
+            },
+            {
+              "provider": "VidSrc.cc (v3)",
+              "url": "https://vidsrc.cc/v3/embed/tv/85937/3/5"
+            },
+            {
+              "provider": "VidLink.pro",
+              "url": "https://vidlink.pro/tv/85937/3/5"
+            },
+            {
+              "provider": "AutoEmbed.cc",
+              "url": "https://autoembed.cc/tv/tmdb/85937-3-5"
+            },
+            {
+              "provider": "Videasy",
+              "url": "https://player.videasy.net/tv/85937/3/5"
+            },
+            {
+              "provider": "VidSrc.pro",
+              "url": "https://vidsrc.pro/embed/tv/85937/3/5"
+            },
+            {
+              "provider": "2Embed.cc",
+              "url": "https://www.2embed.cc/embedtv/tt9335498&s=3&e=5"
+            }
+          ]
+        },
+        {
+          "episode": 6,
+          "title": "Layered Memories",
+          "air_date": "2022-01-09",
+          "rating": 8.4,
+          "overview": "During the fierce battle with Daki, Tanjiro continues to unleash the Hinokami Kagura, which causes a huge strain on his body. Meanwhile, Inosuke reaches the Belt Demon’s nest and saves people who have been captured. Makio, Suma, and Zenitsu, who have been freed from the belt, join in on the fight. As the ceiling of the nest is broken, Uzui appears wielding his swords.",
+          "still_image": "https://image.tmdb.org/t/p/w500/9jSSKfsWXEPwiSz8eCMQK8St5gc.jpg",
+          "embed_links": [
+            {
+              "provider": "VidSrc.me",
+              "url": "https://vidsrc.me/embed/tv?tmdb=85937&season=3&episode=6"
+            },
+            {
+              "provider": "VidSrc.cc (v2)",
+              "url": "https://vidsrc.cc/v2/embed/tv/85937/3/6"
+            },
+            {
+              "provider": "VidSrc.cc (v3)",
+              "url": "https://vidsrc.cc/v3/embed/tv/85937/3/6"
+            },
+            {
+              "provider": "VidLink.pro",
+              "url": "https://vidlink.pro/tv/85937/3/6"
+            },
+            {
+              "provider": "AutoEmbed.cc",
+              "url": "https://autoembed.cc/tv/tmdb/85937-3-6"
+            },
+            {
+              "provider": "Videasy",
+              "url": "https://player.videasy.net/tv/85937/3/6"
+            },
+            {
+              "provider": "VidSrc.pro",
+              "url": "https://vidsrc.pro/embed/tv/85937/3/6"
+            },
+            {
+              "provider": "2Embed.cc",
+              "url": "https://www.2embed.cc/embedtv/tt9335498&s=3&e=6"
+            }
+          ]
+        },
+        {
+          "episode": 7,
+          "title": "Transformation",
+          "air_date": "2022-01-16",
+          "rating": 8.1,
+          "overview": "Enraged by Daki's contempt for human life, Tanjiro attacks her with more intensity and gradually corners the demon. But he's already gone past his physical limit. As Tanjiro collapses and all seems lost again, Nezuko appears. A vicious battle ensues and Nezuko starts transforming into a more demon-like form...",
+          "still_image": "https://image.tmdb.org/t/p/w500/6IVxJBaIAOboW9HXzx0Kr0DevAZ.jpg",
+          "embed_links": [
+            {
+              "provider": "VidSrc.me",
+              "url": "https://vidsrc.me/embed/tv?tmdb=85937&season=3&episode=7"
+            },
+            {
+              "provider": "VidSrc.cc (v2)",
+              "url": "https://vidsrc.cc/v2/embed/tv/85937/3/7"
+            },
+            {
+              "provider": "VidSrc.cc (v3)",
+              "url": "https://vidsrc.cc/v3/embed/tv/85937/3/7"
+            },
+            {
+              "provider": "VidLink.pro",
+              "url": "https://vidlink.pro/tv/85937/3/7"
+            },
+            {
+              "provider": "AutoEmbed.cc",
+              "url": "https://autoembed.cc/tv/tmdb/85937-3-7"
+            },
+            {
+              "provider": "Videasy",
+              "url": "https://player.videasy.net/tv/85937/3/7"
+            },
+            {
+              "provider": "VidSrc.pro",
+              "url": "https://vidsrc.pro/embed/tv/85937/3/7"
+            },
+            {
+              "provider": "2Embed.cc",
+              "url": "https://www.2embed.cc/embedtv/tt9335498&s=3&e=7"
+            }
+          ]
+        },
+        {
+          "episode": 8,
+          "title": "Gathering",
+          "air_date": "2022-01-23",
+          "rating": 8.2,
+          "overview": "After Nezuko attempts to attack innocent bystanders as her demon form advances, Tanjiro is finally able to make her fall asleep by singing a lullaby. Meanwhile, another demon emerges out of Daki's body after being beheaded by Uzui - Gyutaro, Daki's older brother and the other form of Upper Six. Uzui must now face both demons, Daki and Gyutaro.",
+          "still_image": "https://image.tmdb.org/t/p/w500/5UvxFzLy40MGDue1fvTDFmz2WNj.jpg",
+          "embed_links": [
+            {
+              "provider": "VidSrc.me",
+              "url": "https://vidsrc.me/embed/tv?tmdb=85937&season=3&episode=8"
+            },
+            {
+              "provider": "VidSrc.cc (v2)",
+              "url": "https://vidsrc.cc/v2/embed/tv/85937/3/8"
+            },
+            {
+              "provider": "VidSrc.cc (v3)",
+              "url": "https://vidsrc.cc/v3/embed/tv/85937/3/8"
+            },
+            {
+              "provider": "VidLink.pro",
+              "url": "https://vidlink.pro/tv/85937/3/8"
+            },
+            {
+              "provider": "AutoEmbed.cc",
+              "url": "https://autoembed.cc/tv/tmdb/85937-3-8"
+            },
+            {
+              "provider": "Videasy",
+              "url": "https://player.videasy.net/tv/85937/3/8"
+            },
+            {
+              "provider": "VidSrc.pro",
+              "url": "https://vidsrc.pro/embed/tv/85937/3/8"
+            },
+            {
+              "provider": "2Embed.cc",
+              "url": "https://www.2embed.cc/embedtv/tt9335498&s=3&e=8"
+            }
+          ]
+        },
+        {
+          "episode": 9,
+          "title": "Defeating an Upper Rank Demon",
+          "air_date": "2022-01-30",
+          "rating": 8.5,
+          "overview": "Tanjiro, Zenitsu and Inosuke have joined Uzui in battle. While Zenitsu and Inosuke take on Daki, Tanjiro and Uzui deal with Gyutaro; however, they struggle as the demons have the upper hand with their coordinated attacks. But thanks to Hinatsuru's help and some teamwork from Uzui, Tanjiro's blade finds its way towards Gyutaro's neck...",
+          "still_image": "https://image.tmdb.org/t/p/w500/8qmQglGIAYFk3cPGONQrr3EpxQ7.jpg",
+          "embed_links": [
+            {
+              "provider": "VidSrc.me",
+              "url": "https://vidsrc.me/embed/tv?tmdb=85937&season=3&episode=9"
+            },
+            {
+              "provider": "VidSrc.cc (v2)",
+              "url": "https://vidsrc.cc/v2/embed/tv/85937/3/9"
+            },
+            {
+              "provider": "VidSrc.cc (v3)",
+              "url": "https://vidsrc.cc/v3/embed/tv/85937/3/9"
+            },
+            {
+              "provider": "VidLink.pro",
+              "url": "https://vidlink.pro/tv/85937/3/9"
+            },
+            {
+              "provider": "AutoEmbed.cc",
+              "url": "https://autoembed.cc/tv/tmdb/85937-3-9"
+            },
+            {
+              "provider": "Videasy",
+              "url": "https://player.videasy.net/tv/85937/3/9"
+            },
+            {
+              "provider": "VidSrc.pro",
+              "url": "https://vidsrc.pro/embed/tv/85937/3/9"
+            },
+            {
+              "provider": "2Embed.cc",
+              "url": "https://www.2embed.cc/embedtv/tt9335498&s=3&e=9"
+            }
+          ]
+        },
+        {
+          "episode": 10,
+          "title": "Never Give Up",
+          "air_date": "2022-02-06",
+          "rating": 8.7,
+          "overview": "Tanjiro and Uzui have been separated by Gyutaro’s Blood Demon Art. As Tanjiro joins the struggling Zenitsu and Inosuke, they manage to decapitate Daki at last thanks to their coordinated barrage of sword strikes. However, when Inosuke tries to run off with Daki’s head, he gets pierced by Gyutaro’s scythe. Uzui has also collapsed, leaving Tanjiro and the others with their backs to the wall.",
+          "still_image": "https://image.tmdb.org/t/p/w500/9vq4YJdsQ53D4CqQQumRHg6gLgg.jpg",
+          "embed_links": [
+            {
+              "provider": "VidSrc.me",
+              "url": "https://vidsrc.me/embed/tv?tmdb=85937&season=3&episode=10"
+            },
+            {
+              "provider": "VidSrc.cc (v2)",
+              "url": "https://vidsrc.cc/v2/embed/tv/85937/3/10"
+            },
+            {
+              "provider": "VidSrc.cc (v3)",
+              "url": "https://vidsrc.cc/v3/embed/tv/85937/3/10"
+            },
+            {
+              "provider": "VidLink.pro",
+              "url": "https://vidlink.pro/tv/85937/3/10"
+            },
+            {
+              "provider": "AutoEmbed.cc",
+              "url": "https://autoembed.cc/tv/tmdb/85937-3-10"
+            },
+            {
+              "provider": "Videasy",
+              "url": "https://player.videasy.net/tv/85937/3/10"
+            },
+            {
+              "provider": "VidSrc.pro",
+              "url": "https://vidsrc.pro/embed/tv/85937/3/10"
+            },
+            {
+              "provider": "2Embed.cc",
+              "url": "https://www.2embed.cc/embedtv/tt9335498&s=3&e=10"
+            }
+          ]
+        },
+        {
+          "episode": 11,
+          "title": "No Matter How Many Lives",
+          "air_date": "2022-02-13",
+          "rating": 7.5,
+          "overview": "Uzui deflects all of Gyutaro's Blood Demon Art attacks, and despite getting pierced in the jaw, Tanjiro is able to slice off Gyutaro's head. Though wounded from head to toe, Zenitsu and Inosuke also behead Daki, and they succeed in decapitating both demons at the same time. Just when it seems as though they've defeated the Upper Six demons after a fierce struggle, Gyutaro unleashes his Blood Demon Art...",
+          "still_image": "https://image.tmdb.org/t/p/w500/rO0yt4BIcSZRuIwPlK0QsyhjPZ3.jpg",
+          "embed_links": [
+            {
+              "provider": "VidSrc.me",
+              "url": "https://vidsrc.me/embed/tv?tmdb=85937&season=3&episode=11"
+            },
+            {
+              "provider": "VidSrc.cc (v2)",
+              "url": "https://vidsrc.cc/v2/embed/tv/85937/3/11"
+            },
+            {
+              "provider": "VidSrc.cc (v3)",
+              "url": "https://vidsrc.cc/v3/embed/tv/85937/3/11"
+            },
+            {
+              "provider": "VidLink.pro",
+              "url": "https://vidlink.pro/tv/85937/3/11"
+            },
+            {
+              "provider": "AutoEmbed.cc",
+              "url": "https://autoembed.cc/tv/tmdb/85937-3-11"
+            },
+            {
+              "provider": "Videasy",
+              "url": "https://player.videasy.net/tv/85937/3/11"
+            },
+            {
+              "provider": "VidSrc.pro",
+              "url": "https://vidsrc.pro/embed/tv/85937/3/11"
+            },
+            {
+              "provider": "2Embed.cc",
+              "url": "https://www.2embed.cc/embedtv/tt9335498&s=3&e=11"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "season": 4,
+      "name": "Swordsmith Village Arc",
+      "air_date": "2023-04-09",
+      "poster": "https://image.tmdb.org/t/p/w500/6gD7G8HQay1X8mHiFVttWJ3czYb.jpg",
+      "episode_count": 11,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "Someone's Dream",
+          "air_date": "2023-04-09",
+          "rating": 6.7,
+          "overview": "An Upper Rank Demon has been defeated for the first time in a hundred years by Uzui, Tanjiro, and his comrades' effort. This news causes a ripple effect not only among the members of the Demon Slayer Corps, but also the Upper Rank Demons, who have been summoned by Muzan Kibutsuji. Meanwhile, Tanjiro is recovering at the Butterfly Mansion when he discovers that he has upset his swordsmith Haganezuka after chipping his sword and decides to head to the village where the swordsmiths live to talk to him in person.",
+          "still_image": "https://image.tmdb.org/t/p/w500/cqDCLZ050JmmumJyTA9FbuQe6a3.jpg",
+          "embed_links": [
+            {
+              "provider": "VidSrc.me",
+              "url": "https://vidsrc.me/embed/tv?tmdb=85937&season=4&episode=1"
+            },
+            {
+              "provider": "VidSrc.cc (v2)",
+              "url": "https://vidsrc.cc/v2/embed/tv/85937/4/1"
+            },
+            {
+              "provider": "VidSrc.cc (v3)",
+              "url": "https://vidsrc.cc/v3/embed/tv/85937/4/1"
+            },
+            {
+              "provider": "VidLink.pro",
+              "url": "https://vidlink.pro/tv/85937/4/1"
+            },
+            {
+              "provider": "AutoEmbed.cc",
+              "url": "https://autoembed.cc/tv/tmdb/85937-4-1"
+            },
+            {
+              "provider": "Videasy",
+              "url": "https://player.videasy.net/tv/85937/4/1"
+            },
+            {
+              "provider": "VidSrc.pro",
+              "url": "https://vidsrc.pro/embed/tv/85937/4/1"
+            },
+            {
+              "provider": "2Embed.cc",
+              "url": "https://www.2embed.cc/embedtv/tt9335498&s=4&e=1"
+            }
+          ]
+        },
+        {
+          "episode": 2,
+          "title": "Yoriichi Type Zero",
+          "air_date": "2023-04-16",
+          "rating": 6.7,
+          "overview": "Tanjiro intervenes during an argument between a pillar and an apprentice blacksmith and learns of the existence of an amazing training method.",
+          "still_image": "https://image.tmdb.org/t/p/w500/uvT1yTTx3rfAIP8AtqxtSM0ZxRB.jpg",
+          "embed_links": [
+            {
+              "provider": "VidSrc.me",
+              "url": "https://vidsrc.me/embed/tv?tmdb=85937&season=4&episode=2"
+            },
+            {
+              "provider": "VidSrc.cc (v2)",
+              "url": "https://vidsrc.cc/v2/embed/tv/85937/4/2"
+            },
+            {
+              "provider": "VidSrc.cc (v3)",
+              "url": "https://vidsrc.cc/v3/embed/tv/85937/4/2"
+            },
+            {
+              "provider": "VidLink.pro",
+              "url": "https://vidlink.pro/tv/85937/4/2"
+            },
+            {
+              "provider": "AutoEmbed.cc",
+              "url": "https://autoembed.cc/tv/tmdb/85937-4-2"
+            },
+            {
+              "provider": "Videasy",
+              "url": "https://player.videasy.net/tv/85937/4/2"
+            },
+            {
+              "provider": "VidSrc.pro",
+              "url": "https://vidsrc.pro/embed/tv/85937/4/2"
+            },
+            {
+              "provider": "2Embed.cc",
+              "url": "https://www.2embed.cc/embedtv/tt9335498&s=4&e=2"
+            }
+          ]
+        },
+        {
+          "episode": 3,
+          "title": "A Sword From Over 300 Years Ago",
+          "air_date": "2023-04-23",
+          "rating": 6.8,
+          "overview": "Tanjiro begins his training with Yoriichi Type Zero and is pushed to the limits by Kotetsu's relentless coaching and extreme training. Through this experience, Tanjiro masters a new skill of predicting where the opponent's next move will hit by using his sense of smell. During his training, Tanjiro lands a blow on Yoriichi Type Zero and ends up destroying it, but a sword from over 300 years ago appears from inside...",
+          "still_image": "https://image.tmdb.org/t/p/w500/wquxWyBwsXG3lWrDjg7TQKSRfew.jpg",
+          "embed_links": [
+            {
+              "provider": "VidSrc.me",
+              "url": "https://vidsrc.me/embed/tv?tmdb=85937&season=4&episode=3"
+            },
+            {
+              "provider": "VidSrc.cc (v2)",
+              "url": "https://vidsrc.cc/v2/embed/tv/85937/4/3"
+            },
+            {
+              "provider": "VidSrc.cc (v3)",
+              "url": "https://vidsrc.cc/v3/embed/tv/85937/4/3"
+            },
+            {
+              "provider": "VidLink.pro",
+              "url": "https://vidlink.pro/tv/85937/4/3"
+            },
+            {
+              "provider": "AutoEmbed.cc",
+              "url": "https://autoembed.cc/tv/tmdb/85937-4-3"
+            },
+            {
+              "provider": "Videasy",
+              "url": "https://player.videasy.net/tv/85937/4/3"
+            },
+            {
+              "provider": "VidSrc.pro",
+              "url": "https://vidsrc.pro/embed/tv/85937/4/3"
+            },
+            {
+              "provider": "2Embed.cc",
+              "url": "https://www.2embed.cc/embedtv/tt9335498&s=4&e=3"
+            }
+          ]
+        },
+        {
+          "episode": 4,
+          "title": "Thank You, Tokito",
+          "air_date": "2023-04-30",
+          "rating": 6.5,
+          "overview": "Hantengu's head is slashed by Muichiro and he splits into two clones. Muichiro is blown away by Karaku. Tanjiro, Nezuko and Genya are stunned when the clones split into more clones. Muichiro rescues Kotetsu from a Goldfish Demon.",
+          "still_image": "https://image.tmdb.org/t/p/w500/7CJiq7TcX6V6OcY9SnhMQMs0exV.jpg",
+          "embed_links": [
+            {
+              "provider": "VidSrc.me",
+              "url": "https://vidsrc.me/embed/tv?tmdb=85937&season=4&episode=4"
+            },
+            {
+              "provider": "VidSrc.cc (v2)",
+              "url": "https://vidsrc.cc/v2/embed/tv/85937/4/4"
+            },
+            {
+              "provider": "VidSrc.cc (v3)",
+              "url": "https://vidsrc.cc/v3/embed/tv/85937/4/4"
+            },
+            {
+              "provider": "VidLink.pro",
+              "url": "https://vidlink.pro/tv/85937/4/4"
+            },
+            {
+              "provider": "AutoEmbed.cc",
+              "url": "https://autoembed.cc/tv/tmdb/85937-4-4"
+            },
+            {
+              "provider": "Videasy",
+              "url": "https://player.videasy.net/tv/85937/4/4"
+            },
+            {
+              "provider": "VidSrc.pro",
+              "url": "https://vidsrc.pro/embed/tv/85937/4/4"
+            },
+            {
+              "provider": "2Embed.cc",
+              "url": "https://www.2embed.cc/embedtv/tt9335498&s=4&e=4"
+            }
+          ]
+        },
+        {
+          "episode": 5,
+          "title": "Bright Red Sword",
+          "air_date": "2023-05-07",
+          "rating": 7.0,
+          "overview": "Tokito continues advancing through the forest and finds Mr. Kanamori. As soon as they arrive at the work hut in the middle of the forest, they are welcomed by Gyokko. Meanwhile, Tanjiro continues his fight against Hantengu.",
+          "still_image": "https://image.tmdb.org/t/p/w500/7DvvdeA0bY3VIhicNYRuD19W28N.jpg",
+          "embed_links": [
+            {
+              "provider": "VidSrc.me",
+              "url": "https://vidsrc.me/embed/tv?tmdb=85937&season=4&episode=5"
+            },
+            {
+              "provider": "VidSrc.cc (v2)",
+              "url": "https://vidsrc.cc/v2/embed/tv/85937/4/5"
+            },
+            {
+              "provider": "VidSrc.cc (v3)",
+              "url": "https://vidsrc.cc/v3/embed/tv/85937/4/5"
+            },
+            {
+              "provider": "VidLink.pro",
+              "url": "https://vidlink.pro/tv/85937/4/5"
+            },
+            {
+              "provider": "AutoEmbed.cc",
+              "url": "https://autoembed.cc/tv/tmdb/85937-4-5"
+            },
+            {
+              "provider": "Videasy",
+              "url": "https://player.videasy.net/tv/85937/4/5"
+            },
+            {
+              "provider": "VidSrc.pro",
+              "url": "https://vidsrc.pro/embed/tv/85937/4/5"
+            },
+            {
+              "provider": "2Embed.cc",
+              "url": "https://www.2embed.cc/embedtv/tt9335498&s=4&e=5"
+            }
+          ]
+        },
+        {
+          "episode": 6,
+          "title": "Aren't You Going to Become a Hashira?",
+          "air_date": "2023-05-14",
+          "rating": 6.4,
+          "overview": "Two simultaneous fights continue, Tanjiro, Nezuko and Genya against Hantengu and Tokito against Gyokko. Genya began to show a demonic form. Tanjiro asks him to look for Hantengu's real body, but memories of the past begin to plague Genya.",
+          "still_image": "https://image.tmdb.org/t/p/w500/o0HAhA3zeNsPQPtAnoigJlpCCuk.jpg",
+          "embed_links": [
+            {
+              "provider": "VidSrc.me",
+              "url": "https://vidsrc.me/embed/tv?tmdb=85937&season=4&episode=6"
+            },
+            {
+              "provider": "VidSrc.cc (v2)",
+              "url": "https://vidsrc.cc/v2/embed/tv/85937/4/6"
+            },
+            {
+              "provider": "VidSrc.cc (v3)",
+              "url": "https://vidsrc.cc/v3/embed/tv/85937/4/6"
+            },
+            {
+              "provider": "VidLink.pro",
+              "url": "https://vidlink.pro/tv/85937/4/6"
+            },
+            {
+              "provider": "AutoEmbed.cc",
+              "url": "https://autoembed.cc/tv/tmdb/85937-4-6"
+            },
+            {
+              "provider": "Videasy",
+              "url": "https://player.videasy.net/tv/85937/4/6"
+            },
+            {
+              "provider": "VidSrc.pro",
+              "url": "https://vidsrc.pro/embed/tv/85937/4/6"
+            },
+            {
+              "provider": "2Embed.cc",
+              "url": "https://www.2embed.cc/embedtv/tt9335498&s=4&e=6"
+            }
+          ]
+        },
+        {
+          "episode": 7,
+          "title": "Awful Villain",
+          "air_date": "2023-05-21",
+          "rating": 5.6,
+          "overview": "Genya aims for the neck of the fifth demon that split off from Hantengu, but the demon's neck is shockingly hard, and his sword snaps in half in his attempt to strike it. His gun is also ineffective and Genya is driven into a corner. Realizing that he is unable to sever the neck by himself, he entrusts defeating the fifth demon, which is believed to be the main body, to Tanjiro. Taking on Genya's will, Tanjiro wields his sword against the fleeing demon...",
+          "still_image": "https://image.tmdb.org/t/p/w500/7jOdHvdpD5oKGsRgixuMCJ5P5vJ.jpg",
+          "embed_links": [
+            {
+              "provider": "VidSrc.me",
+              "url": "https://vidsrc.me/embed/tv?tmdb=85937&season=4&episode=7"
+            },
+            {
+              "provider": "VidSrc.cc (v2)",
+              "url": "https://vidsrc.cc/v2/embed/tv/85937/4/7"
+            },
+            {
+              "provider": "VidSrc.cc (v3)",
+              "url": "https://vidsrc.cc/v3/embed/tv/85937/4/7"
+            },
+            {
+              "provider": "VidLink.pro",
+              "url": "https://vidlink.pro/tv/85937/4/7"
+            },
+            {
+              "provider": "AutoEmbed.cc",
+              "url": "https://autoembed.cc/tv/tmdb/85937-4-7"
+            },
+            {
+              "provider": "Videasy",
+              "url": "https://player.videasy.net/tv/85937/4/7"
+            },
+            {
+              "provider": "VidSrc.pro",
+              "url": "https://vidsrc.pro/embed/tv/85937/4/7"
+            },
+            {
+              "provider": "2Embed.cc",
+              "url": "https://www.2embed.cc/embedtv/tt9335498&s=4&e=7"
+            }
+          ]
+        },
+        {
+          "episode": 8,
+          "title": "The ‘Mu’ In Muichiro",
+          "air_date": "2023-05-28",
+          "rating": 5.7,
+          "overview": "Muichiro, with the help of air blown by Kotetsu to him, escapes Gyokko's Water Prison Pot. Muichiro finally recalls his tragic past.",
+          "still_image": "https://image.tmdb.org/t/p/w500/twKgIalhN0PeahBx8mwk8UaMhvh.jpg",
+          "embed_links": [
+            {
+              "provider": "VidSrc.me",
+              "url": "https://vidsrc.me/embed/tv?tmdb=85937&season=4&episode=8"
+            },
+            {
+              "provider": "VidSrc.cc (v2)",
+              "url": "https://vidsrc.cc/v2/embed/tv/85937/4/8"
+            },
+            {
+              "provider": "VidSrc.cc (v3)",
+              "url": "https://vidsrc.cc/v3/embed/tv/85937/4/8"
+            },
+            {
+              "provider": "VidLink.pro",
+              "url": "https://vidlink.pro/tv/85937/4/8"
+            },
+            {
+              "provider": "AutoEmbed.cc",
+              "url": "https://autoembed.cc/tv/tmdb/85937-4-8"
+            },
+            {
+              "provider": "Videasy",
+              "url": "https://player.videasy.net/tv/85937/4/8"
+            },
+            {
+              "provider": "VidSrc.pro",
+              "url": "https://vidsrc.pro/embed/tv/85937/4/8"
+            },
+            {
+              "provider": "2Embed.cc",
+              "url": "https://www.2embed.cc/embedtv/tt9335498&s=4&e=8"
+            }
+          ]
+        },
+        {
+          "episode": 9,
+          "title": "Mist Hashira: Muichiro Tokito",
+          "air_date": "2023-06-04",
+          "rating": 5.9,
+          "overview": "Armed with his memories, Muichiro feels powerful and invincible, convinced that the demonic fifth moon has no chance against him.",
+          "still_image": "https://image.tmdb.org/t/p/w500/6EgVImJC0fn0jshgw12NHRf5Rzd.jpg",
+          "embed_links": [
+            {
+              "provider": "VidSrc.me",
+              "url": "https://vidsrc.me/embed/tv?tmdb=85937&season=4&episode=9"
+            },
+            {
+              "provider": "VidSrc.cc (v2)",
+              "url": "https://vidsrc.cc/v2/embed/tv/85937/4/9"
+            },
+            {
+              "provider": "VidSrc.cc (v3)",
+              "url": "https://vidsrc.cc/v3/embed/tv/85937/4/9"
+            },
+            {
+              "provider": "VidLink.pro",
+              "url": "https://vidlink.pro/tv/85937/4/9"
+            },
+            {
+              "provider": "AutoEmbed.cc",
+              "url": "https://autoembed.cc/tv/tmdb/85937-4-9"
+            },
+            {
+              "provider": "Videasy",
+              "url": "https://player.videasy.net/tv/85937/4/9"
+            },
+            {
+              "provider": "VidSrc.pro",
+              "url": "https://vidsrc.pro/embed/tv/85937/4/9"
+            },
+            {
+              "provider": "2Embed.cc",
+              "url": "https://www.2embed.cc/embedtv/tt9335498&s=4&e=9"
+            }
+          ]
+        },
+        {
+          "episode": 10,
+          "title": "Love Hashira: Mitsuri Kanroji",
+          "air_date": "2023-06-11",
+          "rating": 6.0,
+          "overview": "Tanjiro, Nezuko, and Genya are struggling through an arduous battle against Zohakuten and his five tree dragons. They are forced to fight defensively against the tree dragons using the four emotion demon's powers, and Tanjiro is swallowed by one of them amidst the fight. Just as Tanjiro is close to meeting his demise, Mitsuri arrives in the nick of time and rescues him. And now, Mitsuri faces off against Zohakuten to rescue the captured Nezuko and Genya...!",
+          "still_image": "https://image.tmdb.org/t/p/w500/iKD90AUxGHcLHGvbuSKfqq76rbE.jpg",
+          "embed_links": [
+            {
+              "provider": "VidSrc.me",
+              "url": "https://vidsrc.me/embed/tv?tmdb=85937&season=4&episode=10"
+            },
+            {
+              "provider": "VidSrc.cc (v2)",
+              "url": "https://vidsrc.cc/v2/embed/tv/85937/4/10"
+            },
+            {
+              "provider": "VidSrc.cc (v3)",
+              "url": "https://vidsrc.cc/v3/embed/tv/85937/4/10"
+            },
+            {
+              "provider": "VidLink.pro",
+              "url": "https://vidlink.pro/tv/85937/4/10"
+            },
+            {
+              "provider": "AutoEmbed.cc",
+              "url": "https://autoembed.cc/tv/tmdb/85937-4-10"
+            },
+            {
+              "provider": "Videasy",
+              "url": "https://player.videasy.net/tv/85937/4/10"
+            },
+            {
+              "provider": "VidSrc.pro",
+              "url": "https://vidsrc.pro/embed/tv/85937/4/10"
+            },
+            {
+              "provider": "2Embed.cc",
+              "url": "https://www.2embed.cc/embedtv/tt9335498&s=4&e=10"
+            }
+          ]
+        },
+        {
+          "episode": 11,
+          "title": "A Connected Bond: Daybreak and First Light",
+          "air_date": "2023-06-18",
+          "rating": 8.1,
+          "overview": "Tanjiro continues the fight against Hantengu. Amidst all his injuries and the Superior Four's skill, will he be able to defeat him? As the battle draws to a close, the Demon Slayer Squad must race against time to end the fight before dawn.",
+          "still_image": "https://image.tmdb.org/t/p/w500/kFvPNnB8215j0xudEtFXa7oJ8F6.jpg",
+          "embed_links": [
+            {
+              "provider": "VidSrc.me",
+              "url": "https://vidsrc.me/embed/tv?tmdb=85937&season=4&episode=11"
+            },
+            {
+              "provider": "VidSrc.cc (v2)",
+              "url": "https://vidsrc.cc/v2/embed/tv/85937/4/11"
+            },
+            {
+              "provider": "VidSrc.cc (v3)",
+              "url": "https://vidsrc.cc/v3/embed/tv/85937/4/11"
+            },
+            {
+              "provider": "VidLink.pro",
+              "url": "https://vidlink.pro/tv/85937/4/11"
+            },
+            {
+              "provider": "AutoEmbed.cc",
+              "url": "https://autoembed.cc/tv/tmdb/85937-4-11"
+            },
+            {
+              "provider": "Videasy",
+              "url": "https://player.videasy.net/tv/85937/4/11"
+            },
+            {
+              "provider": "VidSrc.pro",
+              "url": "https://vidsrc.pro/embed/tv/85937/4/11"
+            },
+            {
+              "provider": "2Embed.cc",
+              "url": "https://www.2embed.cc/embedtv/tt9335498&s=4&e=11"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "season": 5,
+      "name": "Hashira Training Arc",
+      "air_date": "2024-05-12",
+      "poster": "https://image.tmdb.org/t/p/w500/axI3BUZgTYz36IYtUtRhivtspUo.jpg",
+      "episode_count": 8,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "To Defeat Muzan Kibutsuji",
+          "air_date": "2024-05-12",
+          "rating": 7.3,
+          "overview": "The Hashira, Sanemi and Iguro, along with their comrades head to an abandoned castle on top of a mountain for a mission, while Tanjiro is being treated at the Butterfly Mansion for the wounds he suffered at the Swordsmith Village. Later on, the Hashira gather at the Ubuyashiki Mansion to hold a Hashira meeting, where Muichiro reveals how the marks manifested. In an effort to strengthen the entire Demon Slayer Corps from the bottom up, the Hashira Training begins...",
+          "still_image": "https://image.tmdb.org/t/p/w500/rgDvHS8LHTHuU4Xx64sSVvA39gZ.jpg",
+          "embed_links": [
+            {
+              "provider": "VidSrc.me",
+              "url": "https://vidsrc.me/embed/tv?tmdb=85937&season=5&episode=1"
+            },
+            {
+              "provider": "VidSrc.cc (v2)",
+              "url": "https://vidsrc.cc/v2/embed/tv/85937/5/1"
+            },
+            {
+              "provider": "VidSrc.cc (v3)",
+              "url": "https://vidsrc.cc/v3/embed/tv/85937/5/1"
+            },
+            {
+              "provider": "VidLink.pro",
+              "url": "https://vidlink.pro/tv/85937/5/1"
+            },
+            {
+              "provider": "AutoEmbed.cc",
+              "url": "https://autoembed.cc/tv/tmdb/85937-5-1"
+            },
+            {
+              "provider": "Videasy",
+              "url": "https://player.videasy.net/tv/85937/5/1"
+            },
+            {
+              "provider": "VidSrc.pro",
+              "url": "https://vidsrc.pro/embed/tv/85937/5/1"
+            },
+            {
+              "provider": "2Embed.cc",
+              "url": "https://www.2embed.cc/embedtv/tt9335498&s=5&e=1"
+            }
+          ]
+        },
+        {
+          "episode": 2,
+          "title": "Water Hashira Giyu Tomioka's Pain",
+          "air_date": "2024-05-19",
+          "rating": 7.5,
+          "overview": "Kagaya's Kasugai Crow suddenly appears in front of Tamayo and invites her to the Demon Slayer headquarters — even though she is a demon. Meanwhile, after receiving a letter from Kagaya at the Butterfly Mansion, Tanjiro pays a visit to Giyu, who is not participating in the Hashira Training. At first, Tanjiro is rejected by Giyu but patiently continues to try to talk to him. Giyu, who gives in to Tanjiro's persistence, begins to share the reason why he won't participate in the training.",
+          "still_image": "https://image.tmdb.org/t/p/w500/wJPkCpsVFmMS6lAgBbLW5zs8Q3f.jpg",
+          "embed_links": [
+            {
+              "provider": "VidSrc.me",
+              "url": "https://vidsrc.me/embed/tv?tmdb=85937&season=5&episode=2"
+            },
+            {
+              "provider": "VidSrc.cc (v2)",
+              "url": "https://vidsrc.cc/v2/embed/tv/85937/5/2"
+            },
+            {
+              "provider": "VidSrc.cc (v3)",
+              "url": "https://vidsrc.cc/v3/embed/tv/85937/5/2"
+            },
+            {
+              "provider": "VidLink.pro",
+              "url": "https://vidlink.pro/tv/85937/5/2"
+            },
+            {
+              "provider": "AutoEmbed.cc",
+              "url": "https://autoembed.cc/tv/tmdb/85937-5-2"
+            },
+            {
+              "provider": "Videasy",
+              "url": "https://player.videasy.net/tv/85937/5/2"
+            },
+            {
+              "provider": "VidSrc.pro",
+              "url": "https://vidsrc.pro/embed/tv/85937/5/2"
+            },
+            {
+              "provider": "2Embed.cc",
+              "url": "https://www.2embed.cc/embedtv/tt9335498&s=5&e=2"
+            }
+          ]
+        },
+        {
+          "episode": 3,
+          "title": "Fully Recovered Tanjiro Joins the Hashira Training!!",
+          "air_date": "2024-05-26",
+          "rating": 7.2,
+          "overview": "After talking with Tanjiro, Giyu is able to overcome his past self and decides to join the training. Meanwhile, Tanjiro's wounds have healed enough to join the training, and heads to his first training with the former Hashira, Uzui.",
+          "still_image": "https://image.tmdb.org/t/p/w500/mNiT7VrfYxQXbgVqEEWtyM2EgRu.jpg",
+          "embed_links": [
+            {
+              "provider": "VidSrc.me",
+              "url": "https://vidsrc.me/embed/tv?tmdb=85937&season=5&episode=3"
+            },
+            {
+              "provider": "VidSrc.cc (v2)",
+              "url": "https://vidsrc.cc/v2/embed/tv/85937/5/3"
+            },
+            {
+              "provider": "VidSrc.cc (v3)",
+              "url": "https://vidsrc.cc/v3/embed/tv/85937/5/3"
+            },
+            {
+              "provider": "VidLink.pro",
+              "url": "https://vidlink.pro/tv/85937/5/3"
+            },
+            {
+              "provider": "AutoEmbed.cc",
+              "url": "https://autoembed.cc/tv/tmdb/85937-5-3"
+            },
+            {
+              "provider": "Videasy",
+              "url": "https://player.videasy.net/tv/85937/5/3"
+            },
+            {
+              "provider": "VidSrc.pro",
+              "url": "https://vidsrc.pro/embed/tv/85937/5/3"
+            },
+            {
+              "provider": "2Embed.cc",
+              "url": "https://www.2embed.cc/embedtv/tt9335498&s=5&e=3"
+            }
+          ]
+        },
+        {
+          "episode": 4,
+          "title": "To Bring a Smile to One's Face",
+          "air_date": "2024-06-02",
+          "rating": 7.3,
+          "overview": "After completing training with Uzui, Tanjiro visits the Tokito residence next. The Demon Slayer swordsmen who have already started the training are dispirited by Muichiro's intense training and harsh words. Tanjiro hears the swordsmen discussing if there's anything they can do about it...",
+          "still_image": "https://image.tmdb.org/t/p/w500/bQQ0uQ5AJ7sYDbirDIzB33J7FgF.jpg",
+          "embed_links": [
+            {
+              "provider": "VidSrc.me",
+              "url": "https://vidsrc.me/embed/tv?tmdb=85937&season=5&episode=4"
+            },
+            {
+              "provider": "VidSrc.cc (v2)",
+              "url": "https://vidsrc.cc/v2/embed/tv/85937/5/4"
+            },
+            {
+              "provider": "VidSrc.cc (v3)",
+              "url": "https://vidsrc.cc/v3/embed/tv/85937/5/4"
+            },
+            {
+              "provider": "VidLink.pro",
+              "url": "https://vidlink.pro/tv/85937/5/4"
+            },
+            {
+              "provider": "AutoEmbed.cc",
+              "url": "https://autoembed.cc/tv/tmdb/85937-5-4"
+            },
+            {
+              "provider": "Videasy",
+              "url": "https://player.videasy.net/tv/85937/5/4"
+            },
+            {
+              "provider": "VidSrc.pro",
+              "url": "https://vidsrc.pro/embed/tv/85937/5/4"
+            },
+            {
+              "provider": "2Embed.cc",
+              "url": "https://www.2embed.cc/embedtv/tt9335498&s=5&e=4"
+            }
+          ]
+        },
+        {
+          "episode": 5,
+          "title": "I Even Ate Demons…",
+          "air_date": "2024-06-09",
+          "rating": 6.9,
+          "overview": "After completing Mitsuri's training, Tanjiro heads to train with Iguro. When he arrives at the training site, Iguro is waiting for him, visibly angry. Will he be able to complete this horrifying training where he'll have to fix his sword skills?",
+          "still_image": "https://image.tmdb.org/t/p/w500/iiKJxsJOT69R86Y5QFtUUQmeha.jpg",
+          "embed_links": [
+            {
+              "provider": "VidSrc.me",
+              "url": "https://vidsrc.me/embed/tv?tmdb=85937&season=5&episode=5"
+            },
+            {
+              "provider": "VidSrc.cc (v2)",
+              "url": "https://vidsrc.cc/v2/embed/tv/85937/5/5"
+            },
+            {
+              "provider": "VidSrc.cc (v3)",
+              "url": "https://vidsrc.cc/v3/embed/tv/85937/5/5"
+            },
+            {
+              "provider": "VidLink.pro",
+              "url": "https://vidlink.pro/tv/85937/5/5"
+            },
+            {
+              "provider": "AutoEmbed.cc",
+              "url": "https://autoembed.cc/tv/tmdb/85937-5-5"
+            },
+            {
+              "provider": "Videasy",
+              "url": "https://player.videasy.net/tv/85937/5/5"
+            },
+            {
+              "provider": "VidSrc.pro",
+              "url": "https://vidsrc.pro/embed/tv/85937/5/5"
+            },
+            {
+              "provider": "2Embed.cc",
+              "url": "https://www.2embed.cc/embedtv/tt9335498&s=5&e=5"
+            }
+          ]
+        },
+        {
+          "episode": 6,
+          "title": "The Strongest of the Demon Slayer Corps",
+          "air_date": "2024-06-16",
+          "rating": 7.2,
+          "overview": "Tanjiro and Zenitsu head to Himejima's training site deep in the mountains and reunite with Inosuke and Murata. Tanjiro first starts the training by being hit by a waterfall but struggles with the coldness and weight of the water.",
+          "still_image": "https://image.tmdb.org/t/p/w500/jwAiNnEDDgGathvC8VDTmfXqybH.jpg",
+          "embed_links": [
+            {
+              "provider": "VidSrc.me",
+              "url": "https://vidsrc.me/embed/tv?tmdb=85937&season=5&episode=6"
+            },
+            {
+              "provider": "VidSrc.cc (v2)",
+              "url": "https://vidsrc.cc/v2/embed/tv/85937/5/6"
+            },
+            {
+              "provider": "VidSrc.cc (v3)",
+              "url": "https://vidsrc.cc/v3/embed/tv/85937/5/6"
+            },
+            {
+              "provider": "VidLink.pro",
+              "url": "https://vidlink.pro/tv/85937/5/6"
+            },
+            {
+              "provider": "AutoEmbed.cc",
+              "url": "https://autoembed.cc/tv/tmdb/85937-5-6"
+            },
+            {
+              "provider": "Videasy",
+              "url": "https://player.videasy.net/tv/85937/5/6"
+            },
+            {
+              "provider": "VidSrc.pro",
+              "url": "https://vidsrc.pro/embed/tv/85937/5/6"
+            },
+            {
+              "provider": "2Embed.cc",
+              "url": "https://www.2embed.cc/embedtv/tt9335498&s=5&e=6"
+            }
+          ]
+        },
+        {
+          "episode": 7,
+          "title": "Stone Hashira: Gyōmei Himejima",
+          "air_date": "2024-06-23",
+          "rating": 7.3,
+          "overview": "Tanjiro was struggling with Himejima's tasks. Now he finally manages to move the boulder after receiving advice from Genya, whom he meets by chance. With this breakthrough, will Tanjiro be able to overcome Himejima's rigorous training?",
+          "still_image": "https://image.tmdb.org/t/p/w500/1rw2hmzC7yJwtDfXuP9MIYQvJWQ.jpg",
+          "embed_links": [
+            {
+              "provider": "VidSrc.me",
+              "url": "https://vidsrc.me/embed/tv?tmdb=85937&season=5&episode=7"
+            },
+            {
+              "provider": "VidSrc.cc (v2)",
+              "url": "https://vidsrc.cc/v2/embed/tv/85937/5/7"
+            },
+            {
+              "provider": "VidSrc.cc (v3)",
+              "url": "https://vidsrc.cc/v3/embed/tv/85937/5/7"
+            },
+            {
+              "provider": "VidLink.pro",
+              "url": "https://vidlink.pro/tv/85937/5/7"
+            },
+            {
+              "provider": "AutoEmbed.cc",
+              "url": "https://autoembed.cc/tv/tmdb/85937-5-7"
+            },
+            {
+              "provider": "Videasy",
+              "url": "https://player.videasy.net/tv/85937/5/7"
+            },
+            {
+              "provider": "VidSrc.pro",
+              "url": "https://vidsrc.pro/embed/tv/85937/5/7"
+            },
+            {
+              "provider": "2Embed.cc",
+              "url": "https://www.2embed.cc/embedtv/tt9335498&s=5&e=7"
+            }
+          ]
+        },
+        {
+          "episode": 8,
+          "title": "The Hashira Unite",
+          "air_date": "2024-06-30",
+          "rating": 7.6,
+          "overview": "During a silent night when the moon shines, Kagaya finally meets Muzan Kibutsuji, who appears at the Ubuyashiki Mansion.",
+          "still_image": "https://image.tmdb.org/t/p/w500/a8QEWBNIfRzXN7g5WOdrPS3QeKy.jpg",
+          "embed_links": [
+            {
+              "provider": "VidSrc.me",
+              "url": "https://vidsrc.me/embed/tv?tmdb=85937&season=5&episode=8"
+            },
+            {
+              "provider": "VidSrc.cc (v2)",
+              "url": "https://vidsrc.cc/v2/embed/tv/85937/5/8"
+            },
+            {
+              "provider": "VidSrc.cc (v3)",
+              "url": "https://vidsrc.cc/v3/embed/tv/85937/5/8"
+            },
+            {
+              "provider": "VidLink.pro",
+              "url": "https://vidlink.pro/tv/85937/5/8"
+            },
+            {
+              "provider": "AutoEmbed.cc",
+              "url": "https://autoembed.cc/tv/tmdb/85937-5-8"
+            },
+            {
+              "provider": "Videasy",
+              "url": "https://player.videasy.net/tv/85937/5/8"
+            },
+            {
+              "provider": "VidSrc.pro",
+              "url": "https://vidsrc.pro/embed/tv/85937/5/8"
+            },
+            {
+              "provider": "2Embed.cc",
+              "url": "https://www.2embed.cc/embedtv/tt9335498&s=5&e=8"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -369,9 +369,16 @@ def build_full_index(series_data: dict, search_result: dict) -> dict:
 #  6. Save JSON
 # ══════════════════════════════════════════════════════════════════════════════
 
+def _safe_filename(title: str) -> str:
+    """Strip characters that are illegal in Windows/Mac/Linux filenames."""
+    # Windows forbidden: \ / : * ? " < > |
+    for ch in ('\\', '/', ':', '*', '?', '"', '<', '>', '|'):
+        title = title.replace(ch, "")
+    return title.replace(" ", "_").strip("._")[:40]
+
 def save_index(index: dict, title: str) -> str:
     """Save the full index to a JSON file. Returns filename."""
-    safe_title = title.replace(" ", "_").replace("/", "-")[:40]
+    safe_title = _safe_filename(title)
     filename   = f"{safe_title}_full_index.json"
     with open(filename, "w", encoding="utf-8") as f:
         json.dump(index, f, indent=2, ensure_ascii=False)

@@ -13,6 +13,7 @@ export default function Home() {
   const [items, setItems] = useState<SeriesListItem[]>([]);
   const [loading, setLoading] = useState(true);
   const [query, setQuery] = useState("");
+  const [requestState, setRequestState] = useState<"idle" | "submitting" | "success" | "error">("idle");
 
   useEffect(() => {
     let cancelled = false;
@@ -96,6 +97,28 @@ export default function Home() {
     return { key: "series" as const, title: "Series", list: categorize.series };
   }, [category, categorize]);
 
+  const canRequest = query.trim().length > 0 && filtered.length === 0;
+
+  async function handleRequestMissingTitle() {
+    if (!canRequest || requestState === "submitting") return;
+
+    setRequestState("submitting");
+    try {
+      const res = await fetch("/api/requests", {
+        method: "POST",
+        headers: {
+          "Content-Type": "application/json",
+        },
+        body: JSON.stringify({ name: query.trim() }),
+      });
+
+      if (!res.ok) throw new Error("Failed");
+      setRequestState("success");
+    } catch {
+      setRequestState("error");
+    }
+  }
+
   return (
     <div className="min-h-screen bg-gradient-to-b from-zinc-950 via-zinc-950 to-zinc-900 text-zinc-50">
       <header className="border-b border-zinc-800/80 bg-zinc-950/70 backdrop-blur">
@@ -133,12 +156,18 @@ export default function Home() {
                     type="text"
                     value={query}
                     placeholder="Search titles, genres, year..."
-                    onChange={(e) => setQuery(e.target.value)}
+                    onChange={(e) => {
+                      setQuery(e.target.value);
+                      setRequestState("idle");
+                    }}
                     className="w-full bg-transparent text-sm outline-none placeholder:text-zinc-500"
                   />
                   {query ? (
                     <button
-                      onClick={() => setQuery("")}
+                      onClick={() => {
+                        setQuery("");
+                        setRequestState("idle");
+                      }}
                       className="rounded-full bg-zinc-950 px-3 py-1 text-xs text-zinc-200 hover:bg-zinc-800"
                       aria-label="Clear search"
                     >
@@ -267,6 +296,28 @@ export default function Home() {
             ) : (
               <div className="rounded-2xl border border-zinc-800/80 bg-zinc-950/70 p-4 text-sm text-zinc-500">
                 No {activeCategory.title.toLowerCase()} found.
+
+                {canRequest ? (
+                  <div className="mt-3 flex flex-col gap-2 justify-center items-center">
+                    <button
+                      onClick={handleRequestMissingTitle}
+                      disabled={requestState === "submitting" || requestState === "success"}
+                      className="w-fit rounded-full border border-sky-500 bg-sky-500/20 px-5 py-2 text-xl cursor-pointer text-sky-200 transition hover:bg-sky-500/30 disabled:cursor-not-allowed disabled:opacity-60"
+                    >
+                      {requestState === "submitting"
+                        ? "Requesting..."
+                        : requestState === "success"
+                          ? "Requested"
+                          : "Request captain to add this"}
+                    </button>
+
+                    {requestState === "error" ? (
+                      <p className="text-xs text-red-400">
+                        Could not submit request. Please try again.
+                      </p>
+                    ) : null}
+                  </div>
+                ) : null}
               </div>
             )}
           </section>

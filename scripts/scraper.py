@@ -561,9 +561,15 @@ def open_in_browser(links: list[dict]) -> None:
 #  STEP 8 — Save to JSON
 # ══════════════════════════════════════════════════════════════════════════════
 
+def _safe_filename(title: str) -> str:
+    """Strip characters illegal in Windows/Mac/Linux filenames."""
+    for ch in ('\\', '/', ':', '*', '?', '"', '<', '>', '|'):
+        title = title.replace(ch, "")
+    return title.replace(" ", "_").strip("._")[:35]
+
 def save_results(meta: dict, links: list[dict], season=None, episode=None) -> None:
     ep_tag = f"_S{season:02}E{episode:02}" if season else ""
-    fname  = meta["title"].replace(" ", "_").replace("/", "-")[:35] + f"{ep_tag}_index.json"
+    fname  = _safe_filename(meta["title"]) + f"{ep_tag}_index.json"
 
     if meta["media_type"] == "movie":
         # ── Movie: flat structure compatible with db_insert.py ────────────────
