@@ -16,6 +16,19 @@ bun dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
+### Admin panel password
+
+Set `ADMIN_PANEL_PASSWORD` in your environment (or your local `.env` file) to protect the requests admin panel at `/admin`.
+
+### Request email notifications
+
+To receive an email when someone submits a request (simple setup), set only:
+
+- `REQUEST_NOTIFY_TO_EMAIL` (recipient email)
+- `RESEND_API_KEY`
+
+Note: this uses Resend's default sender (`onboarding@resend.dev`).
+
 You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
 This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.

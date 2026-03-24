@@ -13,6 +13,8 @@ export default function Home() {
   const [items, setItems] = useState<SeriesListItem[]>([]);
   const [loading, setLoading] = useState(true);
   const [query, setQuery] = useState("");
+  const [requestTitle, setRequestTitle] = useState("");
+  const [requesterName, setRequesterName] = useState("");
   const [requestState, setRequestState] = useState<"idle" | "submitting" | "success" | "error">("idle");
 
   useEffect(() => {
@@ -97,10 +99,34 @@ export default function Home() {
     return { key: "series" as const, title: "Series", list: categorize.series };
   }, [category, categorize]);
 
+  useEffect(() => {
+    const searchValue = query.trim();
+    if (!searchValue) return;
+
+    if (filtered.length === 0) return;
+    if (activeCategory.list.length > 0) return;
+
+    if (categorize.series.length > 0) {
+      setCategory("series");
+      return;
+    }
+
+    if (categorize.movies.length > 0) {
+      setCategory("movies");
+      return;
+    }
+
+    if (categorize.anime.length > 0) {
+      setCategory("anime");
+    }
+  }, [query, filtered.length, activeCategory.list.length, categorize]);
+
   const canRequest = query.trim().length > 0 && filtered.length === 0;
+  const requestTitleValue = requestTitle.trim() || query.trim();
+  const canSubmitRequest = canRequest && requestTitleValue.length > 0 && requesterName.trim().length > 0;
 
   async function handleRequestMissingTitle() {
-    if (!canRequest || requestState === "submitting") return;
+    if (!canSubmitRequest || requestState === "submitting") return;
 
     setRequestState("submitting");
     try {
@@ -109,7 +135,10 @@ export default function Home() {
         headers: {
           "Content-Type": "application/json",
         },
-        body: JSON.stringify({ name: query.trim() }),
+        body: JSON.stringify({
+          requestedItem: requestTitleValue,
+          requesterName: requesterName.trim(),
+        }),
       });
 
       if (!res.ok) throw new Error("Failed");
@@ -120,11 +149,11 @@ export default function Home() {
   }
 
   return (
-    <div className="min-h-screen bg-gradient-to-b from-zinc-950 via-zinc-950 to-zinc-900 text-zinc-50">
+    <div className="min-h-screen bg-linear-to-b from-zinc-950 via-zinc-950 to-zinc-900 text-zinc-50">
       <header className="border-b border-zinc-800/80 bg-zinc-950/70 backdrop-blur">
         <div className="mx-auto flex max-w-6xl items-center justify-between px-4 py-4 md:px-6">
           <Link href="/" className="flex items-center gap-2">
-            <div className="h-8 w-8 rounded bg-gradient-to-br from-indigo-500 via-sky-500 to-cyan-400 shadow-lg shadow-indigo-500/40" />
+            <div className="h-8 w-8 rounded bg-linear-to-br from-indigo-500 via-sky-500 to-cyan-400 shadow-lg shadow-indigo-500/40" />
             <div className="flex flex-col leading-tight">
               <span className="text-lg font-semibold tracking-tight">
                 StreamBay
@@ -175,6 +204,57 @@ export default function Home() {
                     </button>
                   ) : null}
                 </div>
+
+                {canRequest ? (
+                  <div className="relative overflow-hidden rounded-2xl border border-sky-500/60 bg-zinc-900/70 p-4 shadow-[0_0_35px_rgba(56,189,248,0.22)]">
+                    <div className="pointer-events-none absolute inset-0 bg-linear-to-r from-sky-500/10 via-cyan-400/5 to-transparent" />
+                    <div className="relative flex flex-col items-center justify-center gap-2">
+                      <input
+                        type="text"
+                        value={requestTitle}
+                        placeholder="What do you want to add?"
+                        onChange={(e) => {
+                          setRequestTitle(e.target.value);
+                          setRequestState("idle");
+                        }}
+                        className="w-full max-w-md rounded-xl border border-zinc-700 bg-zinc-900/80 px-3 py-2 text-sm text-zinc-100 outline-none placeholder:text-zinc-500"
+                      />
+                      <input
+                        type="text"
+                        value={requesterName}
+                        placeholder="Your name"
+                        onChange={(e) => {
+                          setRequesterName(e.target.value);
+                          setRequestState("idle");
+                        }}
+                        className="w-full max-w-md rounded-xl border border-zinc-700 bg-zinc-900/80 px-3 py-2 text-sm text-zinc-100 outline-none placeholder:text-zinc-500"
+                      />
+                      <button
+                        onClick={handleRequestMissingTitle}
+                        disabled={requestState === "submitting" || requestState === "success" || !canSubmitRequest}
+                        className="w-fit rounded-full border border-sky-500 bg-sky-500/20 px-5 py-2 text-xl cursor-pointer text-sky-200 transition hover:bg-sky-500/30 disabled:cursor-not-allowed disabled:opacity-60"
+                      >
+                        {requestState === "submitting"
+                          ? "Requesting..."
+                          : requestState === "success"
+                            ? "Requested"
+                            : "Request captain to add this"}
+                      </button>
+
+                      {requestState === "error" ? (
+                        <p className="text-xs text-red-400">
+                          Could not submit request. Please try again.
+                        </p>
+                      ) : null}
+
+                      {requestState === "idle" && !canSubmitRequest ? (
+                        <p className="text-xs text-zinc-400">
+                          Enter both requested title and your name.
+                        </p>
+                      ) : null}
+                    </div>
+                  </div>
+                ) : null}
               </div>
             </div>
           </div>
@@ -260,7 +340,7 @@ export default function Home() {
                           No poster
                         </div>
                       )}
-                      <div className="absolute inset-0 bg-gradient-to-t from-zinc-950 via-zinc-950/50 to-transparent" />
+                      <div className="absolute inset-0 bg-linear-to-t from-zinc-950 via-zinc-950/50 to-transparent" />
                       <div className="absolute bottom-2 left-2 flex flex-col gap-1 text-xs">
                         <span className="max-w-[85%] truncate rounded-full bg-black/60 px-2 py-0.5 text-[11px] font-medium text-zinc-50 backdrop-blur">
                           {(s.genres ?? []).slice(0, 3).join(" • ") || "Unknown genre"}
@@ -296,28 +376,6 @@ export default function Home() {
             ) : (
               <div className="rounded-2xl border border-zinc-800/80 bg-zinc-950/70 p-4 text-sm text-zinc-500">
                 No {activeCategory.title.toLowerCase()} found.
-
-                {canRequest ? (
-                  <div className="mt-3 flex flex-col gap-2 justify-center items-center">
-                    <button
-                      onClick={handleRequestMissingTitle}
-                      disabled={requestState === "submitting" || requestState === "success"}
-                      className="w-fit rounded-full border border-sky-500 bg-sky-500/20 px-5 py-2 text-xl cursor-pointer text-sky-200 transition hover:bg-sky-500/30 disabled:cursor-not-allowed disabled:opacity-60"
-                    >
-                      {requestState === "submitting"
-                        ? "Requesting..."
-                        : requestState === "success"
-                          ? "Requested"
-                          : "Request captain to add this"}
-                    </button>
-
-                    {requestState === "error" ? (
-                      <p className="text-xs text-red-400">
-                        Could not submit request. Please try again.
-                      </p>
-                    ) : null}
-                  </div>
-                ) : null}
               </div>
             )}
           </section>
@@ -327,6 +385,9 @@ export default function Home() {
       <footer className="border-t border-zinc-900/80 bg-zinc-950/90">
         <div className="mx-auto flex max-w-6xl flex-col items-center justify-between gap-3 px-4 py-4 text-[11px] text-zinc-500 md:px-6">
           <p>© {new Date().getFullYear()} StreamBay. All rights reserved.</p>
+          <Link href="/admin" className="text-[11px] text-sky-400 hover:text-sky-300">
+            Admin panel
+          </Link>
           <p className="text-center text-[10px] text-zinc-600">
             We do not host any pirated content on our website or promote piracy. We redirect to content that is already on the internet.
           </p>

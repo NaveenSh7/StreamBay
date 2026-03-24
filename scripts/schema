@@ -54,12 +54,21 @@ CREATE TABLE IF NOT EXISTS embed_links (
     UNIQUE (episode_id, provider)
 );
 
+-- ─── 5. requests ──────────────────────────────────────────────────
+CREATE TABLE IF NOT EXISTS requests (
+    id              BIGSERIAL       PRIMARY KEY,
+    requested_item  TEXT            NOT NULL,
+    requester_name  TEXT            NOT NULL,
+    created_at      TIMESTAMPTZ     DEFAULT NOW()
+);
+
 -- ─── Indexes ──────────────────────────────────────────────────────
 CREATE INDEX IF NOT EXISTS idx_series_tmdb      ON series(tmdb_id);
 CREATE INDEX IF NOT EXISTS idx_seasons_series   ON seasons(series_id);
 CREATE INDEX IF NOT EXISTS idx_episodes_series  ON episodes(series_id);
 CREATE INDEX IF NOT EXISTS idx_episodes_season  ON episodes(season_id);
 CREATE INDEX IF NOT EXISTS idx_embed_episode    ON embed_links(episode_id);
+CREATE INDEX IF NOT EXISTS idx_requests_created  ON requests(created_at DESC);
 
 -- ══════════════════════════════════════════════════════════════════
 --  Useful frontend queries
