@@ -1,6 +1,6 @@
 "use client";
 
-import { useMemo, useState } from "react";
+import { useCallback, useEffect, useMemo, useState } from "react";
 import type { ShowData } from "@/data/anime";
 
 type ShowPlayerProps = {
@@ -10,6 +10,27 @@ type ShowPlayerProps = {
 export default function ShowPlayer({ show }: ShowPlayerProps) {
   const pickDefaultProvider = (embedLinks: ShowData["seasons"][number]["episodes"][number]["embed_links"]) => {
     return embedLinks.find((l) => l.provider === "Videasy")?.provider ?? embedLinks[0]?.provider ?? "";
+  };
+
+  const withAutoplay = (url: string, enabled: boolean) => {
+    if (!url) return "";
+
+    try {
+      const parsed = new URL(url);
+      parsed.searchParams.set("autoplay", enabled ? "1" : "0");
+      parsed.searchParams.set("autoPlay", enabled ? "1" : "0");
+      parsed.searchParams.set("autostart", enabled ? "true" : "false");
+      parsed.searchParams.set("nextEpisode", enabled ? "true" : "false");
+      parsed.searchParams.set("autonext", enabled ? "1" : "0");
+      parsed.searchParams.set("muted", enabled ? "1" : "0");
+      parsed.searchParams.set("mute", enabled ? "1" : "0");
+      parsed.searchParams.set("volume", enabled ? "0" : "100");
+      parsed.searchParams.set("playsinline", "1");
+      return parsed.toString();
+    } catch {
+      const separator = url.includes("?") ? "&" : "?";
+      return `${url}${separator}autoplay=${enabled ? "1" : "0"}&autoPlay=${enabled ? "1" : "0"}&autostart=${enabled ? "true" : "false"}&nextEpisode=${enabled ? "true" : "false"}&autonext=${enabled ? "1" : "0"}&muted=${enabled ? "1" : "0"}&mute=${enabled ? "1" : "0"}&volume=${enabled ? "0" : "100"}&playsinline=1`;
+    }
   };
 
   const playableSeasons = useMemo(
@@ -43,14 +64,70 @@ export default function ShowPlayer({ show }: ShowPlayerProps) {
       ? pickDefaultProvider(selectedEpisodeData.embed_links)
       : "",
   );
+  const [autoplayEnabled, setAutoplayEnabled] = useState(true);
 
   const providerUrl = useMemo(() => {
     if (!selectedEpisodeData) return "";
     const selected = selectedEpisodeData.embed_links.find(
       (link) => link.provider === selectedProvider,
     );
-    return selected?.url ?? selectedEpisodeData.embed_links[0]?.url ?? "";
-  }, [selectedEpisodeData, selectedProvider]);
+    const url = selected?.url ?? selectedEpisodeData.embed_links[0]?.url ?? "";
+    return withAutoplay(url, autoplayEnabled);
+  }, [autoplayEnabled, selectedEpisodeData, selectedProvider]);
+
+  const providerOrigin = useMemo(() => {
+    if (!providerUrl) return "";
+    try {
+      return new URL(providerUrl).origin;
+    } catch {
+      return "";
+    }
+  }, [providerUrl]);
+
+  const goToNextEpisode = useCallback(() => {
+    if (!selectedSeasonData || !selectedEpisodeData) return;
+
+    const currentIndex = selectedSeasonData.episodes.findIndex(
+      (episode) => episode.episode === selectedEpisodeData.episode,
+    );
+
+    if (currentIndex >= 0 && currentIndex < selectedSeasonData.episodes.length - 1) {
+      const nextEpisode = selectedSeasonData.episodes[currentIndex + 1];
+      setSelectedEpisode(nextEpisode.episode);
+      setSelectedProvider(pickDefaultProvider(nextEpisode.embed_links));
+      return;
+    }
+
+    const currentSeasonIndex = playableSeasons.findIndex(
+      (season) => season.season === selectedSeasonData.season,
+    );
+
+    if (currentSeasonIndex >= 0 && currentSeasonIndex < playableSeasons.length - 1) {
+      const nextSeason = playableSeasons[currentSeasonIndex + 1];
+      const firstEpisode = nextSeason.episodes[0];
+      setSelectedSeason(nextSeason.season);
+      setSelectedEpisode(firstEpisode.episode);
+      setSelectedProvider(pickDefaultProvider(firstEpisode.embed_links));
+    }
+  }, [playableSeasons, selectedEpisodeData, selectedSeasonData]);
+
+  useEffect(() => {
+    const handleMessage = (event: MessageEvent) => {
+      if (!autoplayEnabled) return;
+      if (typeof event.data !== "string") return;
+      if (providerOrigin && event.origin !== providerOrigin) return;
+
+      const data = event.data.toLowerCase();
+      if (data.includes("ended") || data.includes("episode-ended") || data.includes("next-episode")) {
+        goToNextEpisode();
+      }
+    };
+
+    window.addEventListener("message", handleMessage);
+    return () => {
+      window.removeEventListener("message", handleMessage);
+    };
+  }, [autoplayEnabled, goToNextEpisode, providerOrigin]);
 
   if (playableSeasons.length === 0) {
     return (
@@ -89,6 +166,7 @@ export default function ShowPlayer({ show }: ShowPlayerProps) {
               key={providerUrl}
               src={providerUrl}
               title={`${show.metadata.title} player`}
+              allow="autoplay; fullscreen; picture-in-picture"
               allowFullScreen
               className="aspect-video w-full"
             />
@@ -114,6 +192,16 @@ export default function ShowPlayer({ show }: ShowPlayerProps) {
             </button>
           ))}
         </div>
+
+        <label className="inline-flex w-fit items-center gap-2 text-xs text-zinc-300">
+          <input
+            type="checkbox"
+            checked={autoplayEnabled}
+            onChange={(event) => setAutoplayEnabled(event.target.checked)}
+            className="h-4 w-4 rounded border-zinc-700 bg-zinc-900 text-sky-500 focus:ring-sky-500"
+          />
+          Autoplay
+        </label>
       </section>
 
       <aside className="flex flex-col gap-4 rounded-2xl border border-zinc-800/80 bg-zinc-950/90 p-4 md:p-5">
