@@ -1,0 +1,69 @@
+{
+  "media_type": "movie",
+  "metadata": {
+    "tmdb_id": 329865,
+    "imdb_id": "tt2543164",
+    "title": "Arrival",
+    "overview": "Taking place after alien crafts land around the world, an expert linguist is recruited by the military to determine whether they come in peace or are a threat.",
+    "poster": "https://image.tmdb.org/t/p/w500/pEzNVQfdzYDzVK0XqxERIw2x2se.jpg",
+    "year": "2016",
+    "rating": 7.624,
+    "status": "Released",
+    "genres": [
+      "Drama",
+      "Science Fiction",
+      "Mystery"
+    ],
+    "runtime": 116,
+    "tagline": "Why are they here?",
+    "trailer": "https://youtube.com/watch?v=7W1m5ER3I1Y",
+    "cast": [
+      "Amy Adams",
+      "Jeremy Renner",
+      "Forest Whitaker",
+      "Michael Stuhlbarg",
+      "Mark O'Brien",
+      "Tzi Ma",
+      "Abigail Pniowsky",
+      "Julia Scarlett Dan"
+    ]
+  },
+  "embed_links": [
+    {
+      "provider": "VidSrc.me",
+      "url": "https://vidsrc.me/embed/movie?tmdb=329865"
+    },
+    {
+      "provider": "VidSrc.cc  (v2)",
+      "url": "https://vidsrc.cc/v2/embed/movie/329865"
+    },
+    {
+      "provider": "VidSrc.cc  (v3)",
+      "url": "https://vidsrc.cc/v3/embed/movie/329865"
+    },
+    {
+      "provider": "VidLink.pro",
+      "url": "https://vidlink.pro/movie/329865"
+    },
+    {
+      "provider": "AutoEmbed.cc",
+      "url": "https://autoembed.cc/movie/tmdb/329865"
+    },
+    {
+      "provider": "2Embed.cc",
+      "url": "https://www.2embed.cc/embed/tt2543164"
+    },
+    {
+      "provider": "Videasy",
+      "url": "https://player.videasy.net/movie/329865"
+    },
+    {
+      "provider": "VidSrc.pro",
+      "url": "https://vidsrc.pro/embed/movie/329865"
+    },
+    {
+      "provider": "SuperEmbed",
+      "url": "https://www.superembed.stream/embed/tmdb:329865"
+    }
+  ]
+}

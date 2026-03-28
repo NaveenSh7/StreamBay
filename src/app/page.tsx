@@ -163,6 +163,12 @@ export default function Home() {
               </span>
             </div>
           </Link>
+          <Link 
+            href="/about" 
+            className="rounded-lg border border-sky-500/50 bg-sky-950/20 px-3 py-2 text-sm font-medium text-sky-300 transition hover:bg-sky-950/40 hover:border-sky-500/70"
+          >
+            About
+          </Link>
         </div>
       </header>
 
@@ -388,9 +394,6 @@ export default function Home() {
           <Link href="/admin" className="text-[11px] text-sky-400 hover:text-sky-300">
             Admin panel
           </Link>
-          <p className="text-center text-[10px] text-zinc-600">
-            We do not host any pirated content on our website or promote piracy. We redirect to content that is already on the internet.
-          </p>
           <p className="text-[10px] text-zinc-600">
             Data is fetched from your Supabase Postgres tables.
           </p>
