@@ -63,7 +63,7 @@ export default function About() {
                 {/* Quote */}
                 <div className="rounded-xl border border-sky-500/30 bg-sky-950/20 p-4 backdrop-blur">
                   <p className="text-sm leading-relaxed italic text-sky-100">
-                    "If I'm dishonest, and a dishonest man you can always trust to be dishonest"
+                    "One word love: curiosity. You long for freedom. You long to do what you want to do because you want it. To act on selfish impulse. You want to see what it's like. One day you won't be able to resist."
                   </p>
                   <p className="mt-3 text-right text-xs font-semibold text-sky-300">
                     — Captain Jack Sparrow
