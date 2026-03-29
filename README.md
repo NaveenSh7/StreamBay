@@ -20,14 +20,13 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 Set `ADMIN_PANEL_PASSWORD` in your environment (or your local `.env` file) to protect the requests admin panel at `/admin`.
 
-### Request email notifications
+### Request notifications via Discord webhook
 
-To receive an email when someone submits a request (simple setup), set only:
+To receive a Discord message when someone submits a request, set:
 
-- `REQUEST_NOTIFY_TO_EMAIL` (recipient email)
-- `RESEND_API_KEY`
+- `REQUEST_NOTIFY_DISCORD_WEBHOOK_URL`
 
-Note: this uses Resend's default sender (`onboarding@resend.dev`).
+Create an incoming webhook in your Discord server/channel, then paste that URL into your environment.
 
 You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 

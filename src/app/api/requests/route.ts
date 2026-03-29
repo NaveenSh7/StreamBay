@@ -43,38 +43,37 @@ function getAdminPassword(req: Request): string {
   return "";
 }
 
-async function sendRequestNotificationEmail(
+function escapeDiscordMarkdown(value: string): string {
+  return value.replace(/[\\*_`~|>]/g, "\\$&");
+}
+
+async function sendRequestNotificationDiscordWebhook(
   requestedItem: string,
   requesterName: string,
 ) {
-  const apiKey = process.env.RESEND_API_KEY?.trim() ?? "";
-  const to = process.env.REQUEST_NOTIFY_TO_EMAIL?.trim() ?? "";
+  const webhookUrl = process.env.REQUEST_NOTIFY_DISCORD_WEBHOOK_URL?.trim() ?? "";
 
-  if (!apiKey || !to) return;
+  if (!webhookUrl) return;
 
-  const response = await fetch("https://api.resend.com/emails", {
+  const safeRequestedItem = escapeDiscordMarkdown(requestedItem);
+  const safeRequesterName = escapeDiscordMarkdown(requesterName);
+
+  const response = await fetch(webhookUrl, {
     method: "POST",
     headers: {
-      Authorization: `Bearer ${apiKey}`,
       "Content-Type": "application/json",
     },
     body: JSON.stringify({
-      from: "StreamBay <onboarding@resend.dev>",
-      to: [to],
-      subject: `New StreamBay request: ${requestedItem}`,
-      html: `
-        <div style="font-family: Arial, sans-serif; line-height: 1.5;">
-          <h2>New StreamBay Request</h2>
-          <p><strong>Requested item:</strong> ${requestedItem}</p>
-          <p><strong>Requester name:</strong> ${requesterName}</p>
-        </div>
-      `,
-      text: `A new content request was submitted.\n\nRequested item: ${requestedItem}\nRequester name: ${requesterName}`,
+      content: [
+        "**New StreamBay Request**",
+        `Requested item: **${safeRequestedItem}**`,
+        `Requester name: **${safeRequesterName}**`,
+      ].join("\n"),
     }),
   });
 
   if (!response.ok) {
-    throw new Error(`Resend API failed with status ${response.status}`);
+    throw new Error(`Discord webhook failed with status ${response.status}`);
   }
 }
 
@@ -167,9 +166,9 @@ export async function POST(req: Request) {
   );
 
   try {
-    await sendRequestNotificationEmail(requestedItem, requesterName);
+    await sendRequestNotificationDiscordWebhook(requestedItem, requesterName);
   } catch (error) {
-    console.error("Request notification email failed", error);
+    console.error("Request notification Discord webhook failed", error);
   }
 
   return NextResponse.json({ ok: true });
