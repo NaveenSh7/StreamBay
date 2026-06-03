@@ -1,0 +1,1769 @@
+{
+  "metadata": {
+    "tmdb_id": 76479,
+    "imdb_id": "tt1190634",
+    "title": "The Boys",
+    "original_name": "The Boys",
+    "overview": "A group of vigilantes known informally as “The Boys” set out to take down corrupt superheroes with no more than blue-collar grit and a willingness to fight dirty.",
+    "status": "Ended",
+    "first_aired": "2019-07-25",
+    "last_aired": "2026-05-20",
+    "rating": 8.455,
+    "votes": 12798,
+    "genres": [
+      "Sci-Fi & Fantasy",
+      "Action & Adventure"
+    ],
+    "networks": [
+      "Prime Video"
+    ],
+    "languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/in1R2dDc421JxsoRWaIIAqVI2KE.jpg",
+    "total_seasons": 5,
+    "total_episodes": 40,
+    "indexed_seasons": 5,
+    "embed_providers": [
+      "VidSrc.me",
+      "VidSrc.cc (v2)",
+      "VidSrc.cc (v3)",
+      "VidLink.pro",
+      "AutoEmbed.cc",
+      "Videasy",
+      "VidSrc.pro",
+      "2Embed.cc"
+    ]
+  },
+  "seasons": [
+    {
+      "season": 1,
+      "name": "Season 1",
+      "air_date": "2019-07-25",
+      "poster": "https://image.tmdb.org/t/p/w500/iikrapejulhIvbNgUjj468mUE0I.jpg",
+      "episode_count": 8,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "The Name of the Game",
+          "air_date": "2019-07-25",
+          "rating": 8.141,
+          "overview": "When a Supe kills the love of his life, A/V salesman Hughie Campbell teams up with Billy Butcher, a vigilante hell-bent on punishing corrupt Supes — and Hughie’s life will never be the same again.",
+          "still_image": "https://image.tmdb.org/t/p/w500/goKrbjePcjv6eJ7covjw0MPT62V.jpg",
+          "embed_links": [
+            {
+              "provider": "VidSrc.me",
+              "url": "https://vidsrc.me/embed/tv?tmdb=76479&season=1&episode=1"
+            },
+            {
+              "provider": "VidSrc.cc (v2)",
+              "url": "https://vidsrc.cc/v2/embed/tv/76479/1/1"
+            },
+            {
+              "provider": "VidSrc.cc (v3)",
+              "url": "https://vidsrc.cc/v3/embed/tv/76479/1/1"
+            },
+            {
+              "provider": "VidLink.pro",
+              "url": "https://vidlink.pro/tv/76479/1/1"
+            },
+            {
+              "provider": "AutoEmbed.cc",
+              "url": "https://autoembed.cc/tv/tmdb/76479-1-1"
+            },
+            {
+              "provider": "Videasy",
+              "url": "https://player.videasy.net/tv/76479/1/1"
+            },
+            {
+              "provider": "VidSrc.pro",
+              "url": "https://vidsrc.pro/embed/tv/76479/1/1"
+            },
+            {
+              "provider": "2Embed.cc",
+              "url": "https://www.2embed.cc/embedtv/tt1190634&s=1&e=1"
+            }
+          ]
+        },
+        {
+          "episode": 2,
+          "title": "Cherry",
+          "air_date": "2019-07-25",
+          "rating": 8.12,
+          "overview": "The Boys get themselves a Superhero, Starlight gets payback, Homelander gets naughty, and a Senator gets naughtier.",
+          "still_image": "https://image.tmdb.org/t/p/w500/nNfmRSQp42V6AS5bO1S7LMv2QOd.jpg",
+          "embed_links": [
+            {
+              "provider": "VidSrc.me",
+              "url": "https://vidsrc.me/embed/tv?tmdb=76479&season=1&episode=2"
+            },
+            {
+              "provider": "VidSrc.cc (v2)",
+              "url": "https://vidsrc.cc/v2/embed/tv/76479/1/2"
+            },
+            {
+              "provider": "VidSrc.cc (v3)",
+              "url": "https://vidsrc.cc/v3/embed/tv/76479/1/2"
+            },
+            {
+              "provider": "VidLink.pro",
+              "url": "https://vidlink.pro/tv/76479/1/2"
+            },
+            {
+              "provider": "AutoEmbed.cc",
+              "url": "https://autoembed.cc/tv/tmdb/76479-1-2"
+            },
+            {
+              "provider": "Videasy",
+              "url": "https://player.videasy.net/tv/76479/1/2"
+            },
+            {
+              "provider": "VidSrc.pro",
+              "url": "https://vidsrc.pro/embed/tv/76479/1/2"
+            },
+            {
+              "provider": "2Embed.cc",
+              "url": "https://www.2embed.cc/embedtv/tt1190634&s=1&e=2"
+            }
+          ]
+        },
+        {
+          "episode": 3,
+          "title": "Get Some",
+          "air_date": "2019-07-25",
+          "rating": 8.014,
+          "overview": "It’s the race of the century. A-Train versus Shockwave, vying for the title of World’s Fastest Man. Meanwhile, the Boys are reunited and it feels so good.",
+          "still_image": "https://image.tmdb.org/t/p/w500/mF7TK7LMbWhlLz1Q5M1662TiKvP.jpg",
+          "embed_links": [
+            {
+              "provider": "VidSrc.me",
+              "url": "https://vidsrc.me/embed/tv?tmdb=76479&season=1&episode=3"
+            },
+            {
+              "provider": "VidSrc.cc (v2)",
+              "url": "https://vidsrc.cc/v2/embed/tv/76479/1/3"
+            },
+            {
+              "provider": "VidSrc.cc (v3)",
+              "url": "https://vidsrc.cc/v3/embed/tv/76479/1/3"
+            },
+            {
+              "provider": "VidLink.pro",
+              "url": "https://vidlink.pro/tv/76479/1/3"
+            },
+            {
+              "provider": "AutoEmbed.cc",
+              "url": "https://autoembed.cc/tv/tmdb/76479-1-3"
+            },
+            {
+              "provider": "Videasy",
+              "url": "https://player.videasy.net/tv/76479/1/3"
+            },
+            {
+              "provider": "VidSrc.pro",
+              "url": "https://vidsrc.pro/embed/tv/76479/1/3"
+            },
+            {
+              "provider": "2Embed.cc",
+              "url": "https://www.2embed.cc/embedtv/tt1190634&s=1&e=3"
+            }
+          ]
+        },
+        {
+          "episode": 4,
+          "title": "The Female of the Species",
+          "air_date": "2019-07-25",
+          "rating": 8.115,
+          "overview": "On a very special episode of The Boys… an hour of guts, gutterballs, airplane hijackings, madness, ghosts, and one very intriguing Female. Oh, and lots of heart — both in the sentimental sense, and in the gory literal sense.",
+          "still_image": "https://image.tmdb.org/t/p/w500/1JvhnZyeQkIUrhr0OUL6S3sN5Kt.jpg",
+          "embed_links": [
+            {
+              "provider": "VidSrc.me",
+              "url": "https://vidsrc.me/embed/tv?tmdb=76479&season=1&episode=4"
+            },
+            {
+              "provider": "VidSrc.cc (v2)",
+              "url": "https://vidsrc.cc/v2/embed/tv/76479/1/4"
+            },
+            {
+              "provider": "VidSrc.cc (v3)",
+              "url": "https://vidsrc.cc/v3/embed/tv/76479/1/4"
+            },
+            {
+              "provider": "VidLink.pro",
+              "url": "https://vidlink.pro/tv/76479/1/4"
+            },
+            {
+              "provider": "AutoEmbed.cc",
+              "url": "https://autoembed.cc/tv/tmdb/76479-1-4"
+            },
+            {
+              "provider": "Videasy",
+              "url": "https://player.videasy.net/tv/76479/1/4"
+            },
+            {
+              "provider": "VidSrc.pro",
+              "url": "https://vidsrc.pro/embed/tv/76479/1/4"
+            },
+            {
+              "provider": "2Embed.cc",
+              "url": "https://www.2embed.cc/embedtv/tt1190634&s=1&e=4"
+            }
+          ]
+        },
+        {
+          "episode": 5,
+          "title": "Good for the Soul",
+          "air_date": "2019-07-25",
+          "rating": 7.901,
+          "overview": "The Boys head to the “Believe” Expo to follow a promising lead in their ongoing war against the Supes. There might — MIGHT — be a homicidal infant, but you’ll have to see for yourself.",
+          "still_image": "https://image.tmdb.org/t/p/w500/8eimUVjdXKtVb4OMzQn3aj3I0XN.jpg",
+          "embed_links": [
+            {
+              "provider": "VidSrc.me",
+              "url": "https://vidsrc.me/embed/tv?tmdb=76479&season=1&episode=5"
+            },
+            {
+              "provider": "VidSrc.cc (v2)",
+              "url": "https://vidsrc.cc/v2/embed/tv/76479/1/5"
+            },
+            {
+              "provider": "VidSrc.cc (v3)",
+              "url": "https://vidsrc.cc/v3/embed/tv/76479/1/5"
+            },
+            {
+              "provider": "VidLink.pro",
+              "url": "https://vidlink.pro/tv/76479/1/5"
+            },
+            {
+              "provider": "AutoEmbed.cc",
+              "url": "https://autoembed.cc/tv/tmdb/76479-1-5"
+            },
+            {
+              "provider": "Videasy",
+              "url": "https://player.videasy.net/tv/76479/1/5"
+            },
+            {
+              "provider": "VidSrc.pro",
+              "url": "https://vidsrc.pro/embed/tv/76479/1/5"
+            },
+            {
+              "provider": "2Embed.cc",
+              "url": "https://www.2embed.cc/embedtv/tt1190634&s=1&e=5"
+            }
+          ]
+        },
+        {
+          "episode": 6,
+          "title": "The Innocents",
+          "air_date": "2019-07-25",
+          "rating": 7.8,
+          "overview": "SUPER IN AMERICA (2019). Vought Studios. Genre: Reality. Starring: Homelander, Queen Maeve, Black Noir, The Deep, A-Train, Starlight, Tara Reid, Billy Zane.",
+          "still_image": "https://image.tmdb.org/t/p/w500/vWZAUXUszcg4EdmptxCk0ycKOMI.jpg",
+          "embed_links": [
+            {
+              "provider": "VidSrc.me",
+              "url": "https://vidsrc.me/embed/tv?tmdb=76479&season=1&episode=6"
+            },
+            {
+              "provider": "VidSrc.cc (v2)",
+              "url": "https://vidsrc.cc/v2/embed/tv/76479/1/6"
+            },
+            {
+              "provider": "VidSrc.cc (v3)",
+              "url": "https://vidsrc.cc/v3/embed/tv/76479/1/6"
+            },
+            {
+              "provider": "VidLink.pro",
+              "url": "https://vidlink.pro/tv/76479/1/6"
+            },
+            {
+              "provider": "AutoEmbed.cc",
+              "url": "https://autoembed.cc/tv/tmdb/76479-1-6"
+            },
+            {
+              "provider": "Videasy",
+              "url": "https://player.videasy.net/tv/76479/1/6"
+            },
+            {
+              "provider": "VidSrc.pro",
+              "url": "https://vidsrc.pro/embed/tv/76479/1/6"
+            },
+            {
+              "provider": "2Embed.cc",
+              "url": "https://www.2embed.cc/embedtv/tt1190634&s=1&e=6"
+            }
+          ]
+        },
+        {
+          "episode": 7,
+          "title": "The Self-Preservation Society",
+          "air_date": "2019-07-25",
+          "rating": 8.286,
+          "overview": "Never trust a washed-up Supe — the Boys learn this lesson the hard way. Meanwhile, Homelander digs into his past, Starlight discovers that love hurts, and if you’re ever in Sandusky, Ohio and a girl asks if she can touch your gills, say NO.",
+          "still_image": "https://image.tmdb.org/t/p/w500/cx7dCZVzCX9pAyC6zE6lC6jkuyF.jpg",
+          "embed_links": [
+            {
+              "provider": "VidSrc.me",
+              "url": "https://vidsrc.me/embed/tv?tmdb=76479&season=1&episode=7"
+            },
+            {
+              "provider": "VidSrc.cc (v2)",
+              "url": "https://vidsrc.cc/v2/embed/tv/76479/1/7"
+            },
+            {
+              "provider": "VidSrc.cc (v3)",
+              "url": "https://vidsrc.cc/v3/embed/tv/76479/1/7"
+            },
+            {
+              "provider": "VidLink.pro",
+              "url": "https://vidlink.pro/tv/76479/1/7"
+            },
+            {
+              "provider": "AutoEmbed.cc",
+              "url": "https://autoembed.cc/tv/tmdb/76479-1-7"
+            },
+            {
+              "provider": "Videasy",
+              "url": "https://player.videasy.net/tv/76479/1/7"
+            },
+            {
+              "provider": "VidSrc.pro",
+              "url": "https://vidsrc.pro/embed/tv/76479/1/7"
+            },
+            {
+              "provider": "2Embed.cc",
+              "url": "https://www.2embed.cc/embedtv/tt1190634&s=1&e=7"
+            }
+          ]
+        },
+        {
+          "episode": 8,
+          "title": "You Found Me",
+          "air_date": "2019-07-25",
+          "rating": 8.352,
+          "overview": "Season Finale Time! Questions answered! Secrets revealed! Conflicts… conflicted! Characters exploded! And so much more!",
+          "still_image": "https://image.tmdb.org/t/p/w500/gGNAbWmON1zOa2mZcBdu9gYrDCg.jpg",
+          "embed_links": [
+            {
+              "provider": "VidSrc.me",
+              "url": "https://vidsrc.me/embed/tv?tmdb=76479&season=1&episode=8"
+            },
+            {
+              "provider": "VidSrc.cc (v2)",
+              "url": "https://vidsrc.cc/v2/embed/tv/76479/1/8"
+            },
+            {
+              "provider": "VidSrc.cc (v3)",
+              "url": "https://vidsrc.cc/v3/embed/tv/76479/1/8"
+            },
+            {
+              "provider": "VidLink.pro",
+              "url": "https://vidlink.pro/tv/76479/1/8"
+            },
+            {
+              "provider": "AutoEmbed.cc",
+              "url": "https://autoembed.cc/tv/tmdb/76479-1-8"
+            },
+            {
+              "provider": "Videasy",
+              "url": "https://player.videasy.net/tv/76479/1/8"
+            },
+            {
+              "provider": "VidSrc.pro",
+              "url": "https://vidsrc.pro/embed/tv/76479/1/8"
+            },
+            {
+              "provider": "2Embed.cc",
+              "url": "https://www.2embed.cc/embedtv/tt1190634&s=1&e=8"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "season": 2,
+      "name": "Season 2",
+      "air_date": "2020-09-03",
+      "poster": "https://image.tmdb.org/t/p/w500/hjO01XnizdVgwygBNzDwUEK9CDB.jpg",
+      "episode_count": 8,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "The Big Ride",
+          "air_date": "2020-09-03",
+          "rating": 7.82,
+          "overview": "Season 2! New and improved! Now with 50% more explosive decapitations, terrorists, S&M hookers, cults, and a new pine fresh scent! But wait, there’s more! 2X MORE blood, guts and gore than the other leading brands! This exclusive offer is available only on Amazon Prime Video! Don’t delay! Order now!",
+          "still_image": "https://image.tmdb.org/t/p/w500/3N5CZhL6jXbuSA3qS7G46PiAZND.jpg",
+          "embed_links": [
+            {
+              "provider": "VidSrc.me",
+              "url": "https://vidsrc.me/embed/tv?tmdb=76479&season=2&episode=1"
+            },
+            {
+              "provider": "VidSrc.cc (v2)",
+              "url": "https://vidsrc.cc/v2/embed/tv/76479/2/1"
+            },
+            {
+              "provider": "VidSrc.cc (v3)",
+              "url": "https://vidsrc.cc/v3/embed/tv/76479/2/1"
+            },
+            {
+              "provider": "VidLink.pro",
+              "url": "https://vidlink.pro/tv/76479/2/1"
+            },
+            {
+              "provider": "AutoEmbed.cc",
+              "url": "https://autoembed.cc/tv/tmdb/76479-2-1"
+            },
+            {
+              "provider": "Videasy",
+              "url": "https://player.videasy.net/tv/76479/2/1"
+            },
+            {
+              "provider": "VidSrc.pro",
+              "url": "https://vidsrc.pro/embed/tv/76479/2/1"
+            },
+            {
+              "provider": "2Embed.cc",
+              "url": "https://www.2embed.cc/embedtv/tt1190634&s=2&e=1"
+            }
+          ]
+        },
+        {
+          "episode": 2,
+          "title": "Proper Preparation and Planning",
+          "air_date": "2020-09-03",
+          "rating": 7.536,
+          "overview": "The Boys get themselves a Super Terrorist, Starlight gets evidence against Vought, The Deep gets in touch with his feelings, and Homelander gets himself a family (sort of).  All that, and a hard-hitting exposé on why Super Suits don’t have pockets.",
+          "still_image": "https://image.tmdb.org/t/p/w500/m6LSiAimRiST07sC0vsUDITojT3.jpg",
+          "embed_links": [
+            {
+              "provider": "VidSrc.me",
+              "url": "https://vidsrc.me/embed/tv?tmdb=76479&season=2&episode=2"
+            },
+            {
+              "provider": "VidSrc.cc (v2)",
+              "url": "https://vidsrc.cc/v2/embed/tv/76479/2/2"
+            },
+            {
+              "provider": "VidSrc.cc (v3)",
+              "url": "https://vidsrc.cc/v3/embed/tv/76479/2/2"
+            },
+            {
+              "provider": "VidLink.pro",
+              "url": "https://vidlink.pro/tv/76479/2/2"
+            },
+            {
+              "provider": "AutoEmbed.cc",
+              "url": "https://autoembed.cc/tv/tmdb/76479-2-2"
+            },
+            {
+              "provider": "Videasy",
+              "url": "https://player.videasy.net/tv/76479/2/2"
+            },
+            {
+              "provider": "VidSrc.pro",
+              "url": "https://vidsrc.pro/embed/tv/76479/2/2"
+            },
+            {
+              "provider": "2Embed.cc",
+              "url": "https://www.2embed.cc/embedtv/tt1190634&s=2&e=2"
+            }
+          ]
+        },
+        {
+          "episode": 3,
+          "title": "Over the Hill with the Swords of a Thousand Men",
+          "air_date": "2020-09-03",
+          "rating": 8.441,
+          "overview": "Attention: If you or a loved one were exposed to Compound V, you may be entitled to financial compensation. Vought has given the drug to multiple victims, without their knowledge or consent. If you believe that you or a loved one were administered Compound V, call the law firm of Bremmer & Bremmer at 1-888-177-2774 for a free legal consultation. Know your rights!",
+          "still_image": "https://image.tmdb.org/t/p/w500/theLFUijxwD0uzdiNiJVzOpCVSG.jpg",
+          "embed_links": [
+            {
+              "provider": "VidSrc.me",
+              "url": "https://vidsrc.me/embed/tv?tmdb=76479&season=2&episode=3"
+            },
+            {
+              "provider": "VidSrc.cc (v2)",
+              "url": "https://vidsrc.cc/v2/embed/tv/76479/2/3"
+            },
+            {
+              "provider": "VidSrc.cc (v3)",
+              "url": "https://vidsrc.cc/v3/embed/tv/76479/2/3"
+            },
+            {
+              "provider": "VidLink.pro",
+              "url": "https://vidlink.pro/tv/76479/2/3"
+            },
+            {
+              "provider": "AutoEmbed.cc",
+              "url": "https://autoembed.cc/tv/tmdb/76479-2-3"
+            },
+            {
+              "provider": "Videasy",
+              "url": "https://player.videasy.net/tv/76479/2/3"
+            },
+            {
+              "provider": "VidSrc.pro",
+              "url": "https://vidsrc.pro/embed/tv/76479/2/3"
+            },
+            {
+              "provider": "2Embed.cc",
+              "url": "https://www.2embed.cc/embedtv/tt1190634&s=2&e=3"
+            }
+          ]
+        },
+        {
+          "episode": 4,
+          "title": "Nothing Like It in the World",
+          "air_date": "2020-09-10",
+          "rating": 7.675,
+          "overview": "Road trip! The Boys head to North Carolina to follow a lead on a mysterious Supe named Liberty. And did you know a person’s choice of candy bars might tell you if they’re a serial killer? Watch and learn the warning signs! This episode could save your life!",
+          "still_image": "https://image.tmdb.org/t/p/w500/6cAdAEomp2I0JwSYNcobAB1NIdm.jpg",
+          "embed_links": [
+            {
+              "provider": "VidSrc.me",
+              "url": "https://vidsrc.me/embed/tv?tmdb=76479&season=2&episode=4"
+            },
+            {
+              "provider": "VidSrc.cc (v2)",
+              "url": "https://vidsrc.cc/v2/embed/tv/76479/2/4"
+            },
+            {
+              "provider": "VidSrc.cc (v3)",
+              "url": "https://vidsrc.cc/v3/embed/tv/76479/2/4"
+            },
+            {
+              "provider": "VidLink.pro",
+              "url": "https://vidlink.pro/tv/76479/2/4"
+            },
+            {
+              "provider": "AutoEmbed.cc",
+              "url": "https://autoembed.cc/tv/tmdb/76479-2-4"
+            },
+            {
+              "provider": "Videasy",
+              "url": "https://player.videasy.net/tv/76479/2/4"
+            },
+            {
+              "provider": "VidSrc.pro",
+              "url": "https://vidsrc.pro/embed/tv/76479/2/4"
+            },
+            {
+              "provider": "2Embed.cc",
+              "url": "https://www.2embed.cc/embedtv/tt1190634&s=2&e=4"
+            }
+          ]
+        },
+        {
+          "episode": 5,
+          "title": "We Gotta Go Now",
+          "air_date": "2020-09-17",
+          "rating": 7.952,
+          "overview": "VoughtStudios is pleased to announce that filming has begun on #DawnOfTheSeven. 12 years of VCU movies have led to this. If you like movies about One Hero, you’ll love a movie about Seven Heroes. Introducing newest member @RealStormfront! See how the legend began! In theaters Summer 2021!",
+          "still_image": "https://image.tmdb.org/t/p/w500/pn5adU2bTuMvBUZoEx2qDmSS8dv.jpg",
+          "embed_links": [
+            {
+              "provider": "VidSrc.me",
+              "url": "https://vidsrc.me/embed/tv?tmdb=76479&season=2&episode=5"
+            },
+            {
+              "provider": "VidSrc.cc (v2)",
+              "url": "https://vidsrc.cc/v2/embed/tv/76479/2/5"
+            },
+            {
+              "provider": "VidSrc.cc (v3)",
+              "url": "https://vidsrc.cc/v3/embed/tv/76479/2/5"
+            },
+            {
+              "provider": "VidLink.pro",
+              "url": "https://vidlink.pro/tv/76479/2/5"
+            },
+            {
+              "provider": "AutoEmbed.cc",
+              "url": "https://autoembed.cc/tv/tmdb/76479-2-5"
+            },
+            {
+              "provider": "Videasy",
+              "url": "https://player.videasy.net/tv/76479/2/5"
+            },
+            {
+              "provider": "VidSrc.pro",
+              "url": "https://vidsrc.pro/embed/tv/76479/2/5"
+            },
+            {
+              "provider": "2Embed.cc",
+              "url": "https://www.2embed.cc/embedtv/tt1190634&s=2&e=5"
+            }
+          ]
+        },
+        {
+          "episode": 6,
+          "title": "The Bloody Doors Off",
+          "air_date": "2020-09-24",
+          "rating": 8.277,
+          "overview": "The Sage Grove Center® is dedicated to caring for those struggling with mental illness. Our compassionate doctors and counselors provide personalized services to help patients live their best lives. If you or a loved one need help, call the Sage Grove Center today at 1-800-122-8585. A proud subsidiary of Global Wellness Services®, which is a proud subsidiary of Vought International®",
+          "still_image": "https://image.tmdb.org/t/p/w500/ApfUQLbraTvHT1ZQ5qSafKkJC9Z.jpg",
+          "embed_links": [
+            {
+              "provider": "VidSrc.me",
+              "url": "https://vidsrc.me/embed/tv?tmdb=76479&season=2&episode=6"
+            },
+            {
+              "provider": "VidSrc.cc (v2)",
+              "url": "https://vidsrc.cc/v2/embed/tv/76479/2/6"
+            },
+            {
+              "provider": "VidSrc.cc (v3)",
+              "url": "https://vidsrc.cc/v3/embed/tv/76479/2/6"
+            },
+            {
+              "provider": "VidLink.pro",
+              "url": "https://vidlink.pro/tv/76479/2/6"
+            },
+            {
+              "provider": "AutoEmbed.cc",
+              "url": "https://autoembed.cc/tv/tmdb/76479-2-6"
+            },
+            {
+              "provider": "Videasy",
+              "url": "https://player.videasy.net/tv/76479/2/6"
+            },
+            {
+              "provider": "VidSrc.pro",
+              "url": "https://vidsrc.pro/embed/tv/76479/2/6"
+            },
+            {
+              "provider": "2Embed.cc",
+              "url": "https://www.2embed.cc/embedtv/tt1190634&s=2&e=6"
+            }
+          ]
+        },
+        {
+          "episode": 7,
+          "title": "Butcher, Baker, Candlestick Maker",
+          "air_date": "2020-10-01",
+          "rating": 8.268,
+          "overview": "Congresswoman Victoria Neuman’s sham Congressional Hearing against Vought takes place in 3 DAYS. Are we going to let her criminalize Superheroes when we need them most? We have to stand up against such blatant partisan politics. Please join fellow Patriotic Americans and send $20 to VOUGHTPROMISE.COM to tell Neuman and her Kangaroo Court Cronies that they won’t win, “Not On Our Watch”™.",
+          "still_image": "https://image.tmdb.org/t/p/w500/z2npefs7R96VwfgvhGWoPYpdLFj.jpg",
+          "embed_links": [
+            {
+              "provider": "VidSrc.me",
+              "url": "https://vidsrc.me/embed/tv?tmdb=76479&season=2&episode=7"
+            },
+            {
+              "provider": "VidSrc.cc (v2)",
+              "url": "https://vidsrc.cc/v2/embed/tv/76479/2/7"
+            },
+            {
+              "provider": "VidSrc.cc (v3)",
+              "url": "https://vidsrc.cc/v3/embed/tv/76479/2/7"
+            },
+            {
+              "provider": "VidLink.pro",
+              "url": "https://vidlink.pro/tv/76479/2/7"
+            },
+            {
+              "provider": "AutoEmbed.cc",
+              "url": "https://autoembed.cc/tv/tmdb/76479-2-7"
+            },
+            {
+              "provider": "Videasy",
+              "url": "https://player.videasy.net/tv/76479/2/7"
+            },
+            {
+              "provider": "VidSrc.pro",
+              "url": "https://vidsrc.pro/embed/tv/76479/2/7"
+            },
+            {
+              "provider": "2Embed.cc",
+              "url": "https://www.2embed.cc/embedtv/tt1190634&s=2&e=7"
+            }
+          ]
+        },
+        {
+          "episode": 8,
+          "title": "What I Know",
+          "air_date": "2020-10-08",
+          "rating": 8.55,
+          "overview": "***SUPER VILLAIN ALERT*** YOU ARE RECEIVING THIS NOTIFICATION FROM THE DEPARTMENT OF HOMELAND SECURITY. A SUPER VILLAIN ALERT HAS BEEN ISSUED FOR YOUR AREA. PLEASE BE VIGILANT AND REPORT ANY SUSPICIOUS PERSONS OR ACTIVITY. IF YOU BELIEVE YOU HAVE SEEN A SUPER VILLAIN, DO NOT APPROACH OR ATTEMPT TO APPREHEND THEM. CONTACT LAW ENFORCEMENT IMMEDIATELY",
+          "still_image": "https://image.tmdb.org/t/p/w500/tnFmYgTVkUnYGxzzN6b5YW0BxS6.jpg",
+          "embed_links": [
+            {
+              "provider": "VidSrc.me",
+              "url": "https://vidsrc.me/embed/tv?tmdb=76479&season=2&episode=8"
+            },
+            {
+              "provider": "VidSrc.cc (v2)",
+              "url": "https://vidsrc.cc/v2/embed/tv/76479/2/8"
+            },
+            {
+              "provider": "VidSrc.cc (v3)",
+              "url": "https://vidsrc.cc/v3/embed/tv/76479/2/8"
+            },
+            {
+              "provider": "VidLink.pro",
+              "url": "https://vidlink.pro/tv/76479/2/8"
+            },
+            {
+              "provider": "AutoEmbed.cc",
+              "url": "https://autoembed.cc/tv/tmdb/76479-2-8"
+            },
+            {
+              "provider": "Videasy",
+              "url": "https://player.videasy.net/tv/76479/2/8"
+            },
+            {
+              "provider": "VidSrc.pro",
+              "url": "https://vidsrc.pro/embed/tv/76479/2/8"
+            },
+            {
+              "provider": "2Embed.cc",
+              "url": "https://www.2embed.cc/embedtv/tt1190634&s=2&e=8"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "season": 3,
+      "name": "Season 3",
+      "air_date": "2022-06-02",
+      "poster": "https://image.tmdb.org/t/p/w500/7Ns6tO3aYjppI5bFhyYZurOYGBT.jpg",
+      "episode_count": 8,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "Payback",
+          "air_date": "2022-06-02",
+          "rating": 7.697,
+          "overview": "You and a guest are invited to the premiere of DAWN OF THE SEVEN this Tuesday at 7PM in Vought Tower’s Lamplighter Memorial Theater! Screening will be followed by a Q&A with director Adam Bourke and an after-party with Supe DJ Malchemical on the turntables! Join us for the greatest true origin story ever told about America’s number one Superhero team and see how the legend began!",
+          "still_image": "https://image.tmdb.org/t/p/w500/yeAHbQ11ExTFWg34gnP4dGNwfk5.jpg",
+          "embed_links": [
+            {
+              "provider": "VidSrc.me",
+              "url": "https://vidsrc.me/embed/tv?tmdb=76479&season=3&episode=1"
+            },
+            {
+              "provider": "VidSrc.cc (v2)",
+              "url": "https://vidsrc.cc/v2/embed/tv/76479/3/1"
+            },
+            {
+              "provider": "VidSrc.cc (v3)",
+              "url": "https://vidsrc.cc/v3/embed/tv/76479/3/1"
+            },
+            {
+              "provider": "VidLink.pro",
+              "url": "https://vidlink.pro/tv/76479/3/1"
+            },
+            {
+              "provider": "AutoEmbed.cc",
+              "url": "https://autoembed.cc/tv/tmdb/76479-3-1"
+            },
+            {
+              "provider": "Videasy",
+              "url": "https://player.videasy.net/tv/76479/3/1"
+            },
+            {
+              "provider": "VidSrc.pro",
+              "url": "https://vidsrc.pro/embed/tv/76479/3/1"
+            },
+            {
+              "provider": "2Embed.cc",
+              "url": "https://www.2embed.cc/embedtv/tt1190634&s=3&e=1"
+            }
+          ]
+        },
+        {
+          "episode": 2,
+          "title": "The Only Man in the Sky",
+          "air_date": "2022-06-02",
+          "rating": 8.034,
+          "overview": "Homelander. America’s greatest Superhero. Defending our shores from sea to shining sea. Today, America honors him on his birthday. And the Vought Shopping Network is celebrating by offering the exclusive Homelander Limited Birthday Edition Gold Coin for only $99.95 (plus tax and shipping) while supplies last. Vought Gold Commemorative Coins: An investment that lasts a lifetime.",
+          "still_image": "https://image.tmdb.org/t/p/w500/zszqaeKmSNB24q2tZigx29GH7zs.jpg",
+          "embed_links": [
+            {
+              "provider": "VidSrc.me",
+              "url": "https://vidsrc.me/embed/tv?tmdb=76479&season=3&episode=2"
+            },
+            {
+              "provider": "VidSrc.cc (v2)",
+              "url": "https://vidsrc.cc/v2/embed/tv/76479/3/2"
+            },
+            {
+              "provider": "VidSrc.cc (v3)",
+              "url": "https://vidsrc.cc/v3/embed/tv/76479/3/2"
+            },
+            {
+              "provider": "VidLink.pro",
+              "url": "https://vidlink.pro/tv/76479/3/2"
+            },
+            {
+              "provider": "AutoEmbed.cc",
+              "url": "https://autoembed.cc/tv/tmdb/76479-3-2"
+            },
+            {
+              "provider": "Videasy",
+              "url": "https://player.videasy.net/tv/76479/3/2"
+            },
+            {
+              "provider": "VidSrc.pro",
+              "url": "https://vidsrc.pro/embed/tv/76479/3/2"
+            },
+            {
+              "provider": "2Embed.cc",
+              "url": "https://www.2embed.cc/embedtv/tt1190634&s=3&e=2"
+            }
+          ]
+        },
+        {
+          "episode": 3,
+          "title": "Barbary Coast",
+          "air_date": "2022-06-02",
+          "rating": 8.004,
+          "overview": "Tonight at 9/8C on Vought Plus, it’s the season finale of #AmericanHero! Three contestants remain, but only TWO will join #TheSeven! Will Starlight choose her old flame Supersonic? Or will someone else be moving into the Seven Tower? Tune in tonight for the SHOCKING final episode, brought to you by Lean Lady Frozen Dinners by Vought: Where slim tastes super!",
+          "still_image": "https://image.tmdb.org/t/p/w500/ro9cmO9k5g6ZnPYSTu31juUhpRF.jpg",
+          "embed_links": [
+            {
+              "provider": "VidSrc.me",
+              "url": "https://vidsrc.me/embed/tv?tmdb=76479&season=3&episode=3"
+            },
+            {
+              "provider": "VidSrc.cc (v2)",
+              "url": "https://vidsrc.cc/v2/embed/tv/76479/3/3"
+            },
+            {
+              "provider": "VidSrc.cc (v3)",
+              "url": "https://vidsrc.cc/v3/embed/tv/76479/3/3"
+            },
+            {
+              "provider": "VidLink.pro",
+              "url": "https://vidlink.pro/tv/76479/3/3"
+            },
+            {
+              "provider": "AutoEmbed.cc",
+              "url": "https://autoembed.cc/tv/tmdb/76479-3-3"
+            },
+            {
+              "provider": "Videasy",
+              "url": "https://player.videasy.net/tv/76479/3/3"
+            },
+            {
+              "provider": "VidSrc.pro",
+              "url": "https://vidsrc.pro/embed/tv/76479/3/3"
+            },
+            {
+              "provider": "2Embed.cc",
+              "url": "https://www.2embed.cc/embedtv/tt1190634&s=3&e=3"
+            }
+          ]
+        },
+        {
+          "episode": 4,
+          "title": "Glorious Five Year Plan",
+          "air_date": "2022-06-09",
+          "rating": 8.237,
+          "overview": "Tonight, streaming live exclusively for Supeporn.com Super-Subscribers, it’s the #ClashOfTheDildos! Which of The Seven-inspired dildos will crush the competition in this tip-to-tip challenge? Will it be the reigning champion Homelander Star-Spangled Banger or Starlight’s electrified Star-Brator? Join us as we put these pleasure-pounding penetrators through their paces! Only on Supeporn.com!",
+          "still_image": "https://image.tmdb.org/t/p/w500/adNh9TIlLKh0uUug3KOiuhFINAh.jpg",
+          "embed_links": [
+            {
+              "provider": "VidSrc.me",
+              "url": "https://vidsrc.me/embed/tv?tmdb=76479&season=3&episode=4"
+            },
+            {
+              "provider": "VidSrc.cc (v2)",
+              "url": "https://vidsrc.cc/v2/embed/tv/76479/3/4"
+            },
+            {
+              "provider": "VidSrc.cc (v3)",
+              "url": "https://vidsrc.cc/v3/embed/tv/76479/3/4"
+            },
+            {
+              "provider": "VidLink.pro",
+              "url": "https://vidlink.pro/tv/76479/3/4"
+            },
+            {
+              "provider": "AutoEmbed.cc",
+              "url": "https://autoembed.cc/tv/tmdb/76479-3-4"
+            },
+            {
+              "provider": "Videasy",
+              "url": "https://player.videasy.net/tv/76479/3/4"
+            },
+            {
+              "provider": "VidSrc.pro",
+              "url": "https://vidsrc.pro/embed/tv/76479/3/4"
+            },
+            {
+              "provider": "2Embed.cc",
+              "url": "https://www.2embed.cc/embedtv/tt1190634&s=3&e=4"
+            }
+          ]
+        },
+        {
+          "episode": 5,
+          "title": "The Last Time to Look on This World of Lies",
+          "air_date": "2022-06-16",
+          "rating": 7.705,
+          "overview": "Did you know chimpanzees are an endangered species largely because of human activity? But you can help by supporting construction costs for Crimson Countess’s Chimp Country! This beautiful refuge for chimpanzees will feature a banana plantation, four daily stunt shows, and a petting zoo! And when you donate, you’ll be entered to win a private video chat with Crimson Countess! Donate today!",
+          "still_image": "https://image.tmdb.org/t/p/w500/m5hFjth3uqHRdDQmFr4xDhMPyzc.jpg",
+          "embed_links": [
+            {
+              "provider": "VidSrc.me",
+              "url": "https://vidsrc.me/embed/tv?tmdb=76479&season=3&episode=5"
+            },
+            {
+              "provider": "VidSrc.cc (v2)",
+              "url": "https://vidsrc.cc/v2/embed/tv/76479/3/5"
+            },
+            {
+              "provider": "VidSrc.cc (v3)",
+              "url": "https://vidsrc.cc/v3/embed/tv/76479/3/5"
+            },
+            {
+              "provider": "VidLink.pro",
+              "url": "https://vidlink.pro/tv/76479/3/5"
+            },
+            {
+              "provider": "AutoEmbed.cc",
+              "url": "https://autoembed.cc/tv/tmdb/76479-3-5"
+            },
+            {
+              "provider": "Videasy",
+              "url": "https://player.videasy.net/tv/76479/3/5"
+            },
+            {
+              "provider": "VidSrc.pro",
+              "url": "https://vidsrc.pro/embed/tv/76479/3/5"
+            },
+            {
+              "provider": "2Embed.cc",
+              "url": "https://www.2embed.cc/embedtv/tt1190634&s=3&e=5"
+            }
+          ]
+        },
+        {
+          "episode": 6,
+          "title": "Herogasm",
+          "air_date": "2022-06-23",
+          "rating": 8.6,
+          "overview": "You’re invited to the 70th Annual Herogasm! You must present this invitation in order to be admitted! Same rules as always: no cameras, no non-Supe guests unless they sign an NDA and they’re DTF, and no telling any news media! It’s BYOD, but food, alcohol and lube will be provided! And please remember to RSVP so we can get an accurate headcount for the caterer!",
+          "still_image": "https://image.tmdb.org/t/p/w500/xmGw9EVZ6jSeWz0K9vyfim3KvhZ.jpg",
+          "embed_links": [
+            {
+              "provider": "VidSrc.me",
+              "url": "https://vidsrc.me/embed/tv?tmdb=76479&season=3&episode=6"
+            },
+            {
+              "provider": "VidSrc.cc (v2)",
+              "url": "https://vidsrc.cc/v2/embed/tv/76479/3/6"
+            },
+            {
+              "provider": "VidSrc.cc (v3)",
+              "url": "https://vidsrc.cc/v3/embed/tv/76479/3/6"
+            },
+            {
+              "provider": "VidLink.pro",
+              "url": "https://vidlink.pro/tv/76479/3/6"
+            },
+            {
+              "provider": "AutoEmbed.cc",
+              "url": "https://autoembed.cc/tv/tmdb/76479-3-6"
+            },
+            {
+              "provider": "Videasy",
+              "url": "https://player.videasy.net/tv/76479/3/6"
+            },
+            {
+              "provider": "VidSrc.pro",
+              "url": "https://vidsrc.pro/embed/tv/76479/3/6"
+            },
+            {
+              "provider": "2Embed.cc",
+              "url": "https://www.2embed.cc/embedtv/tt1190634&s=3&e=6"
+            }
+          ]
+        },
+        {
+          "episode": 7,
+          "title": "Here Comes a Candle to Light You to Bed",
+          "air_date": "2022-06-30",
+          "rating": 8.034,
+          "overview": "Did someone say birthday? Come celebrate at Buster Beaver’s with our new Deluxe VIP Birthday Package, with seating for up to 30 guests, ten large two-topping pizzas, and ten pitchers of your choice of soda! And of course, a special birthday play starring Buster Beaver and his cast of furry forest friends! All for only $199.99 + tax! Buster Beaver’s Pizza! Where Kids Make the Rules®!",
+          "still_image": "https://image.tmdb.org/t/p/w500/u8PIO0omODZrNDqe5QXozBgjmAJ.jpg",
+          "embed_links": [
+            {
+              "provider": "VidSrc.me",
+              "url": "https://vidsrc.me/embed/tv?tmdb=76479&season=3&episode=7"
+            },
+            {
+              "provider": "VidSrc.cc (v2)",
+              "url": "https://vidsrc.cc/v2/embed/tv/76479/3/7"
+            },
+            {
+              "provider": "VidSrc.cc (v3)",
+              "url": "https://vidsrc.cc/v3/embed/tv/76479/3/7"
+            },
+            {
+              "provider": "VidLink.pro",
+              "url": "https://vidlink.pro/tv/76479/3/7"
+            },
+            {
+              "provider": "AutoEmbed.cc",
+              "url": "https://autoembed.cc/tv/tmdb/76479-3-7"
+            },
+            {
+              "provider": "Videasy",
+              "url": "https://player.videasy.net/tv/76479/3/7"
+            },
+            {
+              "provider": "VidSrc.pro",
+              "url": "https://vidsrc.pro/embed/tv/76479/3/7"
+            },
+            {
+              "provider": "2Embed.cc",
+              "url": "https://www.2embed.cc/embedtv/tt1190634&s=3&e=7"
+            }
+          ]
+        },
+        {
+          "episode": 8,
+          "title": "The Instant White-Hot Wild",
+          "air_date": "2022-07-07",
+          "rating": 7.781,
+          "overview": "Calling all patriots! Let’s show Homelander we’ve got his back and we’re not going to let Starlight and her Starlight House of Horrors get away with trafficking children and drinking their adrenaline! It’s time for real Americans to fight back! Join the Hometeamers and Stormchasers tomorrow at Vought Square! Stand back and stand by!",
+          "still_image": "https://image.tmdb.org/t/p/w500/9P4mzgcMj0XrmXldeuqmTlnKWbI.jpg",
+          "embed_links": [
+            {
+              "provider": "VidSrc.me",
+              "url": "https://vidsrc.me/embed/tv?tmdb=76479&season=3&episode=8"
+            },
+            {
+              "provider": "VidSrc.cc (v2)",
+              "url": "https://vidsrc.cc/v2/embed/tv/76479/3/8"
+            },
+            {
+              "provider": "VidSrc.cc (v3)",
+              "url": "https://vidsrc.cc/v3/embed/tv/76479/3/8"
+            },
+            {
+              "provider": "VidLink.pro",
+              "url": "https://vidlink.pro/tv/76479/3/8"
+            },
+            {
+              "provider": "AutoEmbed.cc",
+              "url": "https://autoembed.cc/tv/tmdb/76479-3-8"
+            },
+            {
+              "provider": "Videasy",
+              "url": "https://player.videasy.net/tv/76479/3/8"
+            },
+            {
+              "provider": "VidSrc.pro",
+              "url": "https://vidsrc.pro/embed/tv/76479/3/8"
+            },
+            {
+              "provider": "2Embed.cc",
+              "url": "https://www.2embed.cc/embedtv/tt1190634&s=3&e=8"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "season": 4,
+      "name": "Season 4",
+      "air_date": "2024-06-13",
+      "poster": "https://image.tmdb.org/t/p/w500/nWwhdt7iOFJsWM8Lz1UtaUC6EUf.jpg",
+      "episode_count": 8,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "Department of Dirty Tricks",
+          "air_date": "2024-06-13",
+          "rating": 7.12,
+          "overview": "CALLING ALL PATRIOTS. BE AT THE COURTHOUSE TOMORROW FOR HOMELANDER'S #VERDICT AND BE READY. IF THE CORRUPT \"JUSTICE\" SYSTEM WANTS TO F**K AROUND, THEY'RE GONNA FIND OUT. #HOMEFREE",
+          "still_image": "https://image.tmdb.org/t/p/w500/1LngDWtMVzS1Mw3os1KCDVnI7G9.jpg",
+          "embed_links": [
+            {
+              "provider": "VidSrc.me",
+              "url": "https://vidsrc.me/embed/tv?tmdb=76479&season=4&episode=1"
+            },
+            {
+              "provider": "VidSrc.cc (v2)",
+              "url": "https://vidsrc.cc/v2/embed/tv/76479/4/1"
+            },
+            {
+              "provider": "VidSrc.cc (v3)",
+              "url": "https://vidsrc.cc/v3/embed/tv/76479/4/1"
+            },
+            {
+              "provider": "VidLink.pro",
+              "url": "https://vidlink.pro/tv/76479/4/1"
+            },
+            {
+              "provider": "AutoEmbed.cc",
+              "url": "https://autoembed.cc/tv/tmdb/76479-4-1"
+            },
+            {
+              "provider": "Videasy",
+              "url": "https://player.videasy.net/tv/76479/4/1"
+            },
+            {
+              "provider": "VidSrc.pro",
+              "url": "https://vidsrc.pro/embed/tv/76479/4/1"
+            },
+            {
+              "provider": "2Embed.cc",
+              "url": "https://www.2embed.cc/embedtv/tt1190634&s=4&e=1"
+            }
+          ]
+        },
+        {
+          "episode": 2,
+          "title": "Life Among the Septics",
+          "air_date": "2024-06-13",
+          "rating": 6.714,
+          "overview": "Did you know globalists put chemicals in food to make us gay, Dakota Bob is a demon from hell, and the Moon isn't real? Find out what they don't want you to know at #TruthCon!",
+          "still_image": "https://image.tmdb.org/t/p/w500/3VwsB3ZXPpFnGw3omnGpqPJMkLe.jpg",
+          "embed_links": [
+            {
+              "provider": "VidSrc.me",
+              "url": "https://vidsrc.me/embed/tv?tmdb=76479&season=4&episode=2"
+            },
+            {
+              "provider": "VidSrc.cc (v2)",
+              "url": "https://vidsrc.cc/v2/embed/tv/76479/4/2"
+            },
+            {
+              "provider": "VidSrc.cc (v3)",
+              "url": "https://vidsrc.cc/v3/embed/tv/76479/4/2"
+            },
+            {
+              "provider": "VidLink.pro",
+              "url": "https://vidlink.pro/tv/76479/4/2"
+            },
+            {
+              "provider": "AutoEmbed.cc",
+              "url": "https://autoembed.cc/tv/tmdb/76479-4-2"
+            },
+            {
+              "provider": "Videasy",
+              "url": "https://player.videasy.net/tv/76479/4/2"
+            },
+            {
+              "provider": "VidSrc.pro",
+              "url": "https://vidsrc.pro/embed/tv/76479/4/2"
+            },
+            {
+              "provider": "2Embed.cc",
+              "url": "https://www.2embed.cc/embedtv/tt1190634&s=4&e=2"
+            }
+          ]
+        },
+        {
+          "episode": 3,
+          "title": "We'll Keep the Red Flag Flying Here",
+          "air_date": "2024-06-13",
+          "rating": 7.068,
+          "overview": "This December at VoughtCoin Arena, experience the story of Christmas the way it was meant to be told... on ice! Vought Presents Vought on Ice! Tickets available now at VoughtOnIce.com!",
+          "still_image": "https://image.tmdb.org/t/p/w500/k3ixtDia595oabaPZQBOmsrwiAb.jpg",
+          "embed_links": [
+            {
+              "provider": "VidSrc.me",
+              "url": "https://vidsrc.me/embed/tv?tmdb=76479&season=4&episode=3"
+            },
+            {
+              "provider": "VidSrc.cc (v2)",
+              "url": "https://vidsrc.cc/v2/embed/tv/76479/4/3"
+            },
+            {
+              "provider": "VidSrc.cc (v3)",
+              "url": "https://vidsrc.cc/v3/embed/tv/76479/4/3"
+            },
+            {
+              "provider": "VidLink.pro",
+              "url": "https://vidlink.pro/tv/76479/4/3"
+            },
+            {
+              "provider": "AutoEmbed.cc",
+              "url": "https://autoembed.cc/tv/tmdb/76479-4-3"
+            },
+            {
+              "provider": "Videasy",
+              "url": "https://player.videasy.net/tv/76479/4/3"
+            },
+            {
+              "provider": "VidSrc.pro",
+              "url": "https://vidsrc.pro/embed/tv/76479/4/3"
+            },
+            {
+              "provider": "2Embed.cc",
+              "url": "https://www.2embed.cc/embedtv/tt1190634&s=4&e=3"
+            }
+          ]
+        },
+        {
+          "episode": 4,
+          "title": "Wisdom of the Ages",
+          "air_date": "2024-06-20",
+          "rating": 7.876,
+          "overview": "Vought News Network is proud to announce its new series #Truthbomb! Join host Firecracker and her celebrity guests for the live 6-hour premiere as they expose Starlight's Adrenochrome Parties!",
+          "still_image": "https://image.tmdb.org/t/p/w500/n4xTP8x24KeKNhCOSuBAHrUPSNw.jpg",
+          "embed_links": [
+            {
+              "provider": "VidSrc.me",
+              "url": "https://vidsrc.me/embed/tv?tmdb=76479&season=4&episode=4"
+            },
+            {
+              "provider": "VidSrc.cc (v2)",
+              "url": "https://vidsrc.cc/v2/embed/tv/76479/4/4"
+            },
+            {
+              "provider": "VidSrc.cc (v3)",
+              "url": "https://vidsrc.cc/v3/embed/tv/76479/4/4"
+            },
+            {
+              "provider": "VidLink.pro",
+              "url": "https://vidlink.pro/tv/76479/4/4"
+            },
+            {
+              "provider": "AutoEmbed.cc",
+              "url": "https://autoembed.cc/tv/tmdb/76479-4-4"
+            },
+            {
+              "provider": "Videasy",
+              "url": "https://player.videasy.net/tv/76479/4/4"
+            },
+            {
+              "provider": "VidSrc.pro",
+              "url": "https://vidsrc.pro/embed/tv/76479/4/4"
+            },
+            {
+              "provider": "2Embed.cc",
+              "url": "https://www.2embed.cc/embedtv/tt1190634&s=4&e=4"
+            }
+          ]
+        },
+        {
+          "episode": 5,
+          "title": "Beware the Jabberwock, My Son",
+          "air_date": "2024-06-27",
+          "rating": 7.612,
+          "overview": "Attention #superfans! This year at #V52 see A-Train live and in person, as he presents an exclusive sneak peek at his powerful, true-life story: TRAINING A-TRAIN! V52: Powered by fans, for fans!",
+          "still_image": "https://image.tmdb.org/t/p/w500/fHeFRfcd21yOzCR5JBclaN8LuQs.jpg",
+          "embed_links": [
+            {
+              "provider": "VidSrc.me",
+              "url": "https://vidsrc.me/embed/tv?tmdb=76479&season=4&episode=5"
+            },
+            {
+              "provider": "VidSrc.cc (v2)",
+              "url": "https://vidsrc.cc/v2/embed/tv/76479/4/5"
+            },
+            {
+              "provider": "VidSrc.cc (v3)",
+              "url": "https://vidsrc.cc/v3/embed/tv/76479/4/5"
+            },
+            {
+              "provider": "VidLink.pro",
+              "url": "https://vidlink.pro/tv/76479/4/5"
+            },
+            {
+              "provider": "AutoEmbed.cc",
+              "url": "https://autoembed.cc/tv/tmdb/76479-4-5"
+            },
+            {
+              "provider": "Videasy",
+              "url": "https://player.videasy.net/tv/76479/4/5"
+            },
+            {
+              "provider": "VidSrc.pro",
+              "url": "https://vidsrc.pro/embed/tv/76479/4/5"
+            },
+            {
+              "provider": "2Embed.cc",
+              "url": "https://www.2embed.cc/embedtv/tt1190634&s=4&e=5"
+            }
+          ]
+        },
+        {
+          "episode": 6,
+          "title": "Dirty Business",
+          "air_date": "2024-07-04",
+          "rating": 7.2,
+          "overview": "Vernon Correctional Services provides compassionate rehabilitation to those in our care to prepare them for successful community reentry. At Vernon, it's not about custody. It's about family.",
+          "still_image": "https://image.tmdb.org/t/p/w500/cFrUAYssPVPCsgHVFzIrxrkOELW.jpg",
+          "embed_links": [
+            {
+              "provider": "VidSrc.me",
+              "url": "https://vidsrc.me/embed/tv?tmdb=76479&season=4&episode=6"
+            },
+            {
+              "provider": "VidSrc.cc (v2)",
+              "url": "https://vidsrc.cc/v2/embed/tv/76479/4/6"
+            },
+            {
+              "provider": "VidSrc.cc (v3)",
+              "url": "https://vidsrc.cc/v3/embed/tv/76479/4/6"
+            },
+            {
+              "provider": "VidLink.pro",
+              "url": "https://vidlink.pro/tv/76479/4/6"
+            },
+            {
+              "provider": "AutoEmbed.cc",
+              "url": "https://autoembed.cc/tv/tmdb/76479-4-6"
+            },
+            {
+              "provider": "Videasy",
+              "url": "https://player.videasy.net/tv/76479/4/6"
+            },
+            {
+              "provider": "VidSrc.pro",
+              "url": "https://vidsrc.pro/embed/tv/76479/4/6"
+            },
+            {
+              "provider": "2Embed.cc",
+              "url": "https://www.2embed.cc/embedtv/tt1190634&s=4&e=6"
+            }
+          ]
+        },
+        {
+          "episode": 7,
+          "title": "The Insider",
+          "air_date": "2024-07-11",
+          "rating": 7.938,
+          "overview": "Hey kids! Did you know your neighbor, uncle, or even Mom and Dad might be trying to destroy America? Find out how to stop them on the Avenue V Christmas Special! If you see something, say something!",
+          "still_image": "https://image.tmdb.org/t/p/w500/8bUDuBfDouc2A8Dm0495ad21v2w.jpg",
+          "embed_links": [
+            {
+              "provider": "VidSrc.me",
+              "url": "https://vidsrc.me/embed/tv?tmdb=76479&season=4&episode=7"
+            },
+            {
+              "provider": "VidSrc.cc (v2)",
+              "url": "https://vidsrc.cc/v2/embed/tv/76479/4/7"
+            },
+            {
+              "provider": "VidSrc.cc (v3)",
+              "url": "https://vidsrc.cc/v3/embed/tv/76479/4/7"
+            },
+            {
+              "provider": "VidLink.pro",
+              "url": "https://vidlink.pro/tv/76479/4/7"
+            },
+            {
+              "provider": "AutoEmbed.cc",
+              "url": "https://autoembed.cc/tv/tmdb/76479-4-7"
+            },
+            {
+              "provider": "Videasy",
+              "url": "https://player.videasy.net/tv/76479/4/7"
+            },
+            {
+              "provider": "VidSrc.pro",
+              "url": "https://vidsrc.pro/embed/tv/76479/4/7"
+            },
+            {
+              "provider": "2Embed.cc",
+              "url": "https://www.2embed.cc/embedtv/tt1190634&s=4&e=7"
+            }
+          ]
+        },
+        {
+          "episode": 8,
+          "title": "Season Four Finale",
+          "air_date": "2024-07-18",
+          "rating": 8.261,
+          "overview": "Calling all patriots! We will not allow this stolen election to be certified tomorrow! We must stop Bob Singer's woke anti-Supe agenda! PREPARE FOR WAR! #WhereWeGoOneWeGoVought",
+          "still_image": "https://image.tmdb.org/t/p/w500/kv7DTgyuKz5gsSwfoH92Tnam0lA.jpg",
+          "embed_links": [
+            {
+              "provider": "VidSrc.me",
+              "url": "https://vidsrc.me/embed/tv?tmdb=76479&season=4&episode=8"
+            },
+            {
+              "provider": "VidSrc.cc (v2)",
+              "url": "https://vidsrc.cc/v2/embed/tv/76479/4/8"
+            },
+            {
+              "provider": "VidSrc.cc (v3)",
+              "url": "https://vidsrc.cc/v3/embed/tv/76479/4/8"
+            },
+            {
+              "provider": "VidLink.pro",
+              "url": "https://vidlink.pro/tv/76479/4/8"
+            },
+            {
+              "provider": "AutoEmbed.cc",
+              "url": "https://autoembed.cc/tv/tmdb/76479-4-8"
+            },
+            {
+              "provider": "Videasy",
+              "url": "https://player.videasy.net/tv/76479/4/8"
+            },
+            {
+              "provider": "VidSrc.pro",
+              "url": "https://vidsrc.pro/embed/tv/76479/4/8"
+            },
+            {
+              "provider": "2Embed.cc",
+              "url": "https://www.2embed.cc/embedtv/tt1190634&s=4&e=8"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "season": 5,
+      "name": "Season 5",
+      "air_date": "2026-04-08",
+      "poster": "https://image.tmdb.org/t/p/w500/in1R2dDc421JxsoRWaIIAqVI2KE.jpg",
+      "episode_count": 8,
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "Fifteen Inches of Sheer Dynamite",
+          "air_date": "2026-04-08",
+          "rating": 6.818,
+          "overview": "ATTENTION FREEDOM CAMPERS: ESCAPE ATTEMPTS WILL BE MET WITH DEADLY FORCE. Have a super day!",
+          "still_image": "https://image.tmdb.org/t/p/w500/brDJrC1Bm7oD3Pr7TL7Do0sL5yB.jpg",
+          "embed_links": [
+            {
+              "provider": "VidSrc.me",
+              "url": "https://vidsrc.me/embed/tv?tmdb=76479&season=5&episode=1"
+            },
+            {
+              "provider": "VidSrc.cc (v2)",
+              "url": "https://vidsrc.cc/v2/embed/tv/76479/5/1"
+            },
+            {
+              "provider": "VidSrc.cc (v3)",
+              "url": "https://vidsrc.cc/v3/embed/tv/76479/5/1"
+            },
+            {
+              "provider": "VidLink.pro",
+              "url": "https://vidlink.pro/tv/76479/5/1"
+            },
+            {
+              "provider": "AutoEmbed.cc",
+              "url": "https://autoembed.cc/tv/tmdb/76479-5-1"
+            },
+            {
+              "provider": "Videasy",
+              "url": "https://player.videasy.net/tv/76479/5/1"
+            },
+            {
+              "provider": "VidSrc.pro",
+              "url": "https://vidsrc.pro/embed/tv/76479/5/1"
+            },
+            {
+              "provider": "2Embed.cc",
+              "url": "https://www.2embed.cc/embedtv/tt1190634&s=5&e=1"
+            }
+          ]
+        },
+        {
+          "episode": 2,
+          "title": "Teenage Kix",
+          "air_date": "2026-04-08",
+          "rating": 6.313,
+          "overview": "Tonight at 9/8C a @VoughtNews special report: Is your loved one a secret Starlighter terrorist?",
+          "still_image": "https://image.tmdb.org/t/p/w500/6SGsPDrZlNoMz1QLMEvkJHcksGg.jpg",
+          "embed_links": [
+            {
+              "provider": "VidSrc.me",
+              "url": "https://vidsrc.me/embed/tv?tmdb=76479&season=5&episode=2"
+            },
+            {
+              "provider": "VidSrc.cc (v2)",
+              "url": "https://vidsrc.cc/v2/embed/tv/76479/5/2"
+            },
+            {
+              "provider": "VidSrc.cc (v3)",
+              "url": "https://vidsrc.cc/v3/embed/tv/76479/5/2"
+            },
+            {
+              "provider": "VidLink.pro",
+              "url": "https://vidlink.pro/tv/76479/5/2"
+            },
+            {
+              "provider": "AutoEmbed.cc",
+              "url": "https://autoembed.cc/tv/tmdb/76479-5-2"
+            },
+            {
+              "provider": "Videasy",
+              "url": "https://player.videasy.net/tv/76479/5/2"
+            },
+            {
+              "provider": "VidSrc.pro",
+              "url": "https://vidsrc.pro/embed/tv/76479/5/2"
+            },
+            {
+              "provider": "2Embed.cc",
+              "url": "https://www.2embed.cc/embedtv/tt1190634&s=5&e=2"
+            }
+          ]
+        },
+        {
+          "episode": 3,
+          "title": "Every One of You Sons of Bitches",
+          "air_date": "2026-04-15",
+          "rating": 6.419,
+          "overview": "Storm her senses with V-Bro Mango Thunder Body Spray by Vought! She'll never know what hit her!",
+          "still_image": "https://image.tmdb.org/t/p/w500/5SaDyFtoR7aWuS340Cq0W3K5uBx.jpg",
+          "embed_links": [
+            {
+              "provider": "VidSrc.me",
+              "url": "https://vidsrc.me/embed/tv?tmdb=76479&season=5&episode=3"
+            },
+            {
+              "provider": "VidSrc.cc (v2)",
+              "url": "https://vidsrc.cc/v2/embed/tv/76479/5/3"
+            },
+            {
+              "provider": "VidSrc.cc (v3)",
+              "url": "https://vidsrc.cc/v3/embed/tv/76479/5/3"
+            },
+            {
+              "provider": "VidLink.pro",
+              "url": "https://vidlink.pro/tv/76479/5/3"
+            },
+            {
+              "provider": "AutoEmbed.cc",
+              "url": "https://autoembed.cc/tv/tmdb/76479-5-3"
+            },
+            {
+              "provider": "Videasy",
+              "url": "https://player.videasy.net/tv/76479/5/3"
+            },
+            {
+              "provider": "VidSrc.pro",
+              "url": "https://vidsrc.pro/embed/tv/76479/5/3"
+            },
+            {
+              "provider": "2Embed.cc",
+              "url": "https://www.2embed.cc/embedtv/tt1190634&s=5&e=3"
+            }
+          ]
+        },
+        {
+          "episode": 4,
+          "title": "King of Hell",
+          "air_date": "2026-04-22",
+          "rating": 6.104,
+          "overview": "IN THIS HOUSE, WE BELIEVE IN HOMELANDER!",
+          "still_image": "https://image.tmdb.org/t/p/w500/g7OxzZjnOuh7osDYoKncDum6F05.jpg",
+          "embed_links": [
+            {
+              "provider": "VidSrc.me",
+              "url": "https://vidsrc.me/embed/tv?tmdb=76479&season=5&episode=4"
+            },
+            {
+              "provider": "VidSrc.cc (v2)",
+              "url": "https://vidsrc.cc/v2/embed/tv/76479/5/4"
+            },
+            {
+              "provider": "VidSrc.cc (v3)",
+              "url": "https://vidsrc.cc/v3/embed/tv/76479/5/4"
+            },
+            {
+              "provider": "VidLink.pro",
+              "url": "https://vidlink.pro/tv/76479/5/4"
+            },
+            {
+              "provider": "AutoEmbed.cc",
+              "url": "https://autoembed.cc/tv/tmdb/76479-5-4"
+            },
+            {
+              "provider": "Videasy",
+              "url": "https://player.videasy.net/tv/76479/5/4"
+            },
+            {
+              "provider": "VidSrc.pro",
+              "url": "https://vidsrc.pro/embed/tv/76479/5/4"
+            },
+            {
+              "provider": "2Embed.cc",
+              "url": "https://www.2embed.cc/embedtv/tt1190634&s=5&e=4"
+            }
+          ]
+        },
+        {
+          "episode": 5,
+          "title": "One-Shots",
+          "air_date": "2026-04-29",
+          "rating": 6.284,
+          "overview": "Tonight at 9/8C a @VoughtNews special report: Treason in Tinseltown! Find out which of your favorite Hollywood stars are rumored to be Starlighters!",
+          "still_image": "https://image.tmdb.org/t/p/w500/jM2KeEMNZci6skzwPCYkH7wC3DT.jpg",
+          "embed_links": [
+            {
+              "provider": "VidSrc.me",
+              "url": "https://vidsrc.me/embed/tv?tmdb=76479&season=5&episode=5"
+            },
+            {
+              "provider": "VidSrc.cc (v2)",
+              "url": "https://vidsrc.cc/v2/embed/tv/76479/5/5"
+            },
+            {
+              "provider": "VidSrc.cc (v3)",
+              "url": "https://vidsrc.cc/v3/embed/tv/76479/5/5"
+            },
+            {
+              "provider": "VidLink.pro",
+              "url": "https://vidlink.pro/tv/76479/5/5"
+            },
+            {
+              "provider": "AutoEmbed.cc",
+              "url": "https://autoembed.cc/tv/tmdb/76479-5-5"
+            },
+            {
+              "provider": "Videasy",
+              "url": "https://player.videasy.net/tv/76479/5/5"
+            },
+            {
+              "provider": "VidSrc.pro",
+              "url": "https://vidsrc.pro/embed/tv/76479/5/5"
+            },
+            {
+              "provider": "2Embed.cc",
+              "url": "https://www.2embed.cc/embedtv/tt1190634&s=5&e=5"
+            }
+          ]
+        },
+        {
+          "episode": 6,
+          "title": "Though the Heavens Fall",
+          "air_date": "2026-05-06",
+          "rating": 6.185,
+          "overview": "Available now, EXCLUSIVELY at @VMCtheaters, get the new #DeepPopcornBucket for only $32.99!",
+          "still_image": "https://image.tmdb.org/t/p/w500/4TA0dxVoNmiS98rLFBx6CDCov7p.jpg",
+          "embed_links": [
+            {
+              "provider": "VidSrc.me",
+              "url": "https://vidsrc.me/embed/tv?tmdb=76479&season=5&episode=6"
+            },
+            {
+              "provider": "VidSrc.cc (v2)",
+              "url": "https://vidsrc.cc/v2/embed/tv/76479/5/6"
+            },
+            {
+              "provider": "VidSrc.cc (v3)",
+              "url": "https://vidsrc.cc/v3/embed/tv/76479/5/6"
+            },
+            {
+              "provider": "VidLink.pro",
+              "url": "https://vidlink.pro/tv/76479/5/6"
+            },
+            {
+              "provider": "AutoEmbed.cc",
+              "url": "https://autoembed.cc/tv/tmdb/76479-5-6"
+            },
+            {
+              "provider": "Videasy",
+              "url": "https://player.videasy.net/tv/76479/5/6"
+            },
+            {
+              "provider": "VidSrc.pro",
+              "url": "https://vidsrc.pro/embed/tv/76479/5/6"
+            },
+            {
+              "provider": "2Embed.cc",
+              "url": "https://www.2embed.cc/embedtv/tt1190634&s=5&e=6"
+            }
+          ]
+        },
+        {
+          "episode": 7,
+          "title": "The Frenchman, the Female, and the Man Called Mother's Milk",
+          "air_date": "2026-05-13",
+          "rating": 6.424,
+          "overview": "WARNING: EXERCISE CAUTION WHEN ENTERING SOUNDSTAGE. PERFORMERS MAY BE USING SUPERPOWERS.",
+          "still_image": "https://image.tmdb.org/t/p/w500/m7RKphwoonRHsSniQAJhAEnTmca.jpg",
+          "embed_links": [
+            {
+              "provider": "VidSrc.me",
+              "url": "https://vidsrc.me/embed/tv?tmdb=76479&season=5&episode=7"
+            },
+            {
+              "provider": "VidSrc.cc (v2)",
+              "url": "https://vidsrc.cc/v2/embed/tv/76479/5/7"
+            },
+            {
+              "provider": "VidSrc.cc (v3)",
+              "url": "https://vidsrc.cc/v3/embed/tv/76479/5/7"
+            },
+            {
+              "provider": "VidLink.pro",
+              "url": "https://vidlink.pro/tv/76479/5/7"
+            },
+            {
+              "provider": "AutoEmbed.cc",
+              "url": "https://autoembed.cc/tv/tmdb/76479-5-7"
+            },
+            {
+              "provider": "Videasy",
+              "url": "https://player.videasy.net/tv/76479/5/7"
+            },
+            {
+              "provider": "VidSrc.pro",
+              "url": "https://vidsrc.pro/embed/tv/76479/5/7"
+            },
+            {
+              "provider": "2Embed.cc",
+              "url": "https://www.2embed.cc/embedtv/tt1190634&s=5&e=7"
+            }
+          ]
+        },
+        {
+          "episode": 8,
+          "title": "Blood and Bone",
+          "air_date": "2026-05-20",
+          "rating": 5.856,
+          "overview": "Easter Sunday. 2PM. Live on @VoughtNews. Bear witness as Homelander reboots the universe.",
+          "still_image": "https://image.tmdb.org/t/p/w500/fEpbmTvcp5ezmogpprVtlzdpnKl.jpg",
+          "embed_links": [
+            {
+              "provider": "VidSrc.me",
+              "url": "https://vidsrc.me/embed/tv?tmdb=76479&season=5&episode=8"
+            },
+            {
+              "provider": "VidSrc.cc (v2)",
+              "url": "https://vidsrc.cc/v2/embed/tv/76479/5/8"
+            },
+            {
+              "provider": "VidSrc.cc (v3)",
+              "url": "https://vidsrc.cc/v3/embed/tv/76479/5/8"
+            },
+            {
+              "provider": "VidLink.pro",
+              "url": "https://vidlink.pro/tv/76479/5/8"
+            },
+            {
+              "provider": "AutoEmbed.cc",
+              "url": "https://autoembed.cc/tv/tmdb/76479-5-8"
+            },
+            {
+              "provider": "Videasy",
+              "url": "https://player.videasy.net/tv/76479/5/8"
+            },
+            {
+              "provider": "VidSrc.pro",
+              "url": "https://vidsrc.pro/embed/tv/76479/5/8"
+            },
+            {
+              "provider": "2Embed.cc",
+              "url": "https://www.2embed.cc/embedtv/tt1190634&s=5&e=8"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

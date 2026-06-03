@@ -54,16 +54,7 @@ export default function Home() {
     if (!q) return items;
 
     return items.filter((s) => {
-      const haystack = [
-        s.title,
-        s.overview,
-        (s.genres ?? []).join(" "),
-        s.year,
-      ]
-        .filter(Boolean)
-        .join(" ")
-        .toLowerCase();
-      return haystack.includes(q);
+      return s.title.toLowerCase().includes(q);
     });
   }, [items, query]);
 
@@ -190,7 +181,7 @@ export default function Home() {
                   <input
                     type="text"
                     value={query}
-                    placeholder="Search titles, genres, year..."
+                    placeholder="Search titles..."
                     onChange={(e) => {
                       setQuery(e.target.value);
                       setRequestState("idle");
