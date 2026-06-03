@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+
+# Explicitly allow Google advertising crawlers
+User-agent: AdsBot-Google
+Allow: /
+
+User-agent: Mediapartners-Google
+Allow: /
