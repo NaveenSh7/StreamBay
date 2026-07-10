@@ -1,6 +1,6 @@
 "use client";
 
-import { useCallback, useEffect, useMemo, useState } from "react";
+import { useCallback, useEffect, useMemo, useRef, useState } from "react";
 import type { ShowData } from "@/data/anime";
 
 type ShowPlayerProps = {
@@ -8,6 +8,8 @@ type ShowPlayerProps = {
 };
 
 export default function ShowPlayer({ show }: ShowPlayerProps) {
+  const playerContainerRef = useRef<HTMLDivElement | null>(null);
+  const iframeRef = useRef<HTMLIFrameElement | null>(null);
   const pickDefaultProvider = (embedLinks: ShowData["seasons"][number]["episodes"][number]["embed_links"]) => {
     return embedLinks.find((l) => l.provider === "Videasy")?.provider ?? embedLinks[0]?.provider ?? "";
   };
@@ -65,6 +67,7 @@ export default function ShowPlayer({ show }: ShowPlayerProps) {
       : "",
   );
   const [autoplayEnabled, setAutoplayEnabled] = useState(true);
+  const [isFullscreen, setIsFullscreen] = useState(false);
 
   const providerUrl = useMemo(() => {
     if (!selectedEpisodeData) return "";
@@ -83,6 +86,74 @@ export default function ShowPlayer({ show }: ShowPlayerProps) {
       return "";
     }
   }, [providerUrl]);
+
+  const fullscreenDocument = document as Document & {
+    webkitFullscreenElement?: Element | null;
+    mozFullScreenElement?: Element | null;
+    msFullscreenElement?: Element | null;
+    webkitExitFullscreen?: () => Promise<void>;
+    mozCancelFullScreen?: () => Promise<void>;
+    msExitFullscreen?: () => Promise<void>;
+  };
+
+  const getFullscreenElement = () => {
+    return (
+      fullscreenDocument.fullscreenElement ??
+      fullscreenDocument.webkitFullscreenElement ??
+      fullscreenDocument.mozFullScreenElement ??
+      fullscreenDocument.msFullscreenElement ??
+      null
+    );
+  };
+
+  const toggleFullscreen = useCallback(async () => {
+    const container = playerContainerRef.current;
+    const iframe = iframeRef.current;
+    const target = iframe ?? container;
+    if (!target) return;
+
+    const fullscreenTarget = target as HTMLElement & {
+      webkitRequestFullscreen?: () => Promise<void>;
+      mozRequestFullScreen?: () => Promise<void>;
+      msRequestFullscreen?: () => Promise<void>;
+    };
+
+    if (getFullscreenElement()) {
+      const exitFullscreen =
+        fullscreenDocument.exitFullscreen ??
+        fullscreenDocument.webkitExitFullscreen ??
+        fullscreenDocument.mozCancelFullScreen ??
+        fullscreenDocument.msExitFullscreen;
+
+      if (exitFullscreen) {
+        await exitFullscreen.call(fullscreenDocument);
+      }
+      return;
+    }
+
+    const requestFullscreen =
+      fullscreenTarget.requestFullscreen ??
+      fullscreenTarget.webkitRequestFullscreen ??
+      fullscreenTarget.mozRequestFullScreen ??
+      fullscreenTarget.msRequestFullscreen;
+
+    if (requestFullscreen) {
+      await requestFullscreen.call(fullscreenTarget);
+    }
+  }, []);
+
+  useEffect(() => {
+    const handleFullscreenChange = () => {
+      setIsFullscreen(Boolean(getFullscreenElement()));
+    };
+
+    handleFullscreenChange();
+    document.addEventListener("fullscreenchange", handleFullscreenChange);
+
+    return () => {
+      document.removeEventListener("fullscreenchange", handleFullscreenChange);
+    };
+  }, []);
 
   const goToNextEpisode = useCallback(() => {
     if (!selectedSeasonData || !selectedEpisodeData) return;
@@ -160,16 +231,29 @@ export default function ShowPlayer({ show }: ShowPlayerProps) {
           ) : null}
         </div>
 
-        <div className="overflow-hidden rounded-xl border border-zinc-800 bg-black">
+        <div
+          ref={playerContainerRef}
+          className="relative overflow-hidden rounded-xl border border-zinc-800 bg-black"
+        >
           {providerUrl ? (
-            <iframe
-              key={providerUrl}
-              src={providerUrl}
-              title={`${show.metadata.title} player`}
-              allow="autoplay; fullscreen; picture-in-picture"
-              allowFullScreen
-              className="aspect-video w-full"
-            />
+            <>
+              <iframe
+                ref={iframeRef}
+                key={providerUrl}
+                src={providerUrl}
+                title={`${show.metadata.title} player`}
+                allow="autoplay; fullscreen; picture-in-picture"
+                allowFullScreen
+                className="block aspect-video w-full"
+              />
+              <button
+                type="button"
+                onClick={toggleFullscreen}
+                className="absolute right-3 top-3 rounded-full border border-zinc-700 bg-zinc-950/80 px-3 py-1 text-[11px] font-medium text-zinc-100 shadow-lg backdrop-blur transition hover:border-sky-500 hover:text-sky-200"
+              >
+                {isFullscreen ? "Exit fullscreen" : "Fullscreen"}
+              </button>
+            </>
           ) : (
             <div className="flex aspect-video items-center justify-center text-sm text-zinc-500">
               No playable source available.
