@@ -10,8 +10,18 @@ type ShowPlayerProps = {
 export default function ShowPlayer({ show }: ShowPlayerProps) {
   const playerContainerRef = useRef<HTMLDivElement | null>(null);
   const iframeRef = useRef<HTMLIFrameElement | null>(null);
+  // Videasy hijacks the first click on its play button to pop an ad tab (usually
+  // silently blocked by the browser), so playback only starts on a second click and
+  // the player looks broken. Prefer providers that don't do this; fall back to
+  // Videasy only if nothing else is available.
+  const PREFERRED_PROVIDER_ORDER = ["VidLink.pro", "VidSrc.cc  (v2)", "VidSrc.cc  (v3)", "Videasy"];
+
   const pickDefaultProvider = (embedLinks: ShowData["seasons"][number]["episodes"][number]["embed_links"]) => {
-    return embedLinks.find((l) => l.provider === "Videasy")?.provider ?? embedLinks[0]?.provider ?? "";
+    for (const name of PREFERRED_PROVIDER_ORDER) {
+      const match = embedLinks.find((l) => l.provider === name);
+      if (match) return match.provider;
+    }
+    return embedLinks[0]?.provider ?? "";
   };
 
   const withAutoplay = (url: string, enabled: boolean) => {
@@ -276,6 +286,12 @@ export default function ShowPlayer({ show }: ShowPlayerProps) {
             </button>
           ))}
         </div>
+        {selectedProvider === "Videasy" ? (
+          <p className="text-xs text-amber-400">
+            Videasy&apos;s player intercepts the first click on play to open an ad tab
+            — if playback doesn&apos;t start, click play again.
+          </p>
+        ) : null}
 
         <label className="inline-flex w-fit items-center gap-2 text-xs text-zinc-300">
           <input
